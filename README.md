@@ -33,7 +33,7 @@ Berdasarkan hasil eksperimen, model HMM dengan Algoritma Baum Welch pada tugas P
 
 ### Project Description
 
-This project is part of my undergraduate thesis, focusing on the implementation of Part-of-Speech (POS) Tagging for Javanese text data (Ngoko & Krama) using the Hidden Markov Model (HMM) with the Baum Welch Algorithm. The goal is to evaluate the accuracy of HMM in POS Tagging tasks.
+This project is part of my undergraduate thesis, focusing on the implementation of Part of Speech (POS) Tagging for Javanese text data (Ngoko & Krama) using the Hidden Markov Model (HMM) with the Baum Welch Algorithm. The goal is to evaluate the accuracy of HMM in POS Tagging tasks.
 
 ### Main Features
 
