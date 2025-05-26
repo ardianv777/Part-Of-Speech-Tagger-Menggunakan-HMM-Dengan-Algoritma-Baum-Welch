@@ -1,0 +1,1000 @@
+Bocah/NOUN kuwi/DET seneng/VERB nggambar/VERB sesawangan/NOUN sing/PRON asri/ADJ ./PUNCT 
+Ing/ADP wayah/NOUN sore/NOUN biasane/ADV Siti/PROPN sinau/VERB ,/PUNCT kangmase/_ kangmas/NOUN e/PRON maca/VERB koran/NOUN ,/PUNCT lan/CCONJ adhine/_ adhi/NOUN e/PRON dolan/VERB neng/ADP pekarangan/NOUN ./PUNCT 
+Mbakyune/_ Mbakyu/NOUN e/PRON seneng/VERB nglangi/VERB ,/PUNCT nanging/CCONJ adhine/_ adhi/NOUN e/PRON ora/PART seneng/VERB ./PUNCT 
+Ibu/NOUN kuwi/DET ngendikakake/VERB yen/SCONJ putrane/_ putra/NOUN e/PRON mbarep/ADJ wis/AUX nyambut/VERB gawe/VERB ./PUNCT 
+Nonton/VERB tivi/NOUN bisa/AUX njembarake/VERB kawruh/NOUN ,/PUNCT nanging/CCONJ uga/ADV bisa/AUX nyebabake/VERB kesed/ADJ yen/SCONJ anggone/SCONJ nonton/VERB nyandu/VERB ./PUNCT 
+Yen/SCONJ kowe/PRON sinau/VERB basa/NOUN ,/PUNCT kudu/AUX tlaten/ADJ lan/CCONJ sregep/ADJ latihan/VERB ./PUNCT 
+Generasi/NOUN mudha/ADJ saiki/ADV luwih/ADV kulina/VERB ngomong/VERB nganggo/VERB basa/NOUN Indonesia/PROPN katimbang/SCONJ nganggo/VERB basa/NOUN Jawa/PROPN ./PUNCT 
+Bapak/NOUN tindak/VERB menyang/ADP Surabaya/PROPN ./PUNCT 
+Adhine/_ Adhi/NOUN e/PRON sinau/VERB neng/ADP perpustakaan/X ./PUNCT 
+Ibu/NOUN maringi/VERB aku/PRON kalung/NOUN ./PUNCT 
+Dheweke/PRON arep/AUX manggon/VERB neng/ADP asrama/NOUN ./PUNCT 
+Dheweke/PRON turu/VERB neng/ADP hotel/NOUN ./PUNCT 
+Bocah/NOUN kuwi/DET nyambut/VERB gawe/VERB karo/SCONJ guyon/VERB ./PUNCT 
+Dheweke/PRON mlaku/VERB kanthi/ADP alon-alon/ADJ ./PUNCT 
+Tukokna/VERB buku/NOUN ya/PART ora/PART diwaca/VERB ./PUNCT 
+Jupukna/VERB wedang/NOUN ya/PART ora/PART diombe/VERB ./PUNCT 
+Mau/ADV anakmu/_ anak/NOUN mu/PRON turokna/VERB neng/ADP kamar/NOUN ,/PUNCT ora/PART kebribinen/VERB ./PUNCT 
+Berase/_ Beras/NOUN e/DET mau/ADV wadhahna/VERB karung/NOUN ,/PUNCT ora/PART mamit-mawut/ADJ ./PUNCT 
+Kandhanana/VERB ya/PART ora/PART kapok/ADJ ,/PUNCT dasar/INTJ bocah/NOUN nakal/ADJ ./PUNCT 
+Wenehana/VERB dhuwit/NOUN ya/PART ora/PART gelem/VERB ./PUNCT 
+Wingi/ADV ombenana/VERB banyu/NOUN tawa/ADJ ,/PUNCT rak/ADV malah/ADV urip/VERB ./PUNCT 
+Mau/ADV sangonana/VERB rak/ADV ya/PART gelem/VERB ./PUNCT 
+Dalane/_ Dalan/NOUN e/DET ambakke/VERB !/PUNCT 
+Kembange/_ Kembang/NOUN e/DET pethiki/VERB !/PUNCT 
+Kunceni/VERB lawange/_ lawang/NOUN e/DET !/PUNCT 
+Resiki/VERB mejane/_ meja/NOUN e/DET !/PUNCT 
+Teka-teka/VERB wis/AUX rampungan/VERB kabeh/PRON ./PUNCT 
+Tangi-tangi/VERB ,/PUNCT bareng/ADV wis/AUX jam/NOUN pitu/NUM ./PUNCT 
+Weruh-weruh/VERB ,/PUNCT dheweke/PRON wis/AUX ana/VERB kene/ADV ./PUNCT 
+Wis/AUX bengi/NOUN ,/PUNCT kok/ADV durung/PART mulih-mulih/VERB ./PUNCT 
+Ngombe-ngombe/VERB es/NOUN ki/DET ,/PUNCT mbok/PART mengko/ADV yen/SCONJ wis/AUX awan/NOUN ./PUNCT 
+Leren-leren/VERB kuwi/DET ,/PUNCT mbok/PART mengko/ADV yen/SCONJ gaweane/_ gawean/NOUN e/PRON wis/AUX rampung/VERB ./PUNCT 
+Mumpung/ADV sela/ADJ ,/PUNCT mbok/PRON adus-adus/VERB dhisik/ADV !/PUNCT 
+Yen/SCONJ ngelak/ADJ ,/PUNCT mbok/PRON ngombe-ngombe/VERB kana/ADV !/PUNCT 
+Dheweke/PRON mbukak/VERB lawang/NOUN ./PUNCT 
+Adhikku/_ Adhik/NOUN ku/PRON nggawa/VERB kranjang/NOUN blanjan/NOUN ./PUNCT 
+Ibu/NOUN nukokake/VERB komputer/NOUN adhikku/_ adhik/NOUN ku/PRON ./PUNCT 
+Simon/PROPN njupukake/VERB klambi/NOUN anake/_ anak/NOUN e/DET ./PUNCT 
+Budhe/PROPN Sri/PROPN nggawekake/VERB jenang/NOUN sumsum/NOUN bapak/NOUN ./PUNCT 
+Yu/PROPN Walidah/PROPN dodolan/VERB tempe/NOUN ./PUNCT 
+Ibu/NOUN lagi/AUX olah/VERB iwak/NOUN ./PUNCT 
+Mbah/PROPN Satinem/PROPN lagi/AUX ider/VERB jangan/NOUN ./PUNCT 
+Bojone/_ Bojo/NOUN e/PRON mlaku-mlaku/VERB ./PUNCT 
+Simin/PROPN ngampleng/VERB kancane/_ kanca/NOUN e/PRON ./PUNCT 
+Daginge/_ Daging/NOUN e/DET diiris/VERB tipis-tipis/ADJ ./PUNCT 
+Anake/_ Anak/NOUN e/PRON kwalon/ADJ diopeni/VERB kanthi/ADP apik/ADJ ./PUNCT 
+Klambine/_ Klambi/NOUN e/DET dijahitake/VERB neng/ADP penjahit/X "/PUNCT Abadi/PROPN "/PUNCT ./PUNCT 
+Anake/_ Anak/NOUN e/PRON dakwenwehi/_ dak/PRON wenwehi/VERB dhuwit/NOUN ./PUNCT 
+Piringe/_ Piring/NOUN e/DET sing/PRON anyar/ADJ taktibake/_ tak/PRON tibake/VERB ./PUNCT 
+Rene/PRON ,/PUNCT bukune/_ buku/NOUN e/DET takwacakne/_ tak/PRON wacak/VERB e/DET ./PUNCT 
+Wis/AUX ,/PUNCT anakmu/_ anak/NOUN mu/PRON takopenane/_ tak/PRON openan/VERB e/DET ./PUNCT 
+Gethukku/_ Gethuk/NOUN ku/PRON kokpangan/_ kok/PRON pangan/VERB ta/PART ?/PUNCT 
+Anakmu/_ Anak/NOUN mu/PRON aja/PART kokturokake/_ kok/PRON turokake/VERB kono/ADV !/PUNCT 
+Bukuku/_ Buku/NOUN ku/PRON sing/PRON ilang/VERB wis/AUX ketemu/VERB ./PUNCT 
+Kembange/_ Kembang/NOUN e/DET kajupuk/VERB dening/ADP putri/NOUN Ambarwati/PROPN ./PUNCT 
+Raden/PROPN Gathotkaca/PROPN kaparingan/VERB pusaka/NOUN dening/ADP ingkang/DET Rama/PROPN ./PUNCT 
+Tamune/_ Tamu/NOUN e/DET kalenggahake/VERB neng/ADP pendhapa/NOUN ./PUNCT 
+Pusaka/NOUN mau/ADV lumepas/VERB saka/ADP astane/_ asta/NOUN e/PRON ./PUNCT 
+Kita/PRON kudu/AUX mong-kinemong/VERB antarane/_ antara/NOUN e/DET siji/NUM lan/CCONJ sijine/_ siji/NUM e/DET ./PUNCT 
+Aku/PRON karo/CCONJ dheweke/PRON kuwi/DET isih/ADV ana/VERB sesambungan/NOUN kula/NOUN warga/X ./PUNCT 
+Sarasehan/NOUN bisa/AUX dadi/VERB wadhah/NOUN tukar/VERB kawruh/NOUN antarane/_ antara/NOUN e/DET para/DET rawuh/NOUN ./PUNCT 
+Para/DET panyarta/NOUN lomba/NOUN kudu/AUX bisa/AUX adu/VERB pinter/ADJ ./PUNCT 
+Yen/SCONJ kepingin/VERB apik/ADJ ,/PUNCT ya/PART kudu/AUX padha-padha/ADJ ngalah/VERB ./PUNCT 
+Saduninge/ADP jam/NOUN papat/NUM sore/NOUN ,/PUNCT dheweke/PRON mesthi/AUX wis/AUX adus/VERB ./PUNCT 
+Merga/SCONJ kesel/ADJ dheweke/PRON ngasokake/VERB awak/NOUN ./PUNCT 
+Maca/VERB kuwi/DET bisa/AUX mjembarake/VERB kawruh/NOUN ./PUNCT 
+Kakehan/ADV nginum/VERB bisa/AUX ngrusak/VERB kasarasaning/NOUN badan/NOUN ./PUNCT 
+Ndedonga/VERB utawa/CCONJ nenuwun/VERB kudu/AUX linambaran/VERB ati/NOUN kang/PRON manteb/ADJ ./PUNCT 
+Taun/NOUN iki/DET pamarentah/NOUN ngundhakake/VERB rega/NOUN bensin/NOUN ./PUNCT 
+Saben/DET dina/NOUN dheweke/PRON mangan/VERB sarta/CCONJ turu/VERB ing/ADP omahe/_ omah/NOUN e/DET Pak/PROPN Harnowo/PROPN ./PUNCT 
+Urang/NOUN windu/NOUN mau/ADV bakal/AUX diekspor/VERB menyang/ADP Hongkong/PROPN ./PUNCT 
+Saben/DET esuk/NOUN Pak/PROPN Hamid/PROPN nyoba/VERB nyopir/VERB ./PUNCT 
+Dheweke/PRON ora/PART ngulinakake/VERB ceceleng/VERB utawa/CCONJ keklumpuk/VERB ./PUNCT 
+Bu/PROPN Santi/PROPN ngajari/VERB nggamel/VERB murid-muride/NOUN ./PUNCT 
+Kejaba/ADV Parjilan/PROPN ,/PUNCT muride/_ murid/NOUN e/DET Pak/PROPN Haryono/PROPN sregep-sregep/ADJ ./PUNCT 
+Jambune/_ Jambu/NOUN e/DET cilik-cilik/ADJ amarga/SCONJ wite/_ wit/NOUN e/DET ora/PART tau/ADV dirabuk/VERB ./PUNCT 
+Pelamar/NOUN sing/PRON pinter-pinter/ADJ ditampa/VERB ing/ADP kantor/NOUN Puspitek/PROPN ./PUNCT 
+Daging/NOUN sing/PRON tipis-tipis/ADJ mau/ADV dimasak/VERB bestik/NOUN ./PUNCT 
+Wis/AUX adoh-adoh/ADJ ,/PUNCT malah/ADV dikon/VERB bali/VERB ./PUNCT 
+Sirahku/_ Sirah/NOUN ku/PRON ngelu-ngelu/ADJ jalaran/SCONJ kerep/ADV kurang/ADV turu/VERB ./PUNCT 
+Saben/DET kentekan/NOUN obat/NOUN sirahku/_ sirah/NOUN ku/PRON mumat-mumet/ADJ ./PUNCT 
+Bocah/NOUN saiki/ADV yen/SCONJ dikon/VERB sinau/VERB racake/ADV klelar-kleler/ADJ ./PUNCT 
+Wong/NOUN kuwi/DET omongane/_ omongan/NOUN e/PRON klemak-klemek/ADJ yen/SCONJ diajak/VERB guneman/VERB ./PUNCT 
+Kathok/NOUN wis/AUX rowak-rawek/ADJ wae/ADV isih/ADV dienggo/VERB neng/ADP endi-endi/NOUN ./PUNCT 
+Wingi/ADV sore/NOUN Tami/PROPN mbebeda/VERB adhine/_ adhi/NOUN e/PRON nganti/SCONJ kekejer/VERB ./PUNCT 
+Pak/PROPN Kartono/PROPN tau/ADV ngajar/VERB tanggane/_ tangga/NOUN e/PRON nganti/SCONJ kekejek/VERB ./PUNCT 
+Sanajan/SCONJ pinter/ADJ banget/ADV ,/PUNCT Surono/PROPN ora/PART tau/ADV kuminter-pinter/VERB ./PUNCT 
+Sawise/SCONJ lara/ADJ mataun-taun/NOUN ,/PUNCT ragane/_ raga/NOUN e/PRON Pak/PROPN Kartijo/PROPN mentelas/VERB ./PUNCT 
+Letnan/PROPN Surojo/PROPN ora/PART angkuh/ADJ babar/ADV pisan/ADV ./PUNCT 
+Ula/NOUN kang/PRON duawa/ADJ mau/ADV dicekel/VERB banjur/ADV dilebokake/VERB ing/ADP karung/NOUN ./PUNCT 
+Dheweke/PRON kudu/AUX tumindak/VERB sajujur-jujure/ADV supaya/SCONJ dipercaya/VERB dening/ADP masarakat/NOUN ./PUNCT 
+Surtinah/PROPN ora/PART bisa/AUX mlaku/VERB rikat/ADJ amarga/SCONJ awake/_ awak/NOUN e/PRON kelemon/ADJ ./PUNCT 
+Wetenge/_ Weteng/NOUN e/DET Haryani/PROPN mules/ADJ amarga/SCONJ olehe/SCONJ mangan/VERB sambel/NOUN kakehan/ADV ./PUNCT 
+Sawise/SCONJ duwe/VERB anak/NOUN ,/PUNCT kulawargane/_ kulawarga/NOUN e/DET Karmani/PROPN saya/ADV tentrem/ADJ ./PUNCT 
+Rega/NOUN emas/NOUN saya/ADV suwe/ADJ saya/ADV larang/ADJ ./PUNCT 
+Saiki/ADV dheweke/PRON rada/ADV kuru/ADJ amarga/SCONJ kurang/ADV mangan/VERB ./PUNCT 
+Godhong/NOUN gedhang/NOUN mau/ADV wernane/_ werna/NOUN e/PRON semu/ADV kuning/ADJ amarga/SCONJ kena/VERB sunaring/NOUN rembulan/NOUN ./PUNCT 
+Pekarangane/_ Pekarangan/NOUN e/DET Pak/PROPN Daliyo/PROPN padha/ADJ jembare/_ jembar/NOUN e/DET karo/ADP lapangan/NOUN ./PUNCT 
+Sartono/PROPN luwih/ADV pinter/ADJ katimbang/ADP adhine/_ adhi/NOUN e/PRON ./PUNCT 
+Piyambake/PRON criyos/VERB yen/SCONJ tiyang/NOUN sepuhe/_ sepuh/ADJ e/PRON mboten/PART saged/AUX tindak/VERB mriki/ADV ./PUNCT 
+Balai/PROPN Bahasa/PROPN Provinsi/PROPN DIY/PROPN dumugi/ADP samangke/NOUN taksih/ADV angleksanakaken/VERB visi/NOUN lan/CCONJ misi/NOUN ingkang/PRON sampun/AUX dipuntemtokaken/VERB ,/PUNCT inggih/AUX menika/DET andadosaken/VERB punjering/NOUN informasi/NOUN ingkang/PRON lengkap/ADJ lan/CCONJ dados/VERB layanan/NOUN ingkang/PRON sae/ADJ ing/ADP bab/ADP basa/NOUN lan/CCONJ sastra/NOUN ,/PUNCT mliginipun/ADV wonten/VERB Daerah/PROPN Istimewa/PROPN Yogyakarta/PROPN utawi/CCONJ saged/AUX ugi/ADV wonten/VERB Indonesia/PROPN ./PUNCT 
+Buku-buku/NOUN ingkang/PRON kacithak/VERB kadosta/ADP buku/NOUN ingkang/PRON asesirah/VERB Ngoko/PROPN Krama/PROPN anggitanipun/_ anggitan/NOUN ipun/PRON Suwadji/PROPN menika/DET ngemot/VERB bab/ADP tembung-tembung/NOUN ngoko/ADJ ingkang/PRON wonten/VERB kramanipun/_ krama/ADJ ipun/DET ,/PUNCT krama/ADJ inggilipun/_ inggil/ADJ ipun/DET ,/PUNCT utawi/CCONJ krama/ADJ andhapipun/_ andhap/ADJ ipun/DET ./PUNCT 
+Inggih/INTJ awit/ADP saking/ADP bab/ADP punika/PRON ,/PUNCT basa/NOUN Jawi/PROPN lajeng/ADV ketingal/VERB boten/PART kados/ADP samestinipun/_ samesti/NOUN ipun/DET ./PUNCT 
+Malah/ADV ,/PUNCT saperangan/DET masyarakat/NOUN ,/PUNCT mliginipun/ADV para/DET nem-neman/NOUN ,/PUNCT sami/ADJ ajrih/SCONJ ngginakaken/VERB basa/NOUN Jawi/PROPN ,/PUNCT kuwatos/ADJ menawi/SCONJ dados/VERB gegujenganipun/_ gegujengan/NOUN ipun/DET tiyang/NOUN sanes/ADJ ./PUNCT 
+Umpaminipun/_ Umpami/NOUN ipun/DET ,/PUNCT tembung/NOUN sumur/NOUN ,/PUNCT gelas/NOUN ,/PUNCT lan/CCONJ kursi/NOUN ./PUNCT 
+Apa/PRON tegese/_ teges/NOUN e/DET tembung/NOUN ngoko/ADJ ?/PUNCT 
+Lire/ADV ,/PUNCT yen/SCONJ tembung/NOUN ngoko/ADJ kena/AUX tegese/_ teges/VERB e/DET ora/PART ngurmati/VERB ,/PUNCT tembung/NOUN krama/ADJ mengku/VERB teges/NOUN ngurmati/VERB utawa/CCONJ luwih/ADV ngajeni/VERB ./PUNCT 
+Cethane/ADJ meneh/ADV tembung/NOUN beda/VERB karo/ADP basa/NOUN ./PUNCT 
+Adhedhasar/VERB undha-usuk/NOUN panganggone/_ panganggo/NOUN e/DET ,/PUNCT sing/PRON pokok/ADV basa/NOUN Jawa/PROPN dipilahke/VERB dadi/VERB rong/NUM tataran/NOUN ,/PUNCT yaiku/AUX basa/NOUN ngoko/ADJ lan/CCONJ basa/NOUN krama/ADJ ./PUNCT 
+Tembung/NOUN ngoko/ADJ iku/DET cacahe/_ cacah/NOUN e/DET akeh/ADJ banget/ADV ,/PUNCT malah/ADV kena/AUX diarani/VERB akeh/ADJ dhewe/DET ing/ADP antarane/_ antara/NOUN e/PRON tembung-tembung/NOUN liyane/_ liya/ADJ e/PRON ./PUNCT 
+Saperangan/PRON bisa/AUX dititeni/VERB sarana/NOUN titikan/NOUN kaya/SCONJ sing/PRON wis/AUX diterangake/VERB ing/ADP dhuwur/NOUN ,/PUNCT dene/ADV tembung/NOUN krama/ADJ sing/PRON liyane/_ liya/ADJ e/DET ditentokake/VERB adhedhasar/VERB panganggepe/_ panganggep/NOUN e/DET masyarakat/NOUN ./PUNCT 
+Tetelune/_ Tetelu/NUM e/DET dianggep/VERB ora/PART mathuk/ADJ yen/SCONJ dianggo/VERB guneman/VERB ing/ADP basa/NOUN Jawa/PROPN sing/PRON samestine/ADV awit/SCONJ ana/VERB tembung/NOUN liyane/_ liya/ADJ e/DET sing/PRON dianggep/VERB luwih/ADV mapan/ADJ utawa/CCONJ luwih/ADV becik/ADJ ./PUNCT 
+Mula/ADV saka/ADP iku/PRON ,/PUNCT cacahe/_ cacah/NOUN e/PRON tembunge/_ tembung/NOUN e/PRON winates/ADJ ,/PUNCT upamane/_ upama/NOUN e/DET ,/PUNCT ing/ADP tembung-tembung/NOUN sing/PRON mretelakake/VERB pakaryan/NOUN (/PUNCT sare/VERB ,/PUNCT dhahar/VERB ,/PUNCT wungu/VERB )/PUNCT ,/PUNCT perangane/_ perangan/NOUN e/PRON awak/NOUN (/PUNCT grana/NOUN ,/PUNCT asta/NOUN ,/PUNCT rikma/NOUN )/PUNCT ,/PUNCT tata/NOUN pernah/NOUN (/PUNCT panjenengan/PRON ,/PUNCT rayi/NOUN ,/PUNCT eyang/NOUN )/PUNCT ,/PUNCT barang/NOUN darbe/NOUN utawa/CCONJ panganggo/NOUN (/PUNCT dalem/NOUN ,/PUNCT asma/NOUN ,/PUNCT lancingan/NOUN )/PUNCT ./PUNCT 
+Mung/ADV bae/ADV ,/PUNCT beda/VERB carane/_ cara/NOUN e/DET ./PUNCT 
+Contone/_ Conto/NOUN e/DET :/PUNCT matur/VERB ,/PUNCT nyuwun/VERB ,/PUNCT lan/CCONJ nyaosi/VERB ./PUNCT 
+Mula/ADV saka/ADP iku/PRON ,/PUNCT basa/NOUN krama/ADJ kena/AUX dibedakake/VERB antarane/_ antara/NOUN e/PRON sing/PRON alus/ADJ lan/CCONJ sing/PRON kurang/ADV alus/ADJ ./PUNCT 
+Ing/ADP pamulangan/NOUN basa/NOUN krama/ADJ dipilah-pilahake/VERB dadi/VERB telung/NUM tataran/NOUN ,/PUNCT yaiku/AUX ,/PUNCT saka/ADP ngisor/NOUN mendhuwur/NOUN ,/PUNCT wredha/ADJ krama/ADJ ,/PUNCT kramantara/ADJ ,/PUNCT lan/CCONJ mudha/ADJ krama/ADJ ./PUNCT 
+Rancake/DET masyarakat/NOUN wis/AUX padha/ADJ ngerti/VERB sing/PRON diarani/VERB tembung-tembung/NOUN iku/DET ,/PUNCT nanging/CCONJ sing/PRON akeh/ADJ dheweke/PRON dimangerteni/VERB yaiku/AUX tembung/NOUN ngoko/ADJ ./PUNCT 
+Bab/ADP iku/PRON jumbuh/ADJ karo/ADP arane/NOUN tembung/NOUN krama/ADJ inggil/ADJ ,/PUNCT yaiku/AUX krama/ADJ kanggo/SCONJ aweh/VERB pakurmatan/NOUN marang/ADP wong/NOUN sing/PRON dikarepake/VERB kanthi/ADP cara/NOUN ngluhurake/VERB wong/NOUN iku/DET (/PUNCT inggil/ADJ :/PUNCT dhuwur/ADJ ,/PUNCT luhur/ADJ )/PUNCT ./PUNCT 
+Cacahe/NOUN tataran/NOUN pancen/ADV kepetung/ADV akeh/ADJ ./PUNCT 
+Mung/ADV bae/ADV perlu/VERB dimangerteni/VERB yen/SCONJ tembung/NOUN basa/NOUN ing/ADP pasrawungan/NOUN padha/ADJ tegese/_ teges/VERB e/DET karo/ADP tembung/NOUN krama/ADJ ./PUNCT 
+Wujude/_ Wujud/NOUN e/DET tembung/NOUN krama/ADJ andhap/ADJ uga/ADV ora/PART beda/VERB karo/ADP wujude/_ wujud/NOUN e/DET tembung/NOUN krama/ADJ inggil/ADJ sing/PRON wis/AUX diterangake/VERB ing/ADP dhuwur/NOUN ./PUNCT 
+Semana/ADV uga/ADV ancas/NOUN panggonane/_ panggonan/NOUN e/DET ora/PART beda/VERB karo/ADP tembung/NOUN sing/PRON pantes/ADJ kinurmatan/NOUN utawa/CCONJ ingajenan/NOUN ./PUNCT 
+Mangke/ADV sonten/NOUN ,/PUNCT menawi/SCONJ siyos/VERB ,/PUNCT kula/PRON badhe/AUX kesah/VERB dhateng/VERB Surabaya/PROPN ./PUNCT 
+Tembung/NOUN krama/ADJ inggil/ADJ digunakake/VERB kanggo/SCONJ ngluhurake/VERB wong/NOUN sing/PRON dikarepake/VERB ,/PUNCT dene/ADV tembung/NOUN krama/ADJ andhap/ADJ digunakake/VERB kanggo/SCONJ ngasorake/VERB dhiri/NOUN pribadine/_ pribadi/NOUN e/DET wong/NOUN sing/PRON guneman/VERB utawa/CCONJ sing/PRON ngurmati/VERB (/PUNCT andhap/ADJ :/PUNCT cendhek/ADJ ,/PUNCT asor/ADJ )/PUNCT ./PUNCT 
+Para/DET warga/NOUN padha/ADJ metu/VERB karo/SCONJ nggawani/VERB sampah/NOUN sing/PRON wis/AUX dipisah/VERB antarane/_ antara/NOUN e/PRON sampah/NOUN teles/ADJ lan/CCONJ sampah/NOUN garing/ADJ ing/ADP sajroning/NOUN bak/NOUN sampah/NOUN ;/PUNCT Cecep/PROPN (/PUNCT 17/NUM )/PUNCT ,/PUNCT gaweane/_ gawean/NOUN e/PRON luwih/ADV enteng/ADJ amarga/SCONJ wis/AUX didhewekake/VERB sampahe/_ sampah/NOUN e/DET ,/PUNCT dheweke/PRON ora/PART perlu/VERB antri/VERB ./PUNCT 
+Pramila/ADV putranipun/_ putra/NOUN ipun/PRON ingkang/PRON asma/VERB Drestarastra/PROPN -/PUNCT ramanipun/_ rama/NOUN ipun/DET para/DET Korawa/PROPN ,/PUNCT miyosipun/_ miyos/VERB ipun/DET wuta/ADJ ./PUNCT 
+Sira/PRON banjur/ADV didangu/VERB sarupaning/NOUN kabungahan/NOUN paparinging/VERB Allah/PROPN nalika/ADP ing/ADP donya/NOUN ,/PUNCT ya/PART gene/PRON ora/PART padha/ADJ syukur/VERB ?/PUNCT 
+Temone/_ Temon/NOUN e/DET ing/ADP kana/ADV wujud/VERB prasasti/NOUN watu/NOUN ./PUNCT 
+Saderengipun/ADP Perang/PROPN Dunia/PROPN II/PROPN ,/PUNCT 14/NUM radio/NOUN komersial/ADJ lan/CCONJ 12/NUM radio/NOUN umum/ADJ ingkang/PRON saged/AUX dipunoperasikaken/VERB ing/ADP Prancis/PROPN ./PUNCT 
+Semana/ADV uga/ADV ing/ADP saperangan/DET perkutut/NOUN kagem/ADP bapak/NOUN ./PUNCT 
+Kriteria/X punika/DET kedah/AUX dipunterapaken/VERB ing/ADP konsekuensi-konsekuensi/X ingkang/PRON timbul/VERB saking/ADP putusan-putusan/NOUN etis/X ./PUNCT 
+Paulus/PROPN nyebut/VERB dheknene/_ dhekne/PRON e/PRON minangka/ADP "/PUNCT rasul/NOUN kanggo/ADP bangsa-bangsa/NOUN non-Yahudi/PROPN "/PUNCT (/PUNCT Roma/PROPN 11/NUM :/PUNCT 13/NUM )/PUNCT ./PUNCT 
+Jenenge/_ Jeneng/NOUN e/PRON disebutake/VERB kaping/ADJ 27/NUM ing/ADP Al-Quran/PROPN ./PUNCT 
+Tuladha/NOUN :/PUNCT sepira/ADV dhuwurmu/_ dhuwur/NOUN mu/PRON ?/PUNCT 
+Ngudhunake/VERB tekanan/X darah/X ./PUNCT 
+Punika/PRON nampung/VERB tradhisi/NOUN lawas/ADJ saking/ADP aturan/NOUN institusi/NOUN gabungan/ADJ ing/ADP Swiss/PROPN ./PUNCT 
+Surah/NOUN Al-Lahab/PROPN utawa/CCONJ Al-Masad/PROPN iku/DET surat/NOUN nomer/NOUN 111/NUM sajeroning/ADP Al-Qur'an/PROPN ./PUNCT 
+Miturut/VERB American/PROPN Opera/PROPN Association/PROPN ,/PUNCT Rigoletto/PROPN inggih/AUX punika/DET opera/NOUN nomer/NOUN 9/NUM ingkang/PRON paling/ADV asring/ADV dipuntontonaken/VERB ing/ADP Amerika/PROPN Utara/PROPN ./PUNCT 
+Presidhen/PROPN Indonesia/PROPN (/PUNCT 1974/NUM )/PUNCT ./PUNCT 
+Dina/PROPN Abasa/PROPN Bali/PROPN adate/_ adat/NOUN e/DET lumaku/VERB mligi/ADV ing/ADP tataran/NOUN pamulangan/NOUN ./PUNCT 
+ASP.NET/PROPN saged/AUX minangka/ADP mêdhar/NOUN piguna/NOUN bisnis/X ing/ADP partner/X lumantar/ADP protokol/X web/X standar/X ./PUNCT 
+Pamarentahanipun/_ Pamarentahan/NOUN ipun/DET dipunlengseraken/VERB rakyat/NOUN wonten/VERB ing/ADP revolusi/NOUN people/X power/X (/PUNCT kekiyatan/NOUN rakyat/NOUN )/PUNCT ingkang/PRON dipunkenal/VERB kanthi/ADP jejuluk/NOUN Revolusi/PROPN EDSA/PROPN II/PROPN ./PUNCT 
+Potter/PROPN asring/ADV nggatosaken/VERB kewan-kewan/NOUN punika/DET ngantos/ADP pinten-pinten/DET jam/NOUN lan/CCONJ damel/VERB gambaripun/_ gambar/NOUN ipun/PRON ./PUNCT 
+Nelson/PROPN Mandela/PROPN ,/PUNCT Presidhen/NOUN Afrika/PROPN Selatan/PROPN ./PUNCT 
+Sastra/PROPN dan/PROPN Religiositas/PROPN mimpangaken/VERB bebingah/NOUN buku/NOUN non-fiksi/X paling/ADV sae/ADJ taun/NOUN 1982/NUM ./PUNCT 
+Lumantar/ADP Mantri/NOUN Luar/NOUN Negeri/NOUN Alwi/PROPN Shihab/PROPN ,/PUNCT Presidhen/PROPN gagal/VERB nyegah/VERB prekawis/NOUN punika/DET dhateng/VERB pulisi/NOUN ./PUNCT 
+Minangka/ADP Go-on/PROPN Red/PROPN ,/PUNCT seranganipun/_ serangan/NOUN ipun/PRON inggih/AUX punika/DET serangan/NOUN ingkang/PRON rikat/ADJ sanget/ADV lan/CCONJ rencangipun/_ rencang/NOUN ipun/PRON inggih/AUX punika/DET Speedor/PROPN ./PUNCT 
+Gunggung/NOUN subunit/X isa/AUX macem-macem/NOUN malah/ADV ning/ADP sel/NOUN kang/PRON padha/ADJ contone/_ conto/NOUN e/DET ning/ADP Salmonella/PROPN kang/PRON gunggung/NOUN subunite/_ subunit/X e/PRON antara/NOUN 3/NUM ,/PUNCT 4/NUM ,/PUNCT utawa/CCONJ 5/NUM ./PUNCT 
+Nalika/ADP ing/ADP Jakarta/PROPN ,/PUNCT Robby/PROPN kenalan/VERB banjur/ADV dadi/VERB "/PUNCT murid/NOUN "/PUNCT Prajudi/PROPN ./PUNCT 
+Dipunbikak/VERB taun/NOUN 2003/NUM ,/PUNCT kanthi/ADP 18.000/NUM kursi/NOUN ./PUNCT 
+Tembang/NOUN "/PUNCT She/PROPN "/PUNCT dadi/VERB puncak/NOUN tangga/NOUN tembang/NOUN Britania/PROPN ./PUNCT 
+Sawijining/DET jalur/NOUN kaping/ADJ kalih/ADJ ,/PUNCT Jalur/PROPN B/PROPN ,/PUNCT kanthi/ADP arah/NOUN lor/NOUN wetan/NOUN dumugi/ADP kidul/NOUN kulon/NOUN ,/PUNCT dipunjadwalaken/VERB dipunbikak/VERB taun/NOUN 2015/NUM ./PUNCT 
+Momotan/NOUN seri/X 705/NUM yaiku/AUX 75/NUM penumpang/X ./PUNCT 
+Kahanan/NOUN kekirangan/NOUN woh/NOUN iki/DET diterangna/VERB nggunakake/VERB jinis/NOUN lan/CCONJ pathokan/NOUN tanduran/NOUN langka/ADJ miturut/VERB IUCN/PROPN Red/PROPN List/PROPN Category/PROPN tanggal/NOUN 30/NUM November/PROPN 1994/NUM ./PUNCT 
+Saben/DET makluk/NOUN bakal/AUX mati/VERB lan/CCONJ ing/ADP akhirat/NOUN bakal/AUX dijaluki/VERB tanggung/NOUN jawab/VERB prakara/NOUN amalan-amalane/_ amalan-amalan/NOUN e/PRON ./PUNCT 
+Perusahaan/NOUN Dodge/PROPN Bersaudara/PROPN tiba/VERB ing/ADP asta/NOUN istri-istri/NOUN punika/DET ,/PUNCT ingkang/PRON lajeng/ADV ngangkat/VERB Frederick/PROPN Haynes/PROPN dados/VERB presidhen/NOUN perusahaan/NOUN mau/ADV ./PUNCT 
+Tiga/NUM taun/NOUN lajeng/ADV ,/PUNCT Jockie/PROPN nggabung/VERB malih/ADV kaliyan/ADP God/PROPN Bless/PROPN ./PUNCT 
+Para/DET panantang/NOUN iki/DET mutusake/VERB yen/SCONJ beya/NOUN ekonomi/NOUN kang/PRON diperlokake/VERB kanggo/SCONJ nindak/VERB Protokol/PROPN Kyoto/PROPN isa/AUX ngancik/VERB 300/NUM milyar/NUM dollar/NOUN AS/PROPN ,/PUNCT mligi/ADV disebabake/VERB dening/ADP beya/NOUN energi/NOUN ./PUNCT 
+Yen/SCONJ dideleng/VERB saka/ADP cara/NOUN tumindake/_ tumindak/NOUN e/PRON ,/PUNCT eutanasia/X isa/AUX dibagi/VERB dadi/VERB telung/NUM bagean/NOUN ,/PUNCT yaiku/AUX eutanasia/X agresif/ADJ ,/PUNCT eutanasia/X non-agresif/ADJ ,/PUNCT lan/CCONJ eutanasia/X pasif/ADJ ./PUNCT 
+Allah/PROPN wis/AUX ndokok/VERB aku/PRON ing/ADP Indonesia/PROPN ./PUNCT 
+Pungkasanipun/ADV ,/PUNCT taun/NOUN 1964/NUM ,/PUNCT piyambakipun/PRON dipunangkat/VERB minangka/ADP Anggota/PROPN Asing/PROPN Royal/PROPN Society/PROPN ing/ADP London/PROPN ./PUNCT 
+Train/PROPN à/PROPN Grande/PROPN Vitesse/PROPN (/PUNCT dicekak/VERB TGV/PROPN )/PUNCT iku/DET sepur/NOUN rikat/ADJ Prancis/PROPN (/PUNCT basa/NOUN Prancis/PROPN :/PUNCT train/X à/X grande/X vitesse/X ,/PUNCT kang/PRON tegese/VERB sepur/NOUN rikat/ADJ )/PUNCT ./PUNCT 
+Kasunyatane/ADV ,/PUNCT nalika/ADP semana/PRON wadya/NOUN bala/NOUN Aceh/PROPN wis/AUX diantemi/VERB bali/VERB dening/ADP Portugis/PROPN ./PUNCT 
+647,5/NUM Milyar/NUM ing/ADP 31/NUM Dhesember/PROPN 2011/NUM ./PUNCT 
+Dheweke/PRON wis/AUX tau/ADV njabat/VERB Kepala/PROPN Inspeksi/PROPN Kebudayaan/PROPN ing/ADP Sumatera/PROPN ./PUNCT 
+Karyane/_ Karya/NOUN e/PRON kang/PRON paling/ADV wigati/ADJ yaiku/AUX Trilogi/PROPN Cinta/PROPN (/PUNCT 爱情的三部曲/X )/PUNCT ./PUNCT 
+Kanthi/SCONJ ulah/VERB raga/NOUN dikarepake/VERB para/DET prajurit/NOUN dadi/VERB tangkas/ADJ lan/CCONJ sregep/ADJ ing/ADP perang/NOUN ./PUNCT 
+Ingkang/PRON kapisanan/ADJ inggih/AUX punika/DET "/PUNCT analisisipun/_ analisis/X ipun/DET babagan/ADP tumindak/NOUN ngirit/VERB kluwarga/NOUN "/PUNCT ./PUNCT 
+Tembang/NOUN punika/DET dipunbektakaken/VERB dening/ADP Tommy/PROPN Edwards/PROPN lan/CCONJ dados/VERB nomer/NOUN 1/NUM sing/PRON misuwur/VERB ing/ADP taun/NOUN 1958/NUM !/PUNCT 
+EAT/PROPN ngambakake/VERB kegiyatane/_ kegiyatan/NOUN e/PRON kanthi/SCONJ ngleboni/VERB tataran/NOUN kontrak/X karo/ADP DHL/PROPN Worldwide/PROPN Express/PROPN taun/NOUN 1985/NUM ./PUNCT 
+Warnane/_ Warna/NOUN e/PRON putih/ADJ lan/CCONJ bening/ADJ ./PUNCT 
+Sauntara/ADV ing/ADP Provinsi/PROPN Papua/PROPN ,/PUNCT dingerteni/VERB sebutan/NOUN Peraturan/PROPN Laladan/PROPN Khusus/PROPN lan/CCONJ Peraturan/PROPN Laladan/PROPN Provinsi/PROPN ./PUNCT 
+(/PUNCT BBC/PROPN )/PUNCT 5/NUM -/PUNCT Gjorge/PROPN Ivanov/PROPN mimpang/VERB pemilu/NOUN presidhen/NOUN ing/ADP Makedonia/PROPN ./PUNCT 
+Piyambakipun/PRON tiyang/NOUN warga/NOUN nagari/NOUN Argentina/PROPN ./PUNCT 
+Nganti/ADP ing/ADP sawijining/DET dina/NOUN ,/PUNCT Pak/PROPN Surya/PROPN ketemu/VERB karo/ADP Sarah/PROPN ./PUNCT 
+Pesawat/X punika/DET dipunsertifikasi/VERB kapisan/ADJ taun/NOUN 1994/NUM ./PUNCT 
+Israel/PROPN lan/CCONJ Arab/PROPN sarujuk/VERB gencatan/NOUN senjata/NOUN ./PUNCT 
+Panjenenganipun/PRON miyos/VERB kanthi/ADP asma/NOUN asli/ADJ Joko/PROPN Widodo/PROPN ./PUNCT 
+1995/NUM -/PUNCT Ing/ADP Somalia/PROPN ,/PUNCT misi/NOUN perdamaian/X PBB/PROPN dipunpungkasi/VERB ./PUNCT 
+Kanthi/ADP tetulung/NOUN kabeh/PRON mau/ADV ,/PUNCT Count/PROPN Dracula/PROPN isa/AUX dirantas/VERB ./PUNCT 
+"/PUNCT Dene/ADV piyambakipun/PRON ngolah/VERB bakal/NOUN ingkang/PRON strategis/ADJ kangge/ADP kapentingan/NOUN rakyat/NOUN ,/PUNCT "/PUNCT ngendikanipun/_ ngendika/VERB ipun/DET Endriartono/PROPN ./PUNCT 
+Euryarchaeota/PROPN isa/AUX urip/VERB ing/ADP lingkungan/NOUN ekstrem/X ./PUNCT 
+Koizumi/PROPN mundur/VERB ana/VERB ing/ADP tanggal/NOUN 26/NUM September/PROPN lan/CCONJ sakpungkasane/ADV digantiake/VERB Abe/PROPN ./PUNCT 
+Nalika/ADP taun/NOUN 1999/NUM ,/PUNCT Danau/PROPN Sentarum/PROPN dikukuhake/VERB dadi/VERB taman/NOUN nasional/ADJ ./PUNCT 
+Hasan/PROPN tegese/_ teges/NOUN e/DET "/PUNCT gagah/ADJ "/PUNCT ing/ADP Basa/NOUN Arab/PROPN ./PUNCT 
+Ananging/ADV ,/PUNCT indhustri/NOUN permata/NOUN Dubai/PROPN punika/DET nglampahi/VERB dampak/NOUN saking/ADP Perang/PROPN Donya/PROPN I/PROPN ,/PUNCT lajeng/ADV Depresi/PROPN Gedhe/PROPN ing/ADP taun/NOUN 1920-an/NUM ./PUNCT 
+Ing/ADP 24/NUM Maret/PROPN ,/PUNCT dheweke/PRON nyetak/VERB rong/NUM gol/NOUN nglawan/VERB Real/PROPN Sociedad/PROPN ./PUNCT 
+Taun/NOUN 1948/NUM ,/PUNCT dheweke/PRON nglakokake/VERB reorganisasi/X Persis/PROPN kang/PRON ngalami/VERB kevakuman/X awit/ADP jaman/NOUN pendudukan/X Jepang/PROPN lan/CCONJ Perang/PROPN Kemerdekaan/PROPN ./PUNCT 
+Maskape/NOUN iki/DET ngoperasikake/VERB jaringan/X penerbangan/X tumuju/VERB 50/NUM tujuan/X ing/ADP 20/NUM nagara/NOUN ,/PUNCT kalebu/VERB penerbangan/X jarak/NOUN adoh/ADJ tumuju/VERB Afrika/PROPN Timur/PROPN ,/PUNCT Tengah/PROPN ,/PUNCT lan/CCONJ Barat/PROPN ./PUNCT 
+Maskape/NOUN iki/DET wujud/NOUN anggota/NOUN European/PROPN Low/PROPN Fares/PROPN Airline/PROPN Association/PROPN (/PUNCT ELFAA/PROPN )/PUNCT ./PUNCT 
+Ing/ADP taun/NOUN 1970-an/NUM ,/PUNCT Aznavour/PROPN sukses/VERB ing/ADP Britania/PROPN Raya/PROPN ./PUNCT 
+Bapake/_ Bapak/NOUN e/PRON yaiku/AUX pengacara/X ./PUNCT 
+Nganggo/VERB perawatan/X kang/PRON apik/ADJ ,/PUNCT kurang/ADV saka/ADP 1/NUM %/SYM mati/VERB ./PUNCT 
+Tanggal/NOUN 17/NUM September/PROPN ,/PUNCT panjupukan/NOUN gambar/NOUN ing/ADP Pasadena/PROPN ./PUNCT 
+Burger/X vegetarian/X kadang-kadang/ADV dadi/VERB panganan/NOUN vegan/X ./PUNCT 
+Kelinci/NOUN mangsuli/VERB ,/PUNCT "/PUNCT Oh/INTJ ,/PUNCT kuwi/PRON swara/NOUN manuk/NOUN Crek-crek/PROPN saka/ADP Gunung/PROPN Crek-crek/PROPN ing/ADP kana/ADV ./PUNCT "/PUNCT 
+Pira-pira/DET dhoktrin/NOUN mbedakake/VERB antarane/_ antara/NOUN e/PRON penembak/NOUN runduk/ADJ (/PUNCT sniper/X )/PUNCT lan/CCONJ penembak/NOUN jitu/X (/PUNCT marksman/X ,/PUNCT sharpshooter/X ,/PUNCT utawa/CCONJ designated/X marksman/X )/PUNCT ./PUNCT 
+Panambahan/NOUN poin/X 75/NUM %/SYM ing/ADP turnamen/X paling/ADV apik/ADJ ing/ADP lumah/NOUN suket/NOUN 12/NUM wulan/NOUN sakdurunge/ADV ./PUNCT 
+Panjenenganipun/PRON dipunkenal/VERB minangka/ADP panganggit/NOUN haiku/X paling/ADV ageng/ADJ ,/PUNCT inggih/AUX punika/DET wangun/NOUN puisi/X ing/ADP 5/NUM -/PUNCT 7/NUM -/PUNCT 5/NUM suku/X kata/X ./PUNCT 
+Nalika/ADP taun/NOUN 2006/NUM tembang/NOUN iki/DET uga/ADV digunakake/VERB ana/VERB ing/ADP saperangan/DET episode/NOUN ing/ADP serial/NOUN TV/PROPN Supernatural/PROPN ./PUNCT 
+Akeh-akehe/DET tembang/NOUN Shakur/PROPN dipunserat/VERB nganggo/VERB kekerasan/X ing/ADP ghetto/X ,/PUNCT rasisme/X ,/PUNCT prakawis/NOUN sosial/NOUN ,/PUNCT lan/CCONJ kadang/ADV padudone/_ padudon/VERB e/DET kaliyan/ADP rapper/X sanes/ADJ ./PUNCT 
+Iki/PRON wujud/NOUN jinis/NOUN kanker/NOUN paling/ADV umum/ADJ kang/PRON ditandhang/VERB kaum/NOUN wanita/NOUN ./PUNCT 
+Karakter-karakter/NOUN punika/DET namung/ADV muncul/VERB ingkang/PRON sakedhepan/ADV kemawon/ADV ,/PUNCT limrahipun/ADV ing/ADP film/NOUN utawi/CCONJ serial/NOUN House/PROPN of/PROPN Mouse/PROPN ./PUNCT 
+Ushaidi/PROPN diciptakake/VERB ing/ADP pungkasan/NOUN taun/NOUN 2007/NUM minangka/ADP respon/NOUN saking/ADP huru-hara/NOUN saksampune/ADP pemilu/NOUN ingkang/PRON kedadosan/VERB ing/ADP Kenya/PROPN ./PUNCT 
+Star/PROPN Movies/PROPN yaiku/AUX saluran/NOUN mbayar/VERB kang/PRON pertama/X ing/ADP India/PROPN ./PUNCT 
+1920/NUM -/PUNCT Hongaria/PROPN kicalan/VERB 71/NUM %/SYM teritori/NOUN lan/CCONJ 63/NUM %/SYM populasi/NOUN nalika/SCONJ Traktat/PROPN Trianon/PROPN dipuntapakastani/VERB ing/ADP Paris/PROPN ./PUNCT 
+Wonten/VERB ing/ADP ESO/PROPN piyambakipun/PRON ningali/VERB perkembangan/NOUN lan/CCONJ pembangunan/NOUN Very/PROPN Large/PROPN Telescope/PROPN ./PUNCT 
+Panjenenganipun/PRON terus/ADV makarya/VERB dugi/ADP 2/NUM taun/NOUN salajengipun/ADJ ,/PUNCT liwat/VERB 3/NUM operasi/NOUN lan/CCONJ kemoterapi/X eksperimental/X lan/CCONJ remisi/X 10/NUM wulan/NOUN ./PUNCT 
+Iridium/PROPN 33/NUM iku/DET satelit/NOUN komunikasi/NOUN Iridium/PROPN Amerika/PROPN Sarekat/PROPN ./PUNCT 
+Geolog/NOUN Inggris/PROPN John/PROPN Michell/PROPN kanthi/ADP kapisah/VERB ugi/ADV manggihaken/VERB timbangan/NOUN puntir/VERB ing/ADP taun/NOUN 1750/NUM ,/PUNCT nanging/CCONJ piyambakipun/PRON gagal/VERB migunakaken/VERB kangge/SCONJ ngukur/VERB medan/NOUN daya/NOUN tarik/VERB bumi/NOUN ./PUNCT 
+Ing/ADP taun/NOUN kapitu/ADJ kudu/AUX diluwari/VERB tanpa/SCONJ mbayar/VERB tebusan/NOUN apa-apa/PRON ./PUNCT 
+Markas/NOUN Liga/PROPN Arab/PROPN mapan/VERB ana/VERB ing/ADP Kairo/PROPN ./PUNCT 
+Nalika/ADP taun/NOUN 2002/NUM panjenengane/PRON nentang/VERB aksi/NOUN militer/NOUN '/PUNCT sepihak/ADJ '/PUNCT dening/ADP Amerika/PROPN Sarekat/PROPN ing/ADP Irak/PROPN ./PUNCT 
+Ing/ADP audhisi/X mau/ADV ,/PUNCT namung/ADV 11/NUM tiyang/NOUN ingkang/PRON dipuntampi/VERB saking/ADP 2.396/NUM tiyang/NOUN pelamar/NOUN ./PUNCT 
+Timur/NOUN 2/NUM ,/PUNCT Timur/NOUN 3/NUM ,/PUNCT lan/CCONJ Barat/NOUN 1/NUM -/PUNCT Barat/NOUN 3/NUM kabeh/PRON nglayani/VERB penerbangan/X domestik/X ./PUNCT 
+Rudal/NOUN punika/DET ugi/ADV gadhah/VERB kemampuan/NOUN nyergap/VERB sasaranipun/_ sasaran/NOUN ipun/PRON saking/ADP sedaya/DET arah/NOUN (/PUNCT all-aspect/X )/PUNCT ,/PUNCT ing/ADP sedaya/DET cuaca/NOUN (/PUNCT all-weather/X )/PUNCT sarta/CCONJ ing/ADP tengah/NOUN pengacauan/X elektronis/X (/PUNCT jamming/X )/PUNCT ./PUNCT 
+ABC/PROPN wiwit/VERB disiarake/VERB ing/ADP TV/PROPN nalika/ADP taun/NOUN 1948/NUM ./PUNCT 
+Karni/PROPN aktif/ADJ ing/ADP akeh/DET organisasi/NOUN wartawan/NOUN ./PUNCT 
+Lajeng/ADV ayahipun/_ ayah/NOUN ipun/PRON ngaturi/VERB piyambakipun/PRON mlebet/VERB ing/ADP tim/NOUN gadahanipun/_ gadaha/NOUN ipun/PRON piyambak/DET ingkang/PRON ndherek/VERB lomba/NOUN ing/ADP ajang/NOUN Formula/PROPN Three/PROPN Euroseries/PROPN lan/CCONJ F3/PROPN lokal/ADJ eropah/PROPN ./PUNCT 
+Tetandhingan/NOUN pungkasane/_ pungkasan/ADJ e/PRON ana/VERB ing/ADP Seri/PROPN A/PROPN yaiku/AUX nalika/SCONJ nglawan/VERB Inter/PROPN Milan/PROPN tanggal/NOUN 4/NUM April/PROPN 2004/NUM ./PUNCT 
+Nanging/ADV ,/PUNCT pidhato/NOUN tanggel/VERB jawab/VERB punika/DET dipuntolak/VERB malih/ADV lan/CCONJ akhiripun/ADV dipunputusaken/VERB biih/SCONJ ing/ADP tanggal/NOUN 7/NUM Maret/PROPN 1967/NUM badhe/AUX dipunadani/VERB Sidang/PROPN Istimewa/PROPN MPRS/PROPN ./PUNCT 
+Tanggal/NOUN 12/NUM Januari/PROPN 2006/NUM ,/PUNCT Pram/PROPN dikabarke/VERB wis/AUX rong/NUM minggu/NOUN lara/ADJ ning/ADP omahe/_ omah/NOUN e/PRON ing/ADP Bojong/PROPN Gede/PROPN ,/PUNCT Bogor/PROPN ,/PUNCT lan/CCONJ terus/ADV dirawat/VERB ing/ADP rumah/NOUN sakit/ADJ ./PUNCT 
+Galileo/PROPN Galilei/PROPN inggih/AUX punika/DET bapak/NOUN ageng/ADJ ing/ADP hidrostatika/X ./PUNCT 
+García/PROPN Márquez/PROPN kanthi/ADP umum/ADJ dipuntingali/VERB minangka/ADP protagonis/X saking/ADP gaya/NOUN sastra/NOUN ingkang/PRON dipunkenal/VERB minangka/ADP realisme/X magis/ADJ ./PUNCT 
+Dados/ADV ing/ADP dalu/NOUN punika/DET 3/NUM rookie/X dipuneliminasi/VERB ,/PUNCT kaliyan/SCONJ Skip/PROPN Sheffield/PROPN dipuneliminasi/VERB amargi/SCONJ ing/ADP pertandhingan/NOUN pro/X ,/PUNCT urutane/_ urutan/NOUN e/PRON sing/DET pungkasan/ADJ pertandhingan/NOUN iku/DET ./PUNCT 
+Jamaika/PROPN pungkasan/ADJ oleh/VERB panggonan/NOUN semifinalis/X taun/NOUN 2004/NUM ,/PUNCT Ukraina/PROPN pungkasan/ADJ oleh/VERB panggonan/NOUN semifinalis/X taun/NOUN 2007/NUM ,/PUNCT Meksiko/PROPN ,/PUNCT Rusia/PROPN lan/CCONJ Kolombia/PROPN pungkasan/ADJ oleh/VERB panggonan/NOUN semifinalis/X taun/NOUN 2008/NUM ./PUNCT 
+Perusahaan/NOUN Dodge/PROPN Bersaudara/PROPN pun/PART ngerembag/VERB sukses/NOUN amargi/SCONJ kualitasipun/_ kualitas/NOUN ipun/PRON sae/ADJ ,/PUNCT lan/CCONJ perusahaan/NOUN punika/DET enggal/ADV dados/VERB perusahaan/NOUN ingkang/PRON penjualanipun/_ penjualan/X ipun/PRON ageng/ADJ ing/ADP pasar/NOUN AS/PROPN taun/NOUN 1916/NUM ./PUNCT 
+Bab/ADP iki/PRON isa/AUX dideleng/VERB ing/ADP toko-toko/NOUN IKEA/PROPN lan/CCONJ ing/ADP kataloge/_ katalog/X e/DET ,/PUNCT marakake/VERB pitakonan/NOUN kaya/SCONJ :/PUNCT "/PUNCT Kena/ADV apa/PRON IKEA/PROPN ngadol/VERB tanpa/SCONJ ngrakit/VERB ?/PUNCT "/PUNCT utawa/CCONJ "/PUNCT Kena/ADV apa/PRON IKEA/PROPN nggawe/VERB akeh-akehan/ADV ?/PUNCT "/PUNCT utawa/CCONJ "/PUNCT Kena/ADV apa/PRON ora/PART biyasa/ADJ ?/PUNCT "/PUNCT ./PUNCT 
+Perang/PROPN Salib/PROPN 1101/NUM yaiku/AUX perang/NOUN salib/NOUN saka/ADP 3/NUM obahan/NOUN kang/PRON kapisah/VERB ,/PUNCT ingkang/PRON dipunwontenaken/VERB taun/NOUN 1100/NUM lan/CCONJ 1101/NUM sawise/ADP kasuksesan/NOUN Perang/PROPN Salib/PROPN Kapisan/PROPN ./PUNCT 
+Wiwit/SCONJ lair/VERB ing/ADP pungkasan/ADJ taun/NOUN 2006/NUM Fakultas/NOUN ing/ADP Universitas/PROPN Hasanuddin/PROPN nambah/VERB 1/NUM wujud/NOUN pamekaran/NOUN saka/ADP Fakultas/PROPN Pertanian/PROPN lan/CCONJ Kehutanan/PROPN yaiku/AUX Fakultas/PROPN Kehutanan/PROPN ./PUNCT 
+Asma/NOUN "/PUNCT GESTAPO/PROPN "/PUNCT (/PUNCT pertama/X kali/NOUN dipunsebat/VERB "/PUNCT GESTAPA/PROPN "/PUNCT )/PUNCT wiwit/VERB populer/ADJ saksampune/SCONJ pimpinanipun/_ pimpinan/NOUN ipun/PRON dipunjabat/VERB dening/ADP Hermann/PROPN Göring/PROPN ,/PUNCT (/PUNCT Panglima/PROPN "/PUNCT Luftwaffe/PROPN "/PUNCT ,/PUNCT Angkatan/PROPN Udara/PROPN Jerman/PROPN )/PUNCT taun/NOUN 1934/NUM ./PUNCT 
+LMU/PROPN wekdal/NOUN punika/DET gadhah/VERB 36/NUM fasilitas/X akademis/X ,/PUNCT atletik/NOUN ,/PUNCT administratif/X lan/CCONJ acara/NOUN saliyane/ADP 12/NUM gedhong/NOUN perumahan/X mahasiswa/X lan/CCONJ 6/NUM kompleks/X apartemen/X ing/ADP area/NOUN kampus/NOUN ./PUNCT 
+Presidhen/PROPN Abraham/PROPN Lincoln/PROPN kapilih/VERB malih/ADV ing/ADP taun/NOUN 1864/NUM ,/PUNCT ing/ADP tengah-tengah/NOUN kamenangan/NOUN militer/NOUN Amerika/PROPN Sarekat/PROPN ingkang/PRON njalarake/VERB pungkasaning/NOUN Perang/PROPN Sadherek/PROPN ./PUNCT 
+Ing/ADP taun/NOUN 1882/NUM ,/PUNCT kulawarga/NOUN punika/DET kapanggih/VERB kaliyan/ADP seorang/X vikaris/X lokal/ADJ ,/PUNCT Canon/PROPN Hardwicke/PROPN Rawnsley/PROPN ,/PUNCT ingkang/PRON kuwatos/ADJ sanget/ADV babagan/ADP efek/NOUN indhustri/NOUN lan/CCONJ turisme/X ing/ADP Distrik/PROPN Lake/PROPN ./PUNCT 
+Nganti/ADP pertengahan/X 1986/NUM bae/ADV ,/PUNCT AS/PROPN wis/AUX sumadya/VERB dana/NOUN ora/PART kurang/ADV sak/NUM milyar/NUM dollar/NOUN (/PUNCT aji/NOUN nalika/ADP iku/PRON )/PUNCT nganti/SCONJ nggawa/VERB implikasi/NOUN ing/ADP tingkat/NOUN pulitik/NOUN antarane/_ antara/NOUN e/PRON Washington/PROPN karo/CCONJ Tel-Aviv/PROPN ./PUNCT 
+Bab/ADP punika/PRON dipuntandhani/VERB kanthi/ADP kasuksesanipun/_ kasuksesan/NOUN ipun/PRON Maldini/PROPN ngrebut/VERB peringkat/NOUN tiga/NUM ing/ADP Ballon/PROPN d/PROPN '/PUNCT Or/PROPN versi/NOUN majalah/NOUN France/PROPN Football/PROPN nalika/ADP taun/NOUN 1994/NUM lan/CCONJ 2003/NUM ./PUNCT 
+Taun/NOUN 1998/NUM ,/PUNCT Agum/PROPN olih/VERB gelar/NOUN master/X saka/ADP American/PROPN World/PROPN University/PROPN ,/PUNCT salah/ADJ sawijining/DET organisasi/NOUN kang/PRON dilarang/VERB beroperasi/X karo/ADP Dikti/PROPN Depdiknas/PROPN ing/ADP taun/NOUN 2005/NUM kerana/ADP kasus/NOUN adol/VERB gelar/NOUN ./PUNCT 
+Piyambakipun/PRON salah/ADJ satunggaling/DET tiyang/NOUN buruh/NOUN pelabuhan/NOUN ,/PUNCT tukang/NOUN watu/NOUN ,/PUNCT lan/CCONJ akuntan/NOUN antawis/NOUN taun/NOUN 1922/NUM -/PUNCT 1924/NUM ,/PUNCT nanging/CCONJ kadang/ADV kala/NOUN piyambakipun/PRON ugi/ADV ndherek/VERB mendhet/VERB perangan/NOUN wonten/VERB ing/ADP "/PUNCT seminari/NOUN "/PUNCT penulis/NOUN ./PUNCT 
+Standar/X bus/NOUN PCI/PROPN punika/DET pangembanganipun/NOUN dening/ADP konsorsium/NOUN PCI/PROPN Special/PROPN Interest/PROPN Group/PROPN ingkang/PRON dipundhapuk/VERB dening/ADP Intel/PROPN Corporation/PROPN lan/CCONJ perusahaan/NOUN sanesipun/ADV nalika/ADP taun/NOUN 1992/NUM ./PUNCT 
+Permainan/NOUN kibor/X kang/PRON dadi/VERB suara/NOUN khas/ADJ The/PROPN Doors/PROPN asalipun/VERB saka/ADP organ/NOUN combo/X Vox/PROPN Continental/PROPN kang/PRON uga/ADV minangka/ADP akeh/DET grup/NOUN rock/X psychedelic/X ing/ADP era/NOUN mau/ADV ./PUNCT 
+Wolfson/PROPN ngendikan/VERB manawi/SCONJ "/PUNCT bilih/SCONJ satunggaling/DET Jewish/PROPN Encyclopedia/PROPN ing/ADP basa/NOUN modern/ADJ dipunrencanakaken/VERB kawiwitan/ADJ ing/ADP wanci/NOUN punika/DET ,/PUNCT mila/SCONJ pilihan/NOUN punika/DET tiba/VERB ing/ADP basa/NOUN Inggris/PROPN ./PUNCT 
+Piyambakipun/PRON nggayuh/VERB kalungguhan/NOUN minangka/ADP presidhen/NOUN ing/ADP taun/NOUN 2001/NUM ngelampahi/VERB kudeta/NOUN boten/PART rahan/VERB ingkang/PRON dipunsebat/VERB Revolusi/PROPN EDSA/PROPN II/PROPN ingkang/PRON nggulingaken/VERB Presidhen/PROPN Joseph/PROPN Estrada/PROPN ing/ADP tengah-tengah/NOUN tuduhan/NOUN korupsi/NOUN ./PUNCT 
+Pamaburan/NOUN kapisanan/ADJ ing/ADP tanggal/NOUN 23/NUM November/PROPN 1987/NUM saka/ADP plataran/NOUN Calverton/PROPN Grumman/PROPN lan/CCONJ prototipe/NOUN pungkasan/ADJ nglakokae/VERB penerbangan/X ing/ADP tanggal/NOUN 9/NUM Februari/PROPN 1990/NUM ./PUNCT 
+Vesta/PROPN wujud/NOUN sabuk/NOUN asteroid/NOUN paling/ADV utami/ADJ ingkang/PRON kadang-kala/ADV ketingal/VERB tanpa/ADP piranti/NOUN tambahan/NOUN (/PUNCT ing/ADP saperangan/DET kadadosan/NOUN ingkang/PRON cekap/ADJ langka/ADJ ,/PUNCT asteroid/NOUN ingkang/PRON cedhak/ADJ kaliyan/ADP bumi/NOUN saged/AUX ketingal/VERB tanpa/ADP bantuan/NOUN teknis/ADJ ;/PUNCT pirsani/VERB 99942/NUM Apophis/PROPN )/PUNCT ./PUNCT 
+Bronx/PROPN entuk/VERB akeh/DET arus/X imigran/X Irlandia/PROPN ,/PUNCT Jerman/PROPN ,/PUNCT Yahudi/PROPN lan/CCONJ Italia/PROPN sawise/SCONJ pedunungan/NOUN pedesaane/_ pedesaan/NOUN e/PRON meledak/X antawis/NOUN pertengahan/X abad/NOUN kaping/ADJ 19/NUM lan/CCONJ 20/NUM ./PUNCT 
+Pas/ADP jamane/NOUN audisi/X The/PROPN X/PROPN Factor/PROPN ,/PUNCT Niall/PROPN tau/ADV ngomong/VERB kaya/ADP ngene/PRON :/PUNCT “/PUNCT Umurku/_ Umur/NOUN ku/PRON 16/NUM taun/NOUN lan/CCONJ aku/PRON pengen/VERB duwe/VERB jeneng/NOUN gedhe/ADJ kaya/ADP Beyonce/PROPN lan/CCONJ Justin/PROPN Bieber/PROPN ./PUNCT 
+Sharapova/PROPN nggayuh/VERB gelar/NOUN sepindhaipun/_ sepindha/ADJ ipun/PRON nalika/ADP taun/NOUN 2006/NUM lan/CCONJ gelar/NOUN kaping/ADJ 11/NUM ing/ADP kariripun/_ karir/NOUN ipun/PRON ing/ADP turnamen/X Tier/PROPN 1/NUM ,/PUNCT Pacific/PROPN Life/PROPN Open/PROPN ing/ADP Indian/PROPN Wells/PROPN ,/PUNCT California/PROPN ing/ADP pundi/PRON panjenenganipun/PRON dados/VERB unggulan/NOUN kaping/ADJ 3/NUM ./PUNCT 
+Ing/ADP wiwit/NOUN taun/NOUN 1980/NUM Eddie/PROPN malih/VERB ing/ADP eropah/PROPN lan/CCONJ piyambakipun/PRON lajeng/ADV ndirikaken/VERB tim/NOUN Eddie/PROPN Jordan/PROPN Racing/PROPN ingkang/PRON mandhap/VERB ing/ADP kejuaraan/NOUN Formula/PROPN 3/PROPN Inggris/PROPN ./PUNCT 
+Rancangan/NOUN ning/ADP mburi/NOUN Virus/PROPN Flu/PROPN Burung/PROPN ,/PUNCT Amerika/PROPN Sarekat/PROPN lan/CCONJ organisasi/NOUN WHO/PROPN sekuthon/VERB ngrembakakake/VERB senjata/NOUN biologis/NOUN kanthi/SCONJ nggunakake/VERB virus/NOUN flu/PROPN burung/NOUN ./PUNCT 
+Ing/ADP balapan/NOUN salajengipun/ADJ ing/ADP Italia/PROPN ,/PUNCT Force/PROPN India/PROPN punika/DET cetak/VERB poin/X kaliyan/SCONJ finish/X P4/PROPN nglampahi/VERB Adrian/PROPN Sutil/PROPN ,/PUNCT ingkang/PRON ugi/ADV nyerat/VERB lap/NOUN tercepat/ADJ ing/ADP wanci/NOUN lomba/NOUN ./PUNCT 
+Manawi/SCONJ adhi/NOUN lanang/NOUN Potter/PROPN ,/PUNCT Bertram/PROPN ,/PUNCT awis/ADV sanget/ADV wonten/VERB ing/ADP griya/NOUN ;/PUNCT piyambakipun/PRON dipunsekolahaken/VERB ing/ADP sekolah/NOUN asrama/NOUN ,/PUNCT pramila/ADV Beatrix/PROPN namung/ADV piyambakan/ADJ sareng/ADV kaliyan/ADP kewan/NOUN ingah-ingahipun/_ ingah-ingah/NOUN ipun/DET ./PUNCT 
+Kanthi/ADP beasiswa/X ,/PUNCT dheweke/PRON manggon/VERB ing/ADP Amerika/PROPN Sarekat/PROPN ,/PUNCT sinau/VERB lan/CCONJ entuk/VERB gelar/NOUN Master/PROPN saka/ADP American/PROPN University/PROPN ,/PUNCT Washington/PROPN DC/PROPN ,/PUNCT Jurusan/PROPN Komunikasi/PROPN Internasional/PROPN ,/PUNCT taun/NOUN 1982/NUM ./PUNCT 
+Steven/PROPN Stayner/PROPN ,/PUNCT bocah/NOUN lanang/NOUN saka/ADP Merced/PROPN ,/PUNCT California/PROPN ,/PUNCT diculik/VERB nalika/ADP umur/NOUN 7/NUM lan/CCONJ disekap/VERB punjul/ADV 7/NUM taun/NOUN saka/ADP akir/NOUN 1972/NUM nganti/ADP awal/NOUN 1980/NUM ./PUNCT 
+Bageyane/_ Bageyan/NOUN e/PRON badan/NOUN kang/PRON paling/ADV kerep/ADV kena/VERB akibate/_ akibat/NOUN e/PRON yaiku/AUX :/PUNCT kulit/NOUN (/PUNCT 80/NUM –/PUNCT 90/NUM %/SYM )/PUNCT ,/PUNCT saluran/NOUN napas/NOUN (/PUNCT 70/NUM %/SYM )/PUNCT ,/PUNCT saluran/NOUN cerna/NOUN (/PUNCT 30/NUM –/PUNCT 45/NUM %/SYM )/PUNCT ,/PUNCT jantung/NOUN lan/CCONJ pembuluh/NOUN getih/NOUN (/PUNCT 10/NUM –/PUNCT 45/NUM %/SYM )/PUNCT ,/PUNCT lan/CCONJ sistem/NOUN syaraf/NOUN pusat/NOUN (/PUNCT 10/NUM –/PUNCT 15/NUM %/SYM )/PUNCT ./PUNCT 
+Tokyo/PROPN (/PUNCT 東京/X ;/PUNCT Tōkyō/PROPN ,/PUNCT harafiah/NOUN :/PUNCT ibukitha/NOUN wetan/NOUN )/PUNCT punika/DET ibukitha/NOUN Jepang/PROPN sisan/ADV tlatah/NOUN ingkang/PRON paling/ADV padhet/ADJ ing/ADP Jepang/PROPN ,/PUNCT sarta/CCONJ laladan/NOUN metropolitan/X paling/ADV ageng/ADJ ing/ADP donya/NOUN dipuntingal/VERB saking/ADP cacah/NOUN padunungipun/_ padunung/NOUN ipun/PRON (/PUNCT 33.750.000/NUM ing/ADP kitha/NOUN lan/CCONJ tlatah/NOUN saubengipun/NOUN )/PUNCT ./PUNCT 
+Ing/ADP Oktober/PROPN 2010/NUM ,/PUNCT Otoritas/PROPN Palestina/PROPN nyekel/VERB dheweke/PRON amarga/SCONJ diduga/VERB ngolok-olok/VERB marang/ADP Islam/PROPN ing/ADP Facebook/PROPN lan/CCONJ ing/ADP postingan/X blog/NOUN ;/PUNCT Penangkapane/_ Penangkapan/PROPN e/DET entuk/VERB perhatian/X internasional/ADJ ./PUNCT 
+Album/NOUN studhio/NOUN kang/PRON kapapat/ADJ ,/PUNCT Viva/PROPN la/PROPN Vida/PROPN or/PROPN Death/PROPN and/PROPN All/PROPN His/PROPN Friends/PROPN (/PUNCT 2008/NUM )/PUNCT ,/PUNCT diprodhuksi/VERB dening/ADP Brian/PROPN Eno/PROPN lan/CCONJ entuk/VERB komentar/NOUN positif/ADJ uga/ADV entuk/VERB sawetara/DET nominasi/NOUN Grammy/PROPN Award/PROPN lan/CCONJ menang/VERB ing/ADP 51st/PROPN Grammy/PROPN Awards/PROPN ./PUNCT 
+Ing/ADP pertengahan/X akir/NOUN 1990an/NOUN ,/PUNCT prakara/NOUN kaya/ADP I/PROPN Love/PROPN Lucy/PROPN ,/PUNCT The/PROPN Mary/PROPN Tyler/PROPN Moore/PROPN Show/PROPN ,/PUNCT lan/CCONJ prakara/NOUN kang/PRON saiki/ADV ditayangake/VERB ing/ADP TV/PROPN Land/PROPN biteen/PROPN ditayangake/VERB ing/ADP Nick/PROPN at/PROPN Nite/PROPN ./PUNCT 
+Tembang/NOUN kondhang/ADJ teranyare/_ teranyar/ADJ e/PRON ,/PUNCT "/PUNCT Kawa/PROPN no/PROPN Nagare/PROPN no/PROPN yōni/PROPN "/PUNCT asring/ADV dipunbeta/VERB dening/ADP artis-artis/NOUN ingkang/PRON misuwur/VERB lan/CCONJ orkestra/NOUN ,/PUNCT kalebet/VERB The/PROPN Three/PROPN Tenors/PROPN lan/CCONJ Teresa/PROPN Teng/PROPN ./PUNCT 
+Lokasi/NOUN awal/NOUN pambangunan/NOUN masjid/NOUN yaiku/AUX ing/ADP pinggir/NOUN Kali/PROPN Martapura/PROPN ,/PUNCT banjur/ADV sasampune/ADV masjid/NOUN iki/DET dipindahake/VERB ing/ADP dalan/NOUN Masjid/PROPN kalurahan/PROPN Antasan/PROPN Kecil/PROPN Timur/PROPN ,/PUNCT Kota/PROPN Banjarmasin/PROPN ing/ADP taun/NOUN 1934/NUM ./PUNCT 
+Dening/ADP lembaga/NOUN misi/NOUN lan/CCONJ basa/NOUN Amerika/PROPN Sarekat/PROPN ingkang/PRON dipunsebat/VERB Summer/PROPN Institute/PROPN of/PROPN Linguistics/PROPN (/PUNCT SIL/PROPN )/PUNCT ,/PUNCT suku/X punika/DET dipunlebetaken/VERB ing/ADP pamerangan/NOUN 14/NUM suku/X paling/ADV terasing/ADJ ./PUNCT 
+Zaid/PROPN mimpin/VERB kraman/NOUN nglawan/VERB Bani/PROPN Umayyah/PROPN ing/ADP pertengahan/X abad/NOUN kawolu/ADJ ,/PUNCT nambah/VERB kekerasan/X kang/PRON tansah/ADV kedadeyan/VERB antarane/_ antara/NOUN e/PRON Bani/PROPN Umayyah/PROPN lan/CCONJ Bani/PROPN Hasyim/PROPN ./PUNCT 
+Larangan/NOUN total/ADJ tumrape/ADP panggunaan/NOUN CFC/PROPN taun/NOUN 1990/NUM diusulake/VERB dening/ADP komunitas/NOUN eropa/PROPN ing/ADP taun/NOUN 1989/NUM ,/PUNCT kang/PRON uga/ADV dimupakati/VERB dening/ADP Presidhen/PROPN AS/PROPN George/PROPN Bush/PROPN ./PUNCT 
+Piyambakipun/PRON angsal/VERB Bebungah/PROPN Nobel/PROPN Bedhamen/PROPN nalika/ADP taun/NOUN 1909/NUM dados/VERB pendhiri/NOUN sarta/CCONJ presidhen/NOUN kelompok/X arbitrase/X parlemen/X Perancis/PROPN ugi/CCONJ komite/X pertahanan/X kepentingan/X nasional/ADJ lan/CCONJ arbitrase/X internasional/ADJ ./PUNCT 
+Tantangan/NOUN tuan/NOUN rumah/NOUN ana/VERB ing/ADP tangan/NOUN Liam/PROPN Broady/PROPN ,/PUNCT sing/PRON menangake/VERB turnamen/X Grade/PROPN 1/NUM ;/PUNCT AEGON/PROPN Junior/PROPN International/PROPN 2011/NUM ,/PUNCT sing/PRON dianakake/VERB ing/ADP Roehampton/PROPN seminggu/NOUN sedurung/SCONJ dimelaie/VERB Wimbledon/PROPN ./PUNCT 
+Aznavour/PROPN njabat/VERB anggota/NOUN dewan/NOUN pembina/NOUN Armenia/PROPN Fund/PROPN International/PROPN sing/PRON wis/AUX menehi/VERB punjul/ADV US/PROPN $/SYM 150/NUM yuta/NUM wiwit/ADP taun/NOUN 1992/NUM ing/ADP wujud/NOUN dana/NOUN bantuan/NOUN kemanusiaan/NOUN lan/CCONJ pembangunan/NOUN infrastruktur/NOUN ing/ADP Armenia/PROPN ./PUNCT 
+Taun/NOUN 2011/NUM ana/VERB kira-kira/ADV 130/NUM –/PUNCT 150/NUM sapi/NOUN ,/PUNCT 70/NUM nganti/ADP 80/NUM antarane/_ antara/NOUN e/PRON wujud/NOUN sapi/NOUN babon/NOUN kang/PRON bisa/AUX diperes/VERB susune/_ susu/NOUN e/PRON ,/PUNCT sisane/_ sisa/NOUN e/PRON sapi/NOUN cilik-cilik/ADJ sarta/CCONJ 3/NUM sapi/NOUN lanangan/ADJ ./PUNCT 
+Wonten/VERB ing/ADP taun/NOUN 1986/NUM kekalihipun/PRON nyumbang/VERB 40/NUM juta/NUM dollar/NOUN AS/PROPN kangge/SCONJ yasa/VERB griya/NOUN sakit/ADJ anak/NOUN ingkang/PRON lajeng/ADV dipunkenal/VERB minangka/ADP Lucile/PROPN Salter/PROPN Packard/PROPN Children/PROPN 's/PROPN Hospital/PROPN ing/ADP Universitas/PROPN Stanford/PROPN ./PUNCT 
+Piyambakipun/PRON nate/ADV dados/VERB Presidhen/PROPN Press/PROPN Foundation/PROPN of/PROPN Asia/PROPN ,/PUNCT anggota/NOUN Dewan/PROPN Pimpinan/PROPN International/PROPN Association/PROPN for/PROPN Cultural/PROPN Freedom/PROPN (/PUNCT organisasi/NOUN CIA/PROPN )/PUNCT ,/PUNCT lan/CCONJ anggota/NOUN Federation/PROPN Mondial/PROPN pour/PROPN le/PROPN etudes/PROPN sur/PROPN le/PROPN Futur/PROPN ./PUNCT 
+Piyambakipun/PRON lajeng/ADV tetep/VERB ing/ADP ajang/NOUN F3/PROPN Euroseries/PROPN taun/NOUN 2007/NUM saderengipun/SCONJ minggah/VERB dhateng/VERB ASM/PROPN Formula/PROPN 3/NUM ing/ADP pundi/PRON Jamie/PROPN Green/PROPN ,/PUNCT Lewis/PROPN Hamilton/PROPN ,/PUNCT lan/CCONJ Paul/PROPN di/PROPN Resta/PROPN saderengipun/SCONJ kasil/VERB menangaken/VERB ajang/NOUN mau/ADV ./PUNCT 
+Saking/ADP US/PROPN $/SYM 41,8/NUM miliar/NUM utang/NOUN ingkang/PRON rantamanipun/ADV dipunbayar/VERB ,/PUNCT Argentina/PROPN nyuwun/VERB kreditor/NOUN ,/PUNCT punapa/ADV dipunpathok/VERB dhedhasar/NOUN kurs/NOUN arta/NOUN ingkang/PRON kasamekta/VERB ,/PUNCT inggih/AUX punika/DET peso/NOUN Argentina/PROPN ,/PUNCT dolar/NOUN AS/PROPN ,/PUNCT euro/NOUN ,/PUNCT utawi/CCONJ yen/NOUN ./PUNCT 
+Nalika/ADP tanggal/NOUN 20/NUM November/PROPN 1996/NUM dibangun/VERB pabrik/NOUN urea/X unit/NOUN IV/NUM (/PUNCT POPKA/PROPN )/PUNCT kang/PRON tujuane/_ tujuan/X e/DET kanggo/SCONJ ningkatake/VERB aji/NOUN tambah/VERB kanggo/ADP Amoniak/PROPN sisa/NOUN (/PUNCT Ammonia/PROPN excess/X )/PUNCT lan/CCONJ gas/NOUN CO2/PROPN kang/PRON diguwak/VERB marang/ADP atmosfer/NOUN guna/SCONJ ngasilake/VERB produk/NOUN urea/X granul/X ./PUNCT 
+Piyambakipun/PRON ugi/ADV ndherek/VERB terjun/VERB ing/ADP saperangan/DET kegiyatan/NOUN milis/NOUN sastra/NOUN saha/CCONJ ing/ADP saperangan/DET komunitas/NOUN ,/PUNCT kados/ADP ta/PART :/PUNCT ASAS/PROPN ,/PUNCT MnemoniC/PROPN ,/PUNCT Babad/PROPN Bumi/PROPN ,/PUNCT lan/CCONJ liyane/_ liya/ADJ e/DET ./PUNCT 
+Jennings/PROPN esih/ADV diwenehi/VERB kapracayan/NOUN dadi/VERB pranata/NOUN acara/NOUN dhewekan/ADV nganti/SCONJ tekan/VERB taun/NOUN 1966/NUM lan/CCONJ diganti/VERB dening/ADP pranata/NOUN acara/NOUN game/X show/X ,/PUNCT Jim/PROPN Perry/PROPN ,/PUNCT nganti/ADP tekan/VERB taun/NOUN 1990/NUM ./PUNCT 
+Mbah/PROPN Wiro/PROPN Bengah/PROPN isih/ADV katon/VERB gagah/ADJ ./PUNCT 
+Sore/NOUN iki/DET ,/PUNCT ana/VERB ing/ADP untel-untelan/NOUN warung/NOUN hik/NOUN ,/PUNCT dheweke/PRON nganggo/VERB kathok/NOUN kolor/NOUN putih/ADJ ./PUNCT 
+Wangun/VERB karo/ADP stelane/NOUN ,/PUNCT klambi/NOUN putih/ADJ longgar/ADJ ./PUNCT 
+Ora/PART sengaja/ADJ katon/VERB kaya/ADP perancang/X mode/X ./PUNCT 
+Kamangka/ADV ,/PUNCT sejene/SCONJ nduwe/VERB gaweyan/NOUN minangka/ADP carik/NOUN kondhang/ADJ ,/PUNCT sing/PRON luwih/ADV kondhang/ADJ maneh/ADV gaweyan/NOUN sambene/ADJ minangka/ADP pawang/NOUN udan/NOUN ./PUNCT 
+Akeh/DET wong/NOUN nggunakake/VERB jasane/_ jasa/NOUN e/PRON manawa/SCONJ ana/VERB mantenan/NOUN utawa/CCONJ sunatan/NOUN ./PUNCT 
+Apa/PRON maneh/ADV yen/SCONJ nganggo/VERB tanggapan/NOUN klenengan/NOUN tekan/VERB wayangan/NOUN ./PUNCT 
+"/PUNCT Pokoke/ADV aja/PART mbok/PRON celuk/VERB dhukun/NOUN ./PUNCT Aku/PRON kelingan/VERB karo/ADP welingmu/_ weling/NOUN mu/PRON setaun/NOUN kepungkur/ADJ ,/PUNCT "/PUNCT setengah/ADV njegeges/VERB Wiro/PROPN Bengah/PROPN ngelikke/VERB aku/PRON ./PUNCT 
+Ndomblong/VERB sedhela/ADV ,/PUNCT aku/PRON banjur/ADV mesem/VERB ./PUNCT 
+Geneya/ADV ,/PUNCT dheweke/PRON kelingan/VERB terus/ADV ./PUNCT 
+Aku/PRON aweh/VERB saran/NOUN mangkono/DET ya/PART merga/SCONJ ana/VERB grup/NOUN WA/PROPN gecer/ADV ngunggah/VERB tembung/NOUN dhukun/NOUN kerep/ADV dadi/VERB rasanan/NOUN ./PUNCT 
+Sejene/ADP kanggo/ADP objek/NOUN laporan/NOUN ,/PUNCT sing/PRON dijedhulke/VERB ana/VERB pirang-pirang/DET konten/NOUN ./PUNCT 
+Diolok-olok/VERB minangka/SCONJ ngundang/VERB rasa/NOUN sirik/ADJ ./PUNCT 
+"/PUNCT Coba/VERB ,/PUNCT apa/PRON panjenengan/PRON wani/ADJ mantu/VERB ana/VERB ngarep/NOUN omah/NOUN tanpa/SCONJ ngundang/VERB pawang/NOUN udan/NOUN ana/VERB ing/ADP mangsa/NOUN udan/NOUN ngene/DET iki/DET ?/PUNCT "/PUNCT pitakone/VERB Wiro/PROPN Bengah/PROPN setengah/ADV nggodha/VERB ./PUNCT 
+"/PUNCT Aku/PRON kepingin/VERB mantu/VERB ana/VERB gedhung/NOUN ,/PUNCT Lek/PROPN ,/PUNCT "/PUNCT semaurku/_ semaur/VERB ku/PRON ora/PART kalah/ADJ sengit/ADJ ./PUNCT 
+Sauranku/_ Sauran/NOUN ku/PRON sing/PRON kerep/ADV ora/PART keduga/VERB iki/DET ndadekake/VERB Lek/PROPN Wiro/PROPN Bengah/PROPN nyekikik/VERB ./PUNCT 
+Banjur/ADV lali/VERB yen/SCONJ sepine/_ sepi/ADJ e/DET wong/NOUN mantu/VERB gedhen/ADV ,/PUNCT pesenane/_ pesenan/NOUN e/DET minangka/ADP tukang/NOUN ngusir/VERB udan/NOUN rada/ADV seret/ADJ ./PUNCT 
+Mbiyen/ADV ,/PUNCT yen/SCONJ Ruwah/PROPN ngene/VERB iki/PRON ,/PUNCT isa/AUX ana/VERB las-lasan/NUM gunggunge/_ gunggung/NOUN e/DET wong/NOUN pesen/VERB ./PUNCT 
+"/PUNCT Mung/ADV lima/NUM ./PUNCT Lumayanlah/_ Lumayan/ADJ lah/PART ,/PUNCT nggo/SCONJ imbuh/VERB tuku/VERB beras/NOUN pulen/ADJ karo/CCONJ lenga/NOUN klentik/ADJ ,/PUNCT "/PUNCT semaure/_ semaur/VERB e/PRON rada/ADV gawe/VERB keri/ADJ kuping/NOUN ./PUNCT 
+Aku/PRON lan/CCONJ Wiro/PROPN Bengah/PROPN pancen/ADV kudu/AUX endha/VERB saka/ADP parapan/NOUN sirik/ADJ ./PUNCT 
+Dianggep/VERB wae/ADV iki/PRON sawijining/DET kekayaan/NOUN budhaya/NOUN ./PUNCT 
+Apa/PRON maneh/ADV ,/PUNCT Lek/PROPN Wiro/PROPN Bengah/PROPN ngusir/VERB udan/NOUN ya/PART ora/PART nganggo/VERB sesaji/NOUN menyan/NOUN lan/CCONJ kembang/NOUN ./PUNCT 
+Resik/ADJ saka/ADP sesajen/NOUN sing/PRON ngundang/VERB unsur/NOUN sirik/ADJ ./PUNCT 
+Sepisan/NOUN maneh/ADV ,/PUNCT risi/ADJ lan/CCONJ wedi/ADJ yen/SCONJ diolok-olok/VERB dadi/VERB sumber/NOUN sirik/ADJ ./PUNCT 
+Ana/VERB sing/PRON pesen/VERB teh/NOUN ginastel/NOUN ,/PUNCT kopi/NOUN ,/PUNCT jahe/NOUN lan/CCONJ susu/NOUN ./PUNCT 
+Kelurahan/NOUN Kauman/PROPN kang/PRON mapan/VERB ing/ADP laladan/NOUN Kecamatan/PROPN Pasar/PROPN Kliwon/PROPN ,/PUNCT Solo/PROPN ,/PUNCT duwe/VERB jeneng-jeneng/NOUN kampung/NOUN sing/PRON ana/VERB sesambungane/_ sesambungan/NOUN e/DET karo/ADP panggaweyane/_ panggaweyan/NOUN e/DET wargane/_ warga/NOUN e/PRON ./PUNCT 
+Jeneng-jeneng/NOUN kampung/NOUN iku/DET nglumpuk/VERB dadi/VERB siji/NUM ana/VERB ing/ADP dhaerah/NOUN Kampung/PROPN Wisata/PROPN Batik/PROPN Kauman/PROPN ./PUNCT 
+Lurah/NOUN Kauman/PROPN ,/PUNCT Nursalim/PROPN ,/PUNCT mratelakake/VERB ,/PUNCT wargane/_ warga/NOUN e/PRON akeh/DET kang/PRON makarya/VERB gawe/VERB bathik/NOUN ./PUNCT 
+Saliyane/ADP iku/PRON ,/PUNCT saperangan/DET wargane/_ warga/NOUN e/PRON uga/ADV ana/VERB sing/PRON dodolan/VERB panganan/NOUN ./PUNCT 
+Nursalim/PROPN banjur/ADV njlentrehake/VERB tegese/_ teges/NOUN e/DET jeneng/NOUN kampung-kampung/NOUN ing/ADP Kauman/PROPN miturut/VERB panggaweyane/_ panggaweyan/NOUN e/DET wargane/_ warga/NOUN e/PRON ./PUNCT 
+Saliyane/ADP iku/PRON ,/PUNCT ana/VERB Kampung/PROPN Blodiran/PROPN utawa/CCONJ kerep/ADV diwaca/VERB Mblodiran/PROPN ./PUNCT 
+Miturut/VERB Nursalim/PROPN ,/PUNCT ing/ADP kampung/NOUN iku/DET tau/ADV ana/VERB sing/PRON manggon/VERB yaiku/AUX sawijining/DET abdi/NOUN dalem/ADJ kang/PRON panggaweyane/_ panggaweyan/NOUN e/DET dadi/VERB tukang/NOUN bordir/NOUN ./PUNCT 
+Kampung/NOUN Blodiran/PROPN penere/ADV mapan/VERB ing/ADP sisih/NOUN kidul/NOUN Kampung/PROPN Gerjen/PROPN ,/PUNCT RT/PROPN 002/NUM //PUNCT RW/PROPN 006/NUM ./PUNCT 
+Jarene/VERB Nursalim/PROPN ,/PUNCT warga/NOUN kono/ADV akeh/DET sing/PRON gawe/VERB samir/NOUN utawa/CCONJ lendhang/NOUN cilik/ADJ kang/PRON lumrahe/_ lumrah/ADJ e/DET dienggo/VERB abdi/NOUN dalem/ADJ Keraton/PROPN ./PUNCT 
+Warga/NOUN kono/ADV akeh-akehe/ADV pakaryane/_ pakarya/NOUN e/DET gawe/VERB topi/NOUN manten/NOUN lanang/NOUN Jawa/PROPN utawa/CCONJ kuluk/NOUN ./PUNCT 
+Ing/ADP njeron/NOUN gang/NOUN laladan/NOUN Kampung/PROPN Batik/PROPN Kauman/PROPN ana/VERB saperangan/DET plang/NOUN werna/NOUN putih/ADJ kang/PRON dipasang/VERB ing/ADP cagak/NOUN werna/NOUN ijo/ADJ tuwa/ADJ ./PUNCT 
+Plang/NOUN kuwi/DET ana/VERB tulisane/_ tulisan/NOUN e/DET jeneng-jeneng/NOUN kampung/NOUN iku/DET mau/ADV ,/PUNCT malah/ADV ana/VERB tambahane/_ tambahan/NOUN e/DET aksara/NOUN Jawa/PROPN lan/CCONJ ukiran-ukiran/NOUN sapinggire/ADP plang/NOUN ./PUNCT 
+Solo/NOUN kasebut/VERB minangka/ADP kutha/NOUN kang/PRON nduweni/VERB daya/NOUN pangaribawa/ADJ ing/ADP bababagan/NOUN tembang/NOUN Jawa/PROPN ./PUNCT 
+Salah/ADJ sawijining/DET pangripta/NOUN lagu/NOUN Jawa/PROPN sing/PRON kawentar/VERB yaiku/AUX Didi/PROPN Kempot/PROPN ./PUNCT 
+Nganti/SCONJ tekan/VERB dina/NOUN iki/DET ,/PUNCT wus/AUX ora/PART kapetung/VERB cacahe/_ cacah/NOUN e/DET tembange/_ tembang/NOUN e/DET Didi/PROPN Kempot/PROPN kang/PRON kawentar/VERB tekan/VERB ngendi-endi/PRON ./PUNCT 
+Semana/ADV uga/ADV musik/NOUN liyane/_ liya/ADJ e/DET kayata/ADP gamelan/NOUN Jawa/PROPN kang/PRON diripta/VERB Suwargi/PROPN Rahayu/PROPN Supanggah/PROPN ./PUNCT 
+Saking/SCONJ tresnane/_ tresnane/NOUN e/DET marang/ADP gamelan/NOUN ,/PUNCT Rahayu/PROPN Supanggah/PROPN ngusulake/VERB gamelan/NOUN minangka/ADP Warisan/PROPN Budaya/PROPN Tak/PROPN Benda/PROPN (/PUNCT WBTB/PROPN )/PUNCT ./PUNCT 
+Gamelan/NOUN minangka/ADP WBTB/PROPN banjur/ADV ditetepake/VERB dening/ADP United/PROPN Nations/PROPN Educational/PROPN ,/PUNCT Scientific/PROPN ,/PUNCT and/PROPN Cultural/PROPN Organization/PROPN (/PUNCT Unesco/PROPN )/PUNCT ing/ADP Paris/PROPN ,/PUNCT Prancis/PROPN ,/PUNCT Rebo/PROPN (/PUNCT 15/NUM //PUNCT 12/NUM //PUNCT 2021/NUM )/PUNCT ./PUNCT 
+Dheweke/PRON kandha/VERB tembang/NOUN dhaerah/NOUN saiki/ADV sansaya/ADV diugemi/VERB ./PUNCT 
+Tuladhane/_ Tuladhan/NOUN e/DET ya/PART tembang/NOUN basa/NOUN Jawa/PROPN sing/PRON diripta/VERB dening/ADP penyanyi/NOUN saka/ADP Ngawi/PROPN ,/PUNCT Denny/PROPN Cak/PROPN Nan/PROPN ,/PUNCT banjur/ADV Ndarboy/PROPN Genk/PROPN saka/ADP Yogyakarta/PROPN ./PUNCT 
+Tari/NOUN reyog/NOUN Ponorogo/PROPN lagi/AUX dadi/VERB kembang/NOUN lambene/_ lambe/NOUN e/DET wong/NOUN akeh/DET ./PUNCT 
+Sepisan/NOUN maneh/ADV Malaysia/PROPN arep/AUX ngaku-aku/VERB kesenian/NOUN reyog/NOUN Ponorogo/PROPN minangka/ADP asil/NOUN budayane/_ budaya/NOUN e/PRON dhewe/DET marang/ADP United/PROPN Nations/PROPN Educational/PROPN Scientific/PROPN and/PROPN Cultural/PROPN Organization/PROPN (/PUNCT Unesco/PROPN )/PUNCT ./PUNCT 
+Mula/ADV ora/PART maido/ADJ ,/PUNCT kahanan/NOUN iku/DET gawe/VERB muntabing/NOUN masarakat/NOUN ,/PUNCT utamane/ADV para/DET pandhemen/NOUN lan/CCONJ seniman/NOUN reyog/NOUN ./PUNCT 
+Kepara/ADV Bupati/PROPN Ponorogo/PROPN ,/PUNCT Sugiri/PROPN Sancoko/PROPN gela/VERB marang/ADP putusan/NOUN pamarentah/NOUN pusat/NOUN kang/PRON ora/PART ngusulake/VERB reyog/NOUN menyang/ADP Unesco/PROPN ./PUNCT 
+Sadurunge/SCONJ dadi/VERB kesenian/NOUN kang/PRON kondhang/ADJ kaya/ADP saiki/ADV ,/PUNCT ana/VERB saperangan/DET crita/NOUN kang/PRON ngrembaka/VERB bab/ADP sujarah/NOUN reyog/NOUN ./PUNCT 
+Nanging/ADV salah/ADJ sijine/_ siji/NUM e/DET crita/NOUN kang/PRON kondhang/ADJ yaiku/AUX Ki/PROPN Ageng/PROPN Kutu/PROPN mbalela/VERB ./PUNCT 
+Ki/PROPN Ageng/PROPN Kutu/PROPN yaiku/AUX abdi/NOUN dalem/ADJ kraton/NOUN nalika/SCONJ dipimpin/VERB Bhre/PROPN Kertabhumi/PROPN ,/PUNCT Ratu/PROPN Majapahit/PROPN pungkasan/ADJ ing/ADP abad/NOUN kaping-15/ADJ ./PUNCT 
+Ki/PROPN Ageng/PROPN Kutu/PROPN krasa/VERB manawa/SCONJ Majapahit/PROPN wus/AUX nyedhaki/VERB umure/_ umur/NOUN e/PRON ./PUNCT 
+Ki/PROPN Ageng/PROPN Kutu/PROPN banjur/ADV milih/VERB ninggalake/VERB ratune/_ ratu/NOUN e/PRON lan/CCONJ ngedhegake/VERB padhepokan/NOUN seni/NOUN bela/VERB diri/PRON ./PUNCT 
+Ing/ADP pagelaran/NOUN reyog/NOUN iku/DET paragane/_ paraga/NUM e/DET nggunakake/VERB topeng/NOUN awujud/VERB sirah/NOUN singa/NOUN barong/NOUN kang/PRON dadi/VERB simbole/_ simbol/NOUN e/DET Kertabhumi/PROPN ./PUNCT 
+Idulfitri/PROPN utawa/CCONJ Lebaran/PROPN taun/NOUN iki/DET pancen/ADV mirunggan/ADJ tumrape/ADP warga/NOUN Dhusun/PROPN Selamarta/PROPN ./PUNCT 
+Akeh/DET penyebabe/_ penyebab/X e/DET sing/PRON njalari/VERB mirunggan/ADJ ./PUNCT 
+Kapindho/NUM ,/PUNCT acara/NOUN halalbihalal/NOUN dibarengake/VERB karo/ADP acara/NOUN reuni/NOUN warga/NOUN Selamarta/PROPN ./PUNCT 
+Cekake/VERB kabeh/DET warga/NOUN nyepakake/VERB dhaharan/NOUN ,/PUNCT nyamikan/NOUN ,/PUNCT lan/CCONJ unjukan/NOUN kanthi/ADP lega/ADJ lila/ADJ ./PUNCT 
+Sakabehane/_ Sakabehan/NOUN e/DET gratis/ADJ ,/PUNCT ora/PART ana/VERB sing/PRON dibayar/VERB ./PUNCT 
+Umpamane/_ Umpama/NOUN e/DET ,/PUNCT nyamikan/NOUN digawe/VERB warga/NOUN kanthi/ADP bahan/NOUN dhasar/NOUN asil/NOUN tetanen/NOUN ./PUNCT 
+Kanggo/SCONJ dhahar/VERB siang/NOUN dicawisake/VERB sega/NOUN bancakan/NOUN dibuntel/VERB godhong/NOUN jati/NOUN ./PUNCT 
+Saben/DET meja/NOUN diwenehi/VERB kendhi/NOUN siji/NUM lan/CCONJ cangkir/NOUN enem/NUM ./PUNCT 
+Sapa/PRON wae/ADV sing/PRON nyawang/VERB mesthi/AUX bungah/ADJ ./PUNCT 
+Ing/ADP emperan/NOUN digawe/VERB panggung/NOUN ,/PUNCT sisih/NOUN mburi/NOUN dipasangi/VERB kaya/ADP dene/ADP spanduk/NOUN saka/ADP plastik/NOUN ./PUNCT 
+Para/DET warga/NOUN padha/ADJ lungguh/VERB tumata/ADJ rapi/ADJ ing/ADP latare/_ latar/NOUN e/DET Pak/PROPN RW/PROPN sing/PRON wis/AUX dipasangi/VERB tratag/NOUN ./PUNCT 
+Ing/ADP ngisor/NOUN tratag/NOUN iku/DET ditata/VERB meja/NOUN lan/CCONJ kursi/NOUN ./PUNCT 
+Saben/DET meja/NOUN diubengi/VERB enem/NUM kursi/NOUN ./PUNCT 
+Kabeh/DET kursi/NOUN dileti/VERB siji/NUM lan/CCONJ sijine/_ siji/NUM e/DET ./PUNCT 
+Kabeh/DET tamu/NOUN undangan/NOUN jumeneng/VERB karo/CCONJ ngidung/VERB lagu/NOUN Indonesia/PROPN Raya/PROPN ./PUNCT 
+Rampung/VERB lagu/NOUN Indonesia/PROPN Raya/PROPN ,/PUNCT acara/NOUN dibacutake/VERB sambutan/NOUN ketua/NOUN panitya/NOUN ./PUNCT 
+Bu/PROPN Guru/PROPN minangka/ADP ketua/NOUN panitya/NOUN ngaturake/VERB panuwun/NOUN marang/ADP tamu/NOUN kabeh/DET ./PUNCT 
+Para/DET warga/NOUN perantau/NOUN padha/ADJ nggumun/VERB mirengake/VERB ature/_ atur/NOUN e/DET Bu/PROPN Guru/PROPN ./PUNCT 
+Kabeh/DET iku/PRON nggambarake/VERB yen/SCONJ pidhatone/_ pidhato/NOUN e/DET Pak/PROPN RT/PROPN ditampa/VERB kanthi/ADP bungah/ADJ ./PUNCT 
+Kabeh/DET wong/NOUN bungah/ADJ ,/PUNCT ora/PART ana/VERB sing/PRON susah/ADJ ./PUNCT 
+Grup/NOUN campursari/NOUN nyuguhake/VERB tembang/NOUN nostalgia/ADJ ,/PUNCT tembang/NOUN kenangan/NOUN ./PUNCT 
+Reuni/NOUN Nyawiji/PROPN Idulfitri/PROPN dipungkasi/VERB kanthi/SCONJ nembang/VERB bebarengan/ADV tembang/NOUN Kemesraan/PROPN ./PUNCT 
+Puput/ADP tembang/NOUN iku/DET ,/PUNCT warga/NOUN banjur/ADV salam-salaman/VERB karo/SCONJ ngucap/VERB ,/PUNCT nyuwun/VERB pangapunten/NOUN lair/NOUN bathin/NOUN ./PUNCT 
+Lan/CCONJ warga/NOUN uga/ADV ndedonga/VERB muga-muga/ADV taun/NOUN ngarep/ADJ bisa/AUX ketemu/VERB Idulfitri/PROPN maneh/ADV ./PUNCT 
+Saka/ADP kalen/NOUN iki/DET warga/NOUN tani/NOUN nggantungake/VERB panguripane/_ panguripan/NOUN e/PRON ./PUNCT 
+Kalen/NOUN siji-sijine/_ siji-siji/NUM e/DET kang/PRON mujur/VERB ngulon/NOUN ngliwati/VERB tapel/NOUN wates/NOUN desa/NOUN tembus/VERB tekan/ADP kali/NOUN gedhe/ADJ ./PUNCT 
+Sawah-sawah/NOUN dadi/VERB ora/PART kesuwen/ADV kasatan/ADJ ./PUNCT 
+Jamal/PROPN lan/CCONJ kanca-kancane/_ kanca-kanca/NOUN e/PRON bisa/AUX luwih/ADV cepet/ADJ nggarap/VERB sawahe/_ sawah/NOUN e/DET ./PUNCT 
+Bocah/NOUN enom/ADJ sing/PRON gelem/VERB kaya/ADP Jamal/PROPN ora/PART akeh/ADJ ,/PUNCT kepara/ADV malah/ADV ora/PART ana/VERB ./PUNCT 
+Banyu/NOUN abang/ADJ sing/PRON mlebu/VERB sawahe/_ sawah/NOUN e/DET lan/CCONJ kabeh/DET sawah/NOUN ing/ADP desane/_ desa/NOUN e/DET gawe/VERB kasile/_ kasil/NOUN e/DET panen/NOUN kurang/ADV maremake/VERB ./PUNCT 
+Sawetara/DET menit/NOUN sawise/ADV ,/PUNCT banyu/NOUN abang/ADJ kang/PRON dipyuri/VERB bubuk/NOUN putih/ADJ kuwi/DET malih/VERB bening/ADJ kaya/ADP lumrahe/ADV banyu/NOUN sadurunge/ADV ./PUNCT 
+Miturut/VERB Maskuri/PROPN ,/PUNCT tradhisi/NOUN Sadrananan/PROPN wus/AUX ana/VERB kawit/ADP taun/NOUN 1450/NUM ./PUNCT 
+Tradhisi/NOUN iku/DET diusumke/VERB dening/ADP salah/ADJ sijining/NUM muride/_ murid/NOUN e/DET Sunan/PROPN Kalijaga/PROPN saka/ADP Demak/PROPN ,/PUNCT yaiku/AUX Syeh/PROPN Ibrahim/PROPN ,/PUNCT nalika/SCONJ dakwah/VERB menyang/ADP Sukabumi/PROPN ./PUNCT 
+Ing/ADP Desa/PROPN Kaliwungu/PROPN ,/PUNCT Kabupaten/PROPN Semarang/PROPN ,/PUNCT uga/ADV ginelar/VERB adicara/NOUN tradhisi/NOUN nyadran/NOUN ing/ADP pasareyan/NOUN Sidorejo/PROPN ,/PUNCT Dusun/PROPN Kalikendang/PROPN ./PUNCT 
+Tradhisi/PROPN iku/DET wus/AUX dilakoni/VERB warga/NOUN kawit/ADP jaman/NOUN mbiyen/ADV lan/CCONJ isih/ADV dileluri/VERB nganti/ADP saiki/ADV ./PUNCT 
+Tradhisi/NOUN nyadran/NOUN ing/ADP Kaliwungu/PROPN ,/PUNCT para/DET wargane/_ warga/NOUN e/PRON padha/ADJ nggawa/VERB tumpeng/NOUN ,/PUNCT ingkung/NOUN ,/PUNCT lan/CCONJ sakubarampene/NOUN ./PUNCT 
+Nyadran/NOUN uga/ADV dadi/VERB sarana/NOUN resik-resik/NOUN pasareyan/NOUN amarga/SCONJ ing/ADP dina/NOUN umume/ADV warga/NOUN arang-arang/ADJ nyekar/VERB ing/ADP pasareyan/NOUN ./PUNCT 
+Adicara/NOUN nyadran/NOUN iku/DET diwiwiti/VERB kanthi/ADP resik-resik/NOUN sakjroning/ADP pasareyan/NOUN lan/CCONJ sakiwa/NOUN tengene/_ tengene/NOUN e/DET ./PUNCT 
+Uga/ADV diterusake/VERB nyekar/VERB ing/ADP kuburane/_ kuburan/NOUN e/DET leluhure/_ leluhur/NOUN e/DET dhewe-dhewe/DET ./PUNCT 
+Sabanjure/ADV maca/VERB donga/NOUN sing/PRON dipimpin/VERB dening/ADP sesepuh/NOUN dhaerah/NOUN kono/ADV ./PUNCT 
+Pungkasaning/_ pungkasan/NOUN ing/ADP adicara/NOUN yaiku/AUX kembul/NOUN bujana/NOUN bebarengan/ADV sing/PRON bisa/AUX nambah/VERB gayenge/_ gayeng/NOUN e/DET swasana/NOUN ./PUNCT 
+Freddy/PROPN nyebut/VERB tembang/NOUN dolanan/NOUN iku/DET uga/ADV dadi/VERB perangane/_ perangan/NOUN e/DET karya/NOUN sastra/NOUN ./PUNCT 
+Nalika/ADP semana/PRON ,/PUNCT Sunan/PROPN Giri/PROPN nggiyarake/VERB agama/NOUN Islam/PROPN ing/ADP Indonesia/PROPN ,/PUNCT utamane/ADV Pulo/PROPN Jawa/PROPN kanthi/ADP cara/NOUN liwat/VERB seni/NOUN kabudayaan/NOUN ./PUNCT 
+Tembang/NOUN dolanan/NOUN Cublak-cublak/PROPN Suweng/PROPN iku/DET kabeh/PRON nganggo/VERB basa/NOUN Jawa/PROPN ./PUNCT 
+Mbak/PROPN Kanthi/PROPN kang/PRON lagi/AUX maca/VERB buku/NOUN ing/ADP jero/NOUN kamar/NOUN ,/PUNCT krungu/VERB bengokane/_ bengokan/NOUN e/DET bocah-bocah/NOUN ./PUNCT 
+Gambar/NOUN relief/NOUN ing/ADP gang/NOUN utama/ADJ RT/PROPN 007/NUM //PUNCT RW/PROPN 010/NUM Kampung/PROPN Hepi/PROPN Joho/PROPN ,/PUNCT Manahan/PROPN ,/PUNCT Banjarsari/PROPN ,/PUNCT Solo/PROPN ,/PUNCT kang/PRON nyritakake/VERB sujarah/NOUN abad/NOUN XVIII/NUM nganti/ADP jaman/NOUN kamardikan/NOUN ,/PUNCT Rabu/PROPN (/PUNCT 1/NUM //PUNCT 6/NUM //PUNCT 2022/NUM )/PUNCT ./PUNCT 
+Relief/NOUN utawa/CCONJ gambar/NOUN kang/PRON nemplek/VERB ing/ADP tembok/NOUN omahe/_ omah/NOUN e/PRON warga/NOUN ana/VERB tulisane/_ tulisan/NOUN e/DET “/PUNCT Tanah/NOUN Jawa/PROPN Abad/NOUN XVIII/NUM ./PUNCT ”/PUNCT 
+Relief/NOUN kuwi/DET ana/VERB ing/ADP sadawaning/NOUN gang/NOUN nuju/VERB Kampung/PROPN Hepi/PROPN Joho/PROPN lan/CCONJ nyritakake/VERB rikala/NOUN jaman/NOUN penjajahan/X Walanda/PROPN nganti/SCONJ dumadine/_ dumadi/VERB e/DET Kutha/PROPN Solo/PROPN ./PUNCT 
+Relief/NOUN sujarah/NOUN iku/DET penere/ADJ ana/VERB ing/ADP njero/NOUN gang/NOUN nuju/VERB Kampung/PROPN Hepi/PROPN Joho/PROPN RT/PROPN 007/NUM //PUNCT RW/PROPN 010/NUM Kelurahan/PROPN Manahan/PROPN ,/PUNCT Banjarsari/PROPN ,/PUNCT Solo/PROPN ./PUNCT 
+Ketua/NOUN RT/PROPN 007/NUM ,/PUNCT Yunus/PROPN Ariseno/PROPN ,/PUNCT 50/NUM ,/PUNCT mratelakake/VERB relief/NOUN kang/PRON digambarake/VERB awujud/VERB kumpulaning/NOUN manungsa/NOUN lan/CCONJ sato/NOUN kewan/NOUN iku/DET nyritakake/VERB sujarah/NOUN adeging/NOUN Kutha/PROPN Solo/PROPN ./PUNCT 
+Gambaran/NOUN iku/DET ,/PUNCT ujare/_ ujar/VERB e/DET Yunus/PROPN ,/PUNCT dicritakake/VERB kanthi/ADP ringkes/ADJ supaya/SCONJ dadi/VERB sarana/NOUN piwulang/NOUN kanggo/ADP bocah-bocah/NOUN ,/PUNCT warga/NOUN ,/PUNCT lan/CCONJ sapa/PRON wae/ADV kang/PRON dolan/VERB mrono/ADV ./PUNCT 
+Relief/NOUN kang/PRON dawane/_ dawa/NOUN e/DET 15/NUM meter/NOUN lan/CCONJ nyritakake/VERB sujarah/NOUN Kutha/PROPN Solo/PROPN iku/DET digambar/VERB dening/ADP salah/ADJ sijining/NUM warga/NOUN Kampung/PROPN Hepi/PROPN Joho/PROPN ,/PUNCT Maryanto/PROPN ./PUNCT 
+Critane/_ Crita/NOUN e/DET ya/PART jaman/NOUN pindhahan/NOUN saka/ADP penjajahan/X nganti/SCONJ tekan/VERB adeging/NOUN Kutha/PROPN Solo/PROPN ./PUNCT 
+"/PUNCT Dicritakake/VERB kanthi/ADP cekak/ADJ aos/ADJ ,/PUNCT ya/PART udakara/ADV dawane/_ dawa/NOUN e/DET 15/NUM meter/NOUN ,/PUNCT ”/PUNCT ujare/_ ujar/VERB e/DET Maryanto/PROPN nalika/SCONJ ditemoni/VERB Solopos.com/PROPN ,/PUNCT Rebo/PROPN (/PUNCT 1/NUM //PUNCT 6/NUM //PUNCT 2022/NUM )/PUNCT ./PUNCT 
+Relief/NOUN iku/DET nggambarake/VERB perang-perang/NOUN nalika/ADP Geger/PROPN Pecinan/PROPN ,/PUNCT sodagar/NOUN bathik/NOUN ,/PUNCT wong/NOUN tani/NOUN nganti/SCONJ dumadine/_ dumadi/VERB e/DET Kutha/PROPN Solo/PROPN tekan/ADP saiki/ADV ./PUNCT 
+Yunus/PROPN mratelakake/VERB relief/NOUN utawa/CCONJ mural/NOUN kang/PRON ana/VERB sesambungane/_ sesambungan/NOUN e/DET karo/ADP sujarah/NOUN iku/DET saliyane/ADP kanggo/ADP sarana/NOUN memulang/VERB uga/ADV dadi/VERB pangeling-eling/NOUN semangate/_ semangat/NOUN e/PRON para/DET pahlawan/NOUN nalika/SCONJ merjuwangake/VERB kamardikane/_ kamardikan/NOUN e/DET Indonesia/PROPN ./PUNCT 
+“/PUNCT Dadi/ADV nalika/SCONJ kita/PRON nyawang/VERB relief/NOUN iku/DET ,/PUNCT pangajabe/_ pangajab/NOUN e/PRON semangate/_ semangat/NOUN e/PRON awake/PRON dhewe/PRON kanggo/SCONJ njaga/VERB kampung/NOUN iki/DET ajeg/ADJ ana/VERB ,/PUNCT kanthi/SCONJ ngleluri/VERB ,/PUNCT gotong/NOUN royong/NOUN ,/PUNCT guyub/NOUN rukun/NOUN ,/PUNCT ”/PUNCT ujare/_ ujar/VERB e/PRON ./PUNCT 
+Sanajan/SCONJ awake/PRON dhewe/PRON ora/PART urip/VERB ing/ADP abad/NOUN kaping/ADJ -/PUNCT 18/NUM ,/PUNCT surasane/ADV tetep/ADV bisa/AUX ngrasakake/VERB swasana/NOUN perang/NOUN rikala/NOUN semana/DET ./PUNCT 
+"/PUNCT Kabeh/PRON kuwi/DET ditata/VERB liwat/VERB relief/NOUN kang/PRON edi/ADJ peni/ADJ lan/CCONJ ngandhut/VERB piwulang/NOUN rasa/NOUN kang/PRON gampang/ADJ ditampa/VERB dening/ADP wong-wong/NOUN sing/PRON padha/ADJ ngematake/VERB ,/PUNCT ”/PUNCT tambahe/_ tambah/VERB e/PRON ./PUNCT 
+Salah/ADJ siji/NUM warga/NOUN ,/PUNCT Lusi/PROPN ,/PUNCT 17/NUM ,/PUNCT rumangsa/VERB melu/VERB mongkog/ADJ bisa/AUX dadi/VERB warga/NOUN Kampung/PROPN Joho/PROPN ./PUNCT 
+Mongkoging/NOUN ati/NOUN iku/DET amarga/SCONJ ana/VERB karya/NOUN seni/NOUN sing/PRON miturut/VERB panemune/_ panemu/NOUN e/PRON ora/PART bisa/AUX ditemokake/VERB ing/ADP dhaerah/NOUN seje/ADJ ./PUNCT 
+Aku/PRON rumangsa/VERB kabegjan/NOUN amarga/SCONJ bisa/AUX melu/VERB ngematake/VERB karya-karya/NOUN kang/PRON nggambarake/VERB sujarah/NOUN ./PUNCT 
+Karyane/_ Karya/NOUN e/PRON apik/ADJ ,/PUNCT bisa/AUX kanggo/VERB bahan/NOUN crita/NOUN nalika/SCONJ ana/VERB kanca/NOUN dolan/VERB mrene/ADV ./PUNCT 
+"/PUNCT Bisa/AUX dakpameri/_ dak/PRON pameri/VERB ,/PUNCT ”/PUNCT ujare/_ ujar/VERB e/DET Lusi/PROPN ./PUNCT 
+Warga/NOUN liyane/_ liya/ADJ e/DET ,/PUNCT Maryani/PROPN ,/PUNCT 40/NUM ,/PUNCT ngajab/VERB supaya/SCONJ kawula/NOUN mudha/ADJ ora/PART nganti/SCONJ lali/VERB sujarahe/_ sujarah/NOUN e/PRON dhewe/DET ./PUNCT 
+Muga-muga/ADV liwat/VERB sarana/NOUN gambar/NOUN iku/DET ,/PUNCT bocah-bocah/NOUN nom/ADJ saiki/ADV gelem/VERB sinau/VERB maneh/ADV ,/PUNCT mligine/ADV sujarah/NOUN ing/ADP Kutha/PROPN Solo/PROPN ./PUNCT 
+Pangajabku/_ Pangajab/NOUN ku/PRON kaya/ADP mangkono/PRON iku/DET ./PUNCT 
+Nalika/SCONJ bocah-bocah/NOUN nyawang/VERB relief/NOUN iku/DET ,/PUNCT kabeh/PRON dadi/VERB mudeng/VERB ,/PUNCT oh/INTJ ndhisik/NOUN kuwi/DET jebul/ADV swasana/NOUN perang/NOUN nglawan/VERB penjajah/X kaya/ADP mangkono/PRON kuwi/DET ./PUNCT 
+"/PUNCT Apamaneh/ADV bocah-bocah/NOUN senenge/_ seneng/VERB e/DET sinau/VERB kanthi/ADP sarana/NOUN gambar/NOUN ,/PUNCT padha/ADJ bisa/AUX ngangen-angen/VERB ana/VERB sato/NOUN kewan/NOUN ,/PUNCT wong/NOUN tani/NOUN ,/PUNCT lan/CCONJ perang/NOUN ing/ADP abad/NOUN kaping/ADJ -/PUNCT 18/NUM ,/PUNCT ”/PUNCT ujare/_ ujar/VERB e/DET Maryani/PROPN ./PUNCT 
+Saka/ADP panyawange/_ panyawang/NOUN e/DET Solopos.com/PROPN ,/PUNCT relief/NOUN iku/DET nggambarake/VERB saperangan/DET warga/NOUN pribumi/NOUN kang/PRON nglawan/VERB penjajah/X ./PUNCT 
+Penjajah/NOUN jroning/ADP gambaran/NOUN iku/DET nyandhang/VERB kostum/NOUN prejurit/NOUN nganggo/VERB topi/NOUN ./PUNCT 
+Dene/ADV pribumi/NOUN digambarake/VERB nganggo/VERB busana/NOUN adat/NOUN Jawa/PROPN lengen/NOUN dawa/ADJ ,/PUNCT clana/NOUN ukuran/NOUN seprapat/NUM lan/CCONJ nganggo/VERB blangkon/NOUN (/PUNCT kanggo/ADP wong/NOUN lanang/NOUN )/PUNCT lan/CCONJ kebaya/NOUN (/PUNCT kanggo/ADP wong/NOUN wadon/NOUN )/PUNCT ./PUNCT 
+Warga/NOUN pribumi/NOUN uga/ADV dituduhake/VERB nggawa/VERB gaman/NOUN arupa/VERB pring/NOUN lincip/ADJ ,/PUNCT panah/NOUN ,/PUNCT lan/CCONJ keris/NOUN ./PUNCT 
+Ing/ADP gambaran/NOUN iku/DET uga/ADV ana/VERB sato/NOUN kewan/NOUN kayata/ADP kebo/NOUN ,/PUNCT pithik/NOUN ,/PUNCT bebek/NOUN ,/PUNCT lan/CCONJ uga/ADV wong/NOUN tani/NOUN sing/PRON lagi/AUX manen/VERB pari/NOUN ./PUNCT 
+Saliyane/SCONJ nggambarake/VERB swasana/NOUN perang/NOUN rikala/NOUN semana/DET ,/PUNCT uga/ADV ana/VERB logo/PROPN Kraton/PROPN Kasunanan/PROPN Solo/PROPN lan/CCONJ Mangkunegaran/PROPN ./PUNCT 
+Rubrik/PROPN Jagad/PROPN Jawa/PROPN ugi/ADV kababar/VERB ing/ADP Koran/PROPN Solopos/PROPN saben/DET dinten/NOUN Kemis/PROPN ./PUNCT 
+Ing/ADP babaran/NOUN Kemis/PROPN (/PUNCT 17/NUM //PUNCT 1/NUM //PUNCT 2019/NUM )/PUNCT menika/DET kapacak/VERB bab/ADP lagu/NOUN metal/X ./PUNCT 
+Musik/NOUN rock/X lan/CCONJ metal/X kalebu/VERB salah/ADJ sawijining/DET jinis/NOUN kesenian/NOUN sing/PRON disenengi/VERB nom-noman/NOUN ./PUNCT 
+Musik/NOUN kasebut/VERB duwe/VERB pandemen/NOUN kang/PRON setya/ADJ lan/CCONJ militan/NOUN ./PUNCT 
+Menyang/ADP ngendi/PRON wae/ADV pepanthan/NOUN kang/PRON disenengi/VERB pentas/VERB ,/PUNCT bakal/AUX tut/VERB wuri/VERB kanggo/SCONJ nonton/VERB ./PUNCT 
+Musik/NOUN jinis/NOUN rock/X sarwa/ADV banter/ADJ ,/PUNCT musik/NOUN lan/CCONJ suwarane/_ suwara/NOUN e/PRON sing/PRON nyanyi/VERB ./PUNCT 
+Kadhangkala/ADV cakepane/_ cakepan/NOUN e/DET lagu/NOUN ora/PART cetha/ADJ awit/ADP cawuh/NOUN karo/ADP musike/_ musik/NOUN e/DET ./PUNCT 
+Sanadyan/ADP mengkana/PRON ya/PART tetep/ADV akeh/ADJ sing/PRON jejogetan/VERB nalika/SCONJ teka/VERB ing/ADP pentas/NOUN musik/NOUN kasebut/VERB ./PUNCT 
+Cakepan/NOUN tembang/NOUN rock/X biyasane/ADV nganggo/VERB basa/NOUN Indonesia/PROPN utawa/CCONJ Inggris/PROPN ./PUNCT 
+Nanging/CCONJ beda/VERB karo/ADP liyane/_ liya/ADJ e/DET pepanthan/NOUN musik/NOUN black/X metal/X saka/ADP Solo/PROPN ,/PUNCT Makam/PROPN ,/PUNCT gawe/VERB lagu-lagu/NOUN nganggo/VERB basa/NOUN campuran/NOUN ./PUNCT 
+Judhule/_ Judhul/NOUN e/DET basa/NOUN Inggris/PROPN ,/PUNCT isine/_ isi/NOUN e/DET Indonesia/PROPN lan/CCONJ Jawa/PROPN ./PUNCT 
+Ora/PART mung/ADV kuwi/DET ,/PUNCT isine/_ isi/NOUN e/DET uga/ADV mbabar/VERB babagan/SCONJ sing/PRON ana/VERB gandheng/NOUN rakete/_ raket/ADJ e/DET karo/ADP ajaran/NOUN Jawa/PROPN sing/PRON ana/VERB ing/ADP naskah/NOUN Jawa/PROPN kuna/ADJ ./PUNCT 
+Sanadyan/SCONJ katon/VERB aeng/ADJ ,/PUNCT grup/NOUN musik/NOUN iki/DET duwe/VERB rong/NUM album/NOUN sing/PRON ngandhut/VERB bab/ADP Jawa/PROPN ./PUNCT 
+Priya/NOUN kang/PRON kajibah/VERB nabuh/NOUN drum/X ing/ADP pepanthan/NOUN utawa/CCONJ grup/NOUN Makam/PROPN ,/PUNCT Julius/PROPN ,/PUNCT ngandharake/VERB grup/NOUN Makam/PROPN wis/AUX pentas/VERB tekan/ADP ngendi-ngendi/PRON saindhenge/DET Indonesia/PROPN ./PUNCT 
+Malahan/ADV nganti/ADP tekan/VERB Malaysia/PROPN barang/ADV ./PUNCT 
+Sanadyan/SCONJ nganggo/VERB basa/NOUN Jawa/PROPN kuna/ADJ lan/CCONJ simbol-simbol/NOUN Jawa/PROPN kayata/ADP Canthik/PROPN Rajamala/PROPN ,/PUNCT musike/_ musik/NOUN e/PRON tetep/ADV disenengi/VERB wong/NOUN akeh/DET ./PUNCT 
+Saben/DET Makam/PROPN pentas/VERB mesti/ADV akeh/DET wong/NOUN kang/PRON nonton/VERB padha/ADJ jejogedan/VERB rakaruan/_ ra/PART karuan/ADJ ./PUNCT 
+Julius/PROPN ngandharake/VERB wiwit/SCONJ ngadeg/VERB ing/ADP taun/NOUN 1990-an/NOUN Makam/PROPN yawis/_ ya/PART wis/AUX kerep/ADV gawe/VERB lagu/NOUN saka/ADP naskah/NOUN kuna/ADJ ./PUNCT 
+Iku/PRON minangka/ADP pratandha/NOUN ben/SCONJ beda/VERB karo/ADP liyane/_ liya/ADJ e/DET ./PUNCT 
+Uga/ADV sarana/NOUN nguri-uri/VERB kabudayan/NOUN supayane/SCONJ ora/PART angslup/ADJ katrajang/VERB jaman/NOUN ./PUNCT 
+Ing/ADP taun/NOUN 2012/NUM ,/PUNCT Makam/PROPN tau/ADV kolaborasi/VERB utawa/CCONJ tembayatan/VERB kalawan/ADP grup/NOUN gamelan/NOUN Etnomusikologi/PROPN ISI/PROPN Solo/PROPN nalika/ADP pentas/NOUN ing/ADP pambukaning/NOUN Rock/PROPN in/PROPN Solo/PROPN (/PUNCT RIS/PROPN )/PUNCT ./PUNCT 
+Naskah/NOUN sing/PRON didadekake/VERB dhasar/NOUN lagu/NOUN iku/DET ora/PART sabaene/ADJ ./PUNCT 
+Apa/PRON meneh/ADV penyanyine/_ penyanyi/NOUN e/DET iku/DET abdi/NOUN dalem/ADJ keraton/NOUN ./PUNCT 
+"/PUNCT Dadine/ADV ya/PART ngerti/VERB babagan/ADP naskah/NOUN Jawa/PROPN ,/PUNCT ”/PUNCT kandhane/_ kandha/VERB e/DET Julius/PROPN ./PUNCT 
+Ing/ADP pepanthan/NOUN musik/NOUN liyane/_ liya/ADJ e/DET ,/PUNCT gitaris/ADJ grup/NOUN musik/NOUN Bandoso/PROPN ,/PUNCT Agung/PROPN ,/PUNCT uga/ADV duwe/VERB angkah/NOUN gawe/VERB lagu/NOUN adhedhasar/VERB naskah/NOUN Jawa/PROPN ./PUNCT 
+Kekarepan/NOUN iku/DET timbul/VERB sakbubare/SCONJ dheweke/PRON kerep/ADV melu/VERB kajian/NOUN naskah/NOUN kuna/ADJ ing/ADP Radyapustaka/PROPN ./PUNCT 
+Piwulang/NOUN sing/PRON ana/VERB ing/ADP naskah/NOUN iku/DET bisa/AUX ditrepake/VERB ing/ADP ngendi/PRON wae/ADV ./PUNCT 
+Saben/DET taun/NOUN Pemkot/PROPN Solo/PROPN mengeti/VERB ambal/NOUN warsane/_ warsa/NOUN e/DET tanggal/NOUN 16/NUM Juni/PROPN ./PUNCT 
+Ana/VERB sujarahe/_ sujarah/NOUN e/DET kenapa/ADV tanggal/NOUN 16/NUM Juni/PROPN didadekake/VERB ambal/NOUN warsane/_ warsa/NOUN e/DET Pemkot/PROPN Solo/PROPN ./PUNCT 
+Warga/NOUN masarakat/NOUN Solo/PROPN nonton/VERB pentas/NOUN beksan/NOUN ing/ADP Bale/PROPN Kota/PROPN Solo/PROPN ,/PUNCT sawetara/DET wektu/NOUN kapungkur/ADV ./PUNCT 
+Pemerintah/PROPN Kota/PROPN (/PUNCT Pemkot/PROPN )/PUNCT Solo/PROPN mangayu/VERB bagya/ADP ambal/NOUN warsane/_ warsa/NOUN e/DET kaping-76/ADJ ,/PUNCT Kemis/PROPN (/PUNCT 16/NUM //PUNCT 6/NUM //PUNCT 2022/NUM )/PUNCT kepungkur/ADJ ./PUNCT 
+Pangarsa/NOUN Solo/PROPN Societeit/PROPN ,/PUNCT pepanthan/NOUN sutresna/NOUN sujarah/NOUN Solo/NOUN ,/PUNCT Dani/PROPN Saptoni/PROPN ,/PUNCT mratelakake/VERB tanggal/NOUN 16/NUM Juni/PROPN 1946/NUM mbarengi/VERB karo/ADP nalika/ADP Daerah/PROPN Istimewa/PROPN Surakarta/PROPN (/PUNCT DIS/PROPN )/PUNCT ora/PART ana/VERB pepesthene/_ pepesthe/NOUN e/DET ./PUNCT 
+Nalika/ADP kuwi/DET ,/PUNCT Solo/PROPN dicekel/VERB Keraton/PROPN Kasunanan/PROPN Surakarta/PROPN Hadiningrat/PROPN (/PUNCT Keraton/PROPN Solo/PROPN )/PUNCT sarta/CCONJ Pura/PROPN Mangkunegaran/PROPN ./PUNCT 
+Satemene/ADV pamikiran/NOUN kanggo/ADP kuwi/PRON dudu/PART 16/NUM Juni/PROPN ./PUNCT 
+"/PUNCT Rikala/NOUN semana/DET Menteri/PROPN Dalam/PROPN Negeri/NOUN ing/ADP Jogja/PROPN ,/PUNCT Mr./PROPN Sudarsono/PROPN ,/PUNCT tanggal/NOUN 27/NUM Mei/PROPN 1946/NUM ngangkat/VERB Gubernur/PROPN Suryo/PROPN dadi/VERB Wakil/PROPN Pemerintah/PROPN Daerah/PROPN ing/ADP Surakarta/PROPN ,/PUNCT ”/PUNCT pratelane/_ pratela/VERB e/DET nalika/SCONJ diwawancarai/VERB Solopos.com/PROPN ,/PUNCT Rebo/PROPN (/PUNCT 15/NUM //PUNCT 6/NUM //PUNCT 2022/NUM )/PUNCT ./PUNCT 
+Miturut/VERB Dani/PROPN ,/PUNCT jaman/NOUN semana/DET pamarentah/NOUN ora/PART gage-gage/ADV mesthekake/VERB statuse/_ status/NOUN e/DET DIS/PROPN nanging/CCONJ malah/ADV ndadekake/VERB dhaerah/NOUN Karesidenan/PROPN Surakarta/PROPN ./PUNCT 
+Dhasare/_ Dhasar/NOUN e/DET ,/PUNCT wektu/NOUN kuwi/DET nggatekake/VERB abot/ADP entenge/_ enteng/ADJ e/DET kahanan/NOUN Kutha/PROPN Solo/PROPN sing/PRON lagi/AUX ora/PART aman/ADJ ,/PUNCT sejene/ADP kahanan/NOUN pulitike/_ pulitik/NOUN e/DET lagi/AUX semrawut/VERB ./PUNCT 
+Pamarentah/NOUN banjur/ADV netepake/VERB Karesidenan/PROPN Surakarta/PROPN sacara/ADP resmi/ADJ tanggal/NOUN 15/NUM Juli/PROPN 1946/NUM ./PUNCT 
+Nanging/ADV ,/PUNCT Dani/PROPN mbacutake/VERB ,/PUNCT kahanan/NOUN Solo/PROPN uga/ADV ngrembaka/VERB maneh/ADV ./PUNCT 
+Solo/NOUN sansaya/ADV nggegirisi/VERB ,/PUNCT akeh/DET wong/NOUN sing/PRON ujug-ujug/ADV ilang/VERB ora/PART konangan/VERB ./PUNCT 
+Kahanan/NOUN kaya/ADP mangkono/PRON kuwi/DET marai/VERB ati/NOUN trataban/NOUN ./PUNCT 
+Kahanane/_ Kahanan/NOUN e/DET sarwa/ADV ora/PART nentremake/VERB ati/NOUN lan/CCONJ pikir/NOUN ./PUNCT 
+Sabanjure/ADV [/PUNCT pamarentah/NOUN ]/PUNCT ngangkat/VERB Kolonel/PROPN Gatot/PROPN Subroto/PROPN dadi/VERB Gubernur/PROPN Militer/PROPN 1948/NUM ./PUNCT 
+"/PUNCT Kutha/PROPN Solo/PROPN klebu/VERB jroning/ADP dhaerah/NOUN militer/NOUN ,/PUNCT ”/PUNCT ujare/_ ujar/VERB e/PRON ./PUNCT 
+Sesambungane/_ Sesambungan/NOUN e/DET karo/ADP alesan/NOUN kenapa/ADV sing/PRON dipilih/VERB minangka/ADP tanggal/NOUN pengetan/NOUN ambal/NOUN warsane/_ warsa/NOUN e/DET Pemkot/PROPN Solo/PROPN yaiku/AUX tanggal/NOUN 16/NUM Juni/PROPN lan/CCONJ dudu/PART 15/NUM Juli/PROPN ,/PUNCT Dani/PROPN njlentrehake/VERB bisa/AUX wae/ADV jalaran/SCONJ njupuk/VERB momentum/NOUN nalika/ADP pamarentah/NOUN pusat/NOUN sacara/ADP resmi/ADJ ora/PART ndang/ADV ndadekake/VERB status/NOUN DIS/PROPN dadi/VERB karesidenan/NOUN ./PUNCT 
+Dani/PROPN nyebut/VERB Mr./PROPN Iskaq/PROPN Tjokrohadisoerjo/PROPN diangkat/VERB dadi/VERB kepala/NOUN dhaerah/NOUN kapisan/ADJ kang/PRON mimpin/VERB Solo/NOUN nalika/ADP wujude/_ wujud/NOUN e/DET residen/NOUN ./PUNCT 
+Mr./PROPN Iskaq/PROPN mimpin/VERB Solo/PROPN sasuwene/ADP 15/NUM Juli/PROPN -/PUNCT 14/NUM November/PROPN 1946/NUM ./PUNCT 
+Sabanjure/ADV Solo/PROPN klebu/VERB jroning/ADP dhaerah/NOUN militer/NOUN kanthi/ADP Gubernur/PROPN Militer/PROPN Kolonel/PROPN Gatot/PROPN Subroto/PROPN 1948/NUM ./PUNCT 
+Dene/ADV saka/ADP sumber/NOUN resmi/ADJ DPRD/PROPN Solo/PROPN ,/PUNCT disebutake/VERB ana/VERB rong/NUM pehak/NOUN kang/PRON nduweni/VERB kuwasa/NOUN saengga/SCONJ ndadekake/VERB Kutha/PROPN Solo/PROPN madeg/VERB sajroning/NOUN rong/NUM administrasi/X ,/PUNCT yaiku/AUX Keraton/PROPN Solo/PROPN lan/CCONJ Pura/PROPN Mangkunegaran/PROPN ./PUNCT 
+Daya/NOUN kuwasa/NOUN pulitike/_ pulitik/NOUN e/DET sakloron/NUM banjur/ADV dicopot/VERB sawuse/SCONJ nagara/NOUN Republik/PROPN Indonesia/PROPN diresmekake/VERB tanggal/NOUN 17/NUM Agustus/PROPN 1945/NUM ./PUNCT 
+Sasuwene/ADP 10/NUM sasi/NOUN ,/PUNCT Solo/PROPN duwe/VERB status/NOUN minangka/ADP dhaerah/NOUN setingkat/NOUN provinsi/NOUN ,/PUNCT kang/PRON diarani/VERB Daerah/PROPN Istimewa/PROPN Surakarta/PROPN (/PUNCT DIS/PROPN )/PUNCT ./PUNCT 
+Sabanjure/ADV ngrembaka/VERB saperangan/DET laku/NOUN antiswapraja/ADJ ing/ADP Kutha/PROPN Solo/PROPN kang/PRON dibarengi/VERB kahanan/NOUN kang/PRON sarwa/ADV nggegirisi/VERB ,/PUNCT ngganggu/VERB katentreman/NOUN ,/PUNCT wong-wong/NOUN ngerti-ngerti/ADV ilang/VERB ,/PUNCT lan/CCONJ matine/_ mati/VERB e/DET pejabat-pejabat/NOUN DIS/PROPN ./PUNCT 
+Pamarentah/NOUN Indonesia/PROPN banjur/ADV nyimpen/VERB status/NOUN DIS/PROPN wiwit/ADP tanggal/NOUN 16/NUM Juni/PROPN 1946/NUM ./PUNCT 
+Tanggal/NOUN iki/DET sabanjure/ADV dipengeti/VERB minangka/ADP ambal/NOUN warsane/_ warsa/NOUN e/DET Pemkot/PROPN Solo/PROPN ./PUNCT 
+Sacara/ADP de/X facto/X tanggal/NOUN 16/NUM Juni/PROPN 1946/NUM resmi/ADJ ana/VERB Pemerintah/PROPN Daerah/PROPN Kota/PROPN Surakarta/PROPN kang/PRON duwe/VERB kuwasa/NOUN kanggo/SCONJ ngatur/VERB lan/CCONJ ngurusi/VERB rumah/NOUN tanggane/_ tangga/NOUN e/PRON dhewe/DET ./PUNCT 
+Kasunyatan/NOUN iku/DET uga/ADV negesi/VERB manawa/SCONJ kuwasane/_ kuwasa/NOUN e/DET Keraton/PROPN Solo/PROPN lan/CCONJ Pura/PROPN Mangkunegaran/PROPN banjur/ADV ora/PART ana/VERB ./PUNCT 
+Dene/ADV sacara/ADP yuridis/ADJ ,/PUNCT Kutha/PROPN Solo/PROPN diresmekake/VERB kanthi/SCONJ adhedhasar/VERB Penetapan/PROPN Pemerintah/PROPN taun/NOUN 1946/NUM Nomor/PROPN 16/NUM //PUNCT SD/PROPN ,/PUNCT kang/PRON digiyarake/VERB tanggal/NOUN 15/NUM Juli/PROPN ./PUNCT 
+Ana/VERB saperangan/DET kampung/NOUN ing/ADP Kutha/PROPN Solo/PROPN sing/PRON dijenengi/VERB miturut/VERB jinis/NOUN panggaweyane/_ panggaweyan/NOUN e/DET wargane/_ warga/NOUN e/PRON ./PUNCT 
+Tetenger/NOUN jeneng/NOUN kampung/NOUN ing/ADP njero/NOUN gang/NOUN Kampung/PROPN Kauman/PROPN ,/PUNCT Solo/NOUN ,/PUNCT Selasa/PROPN (/PUNCT 7/NUM //PUNCT 6/NUM //PUNCT 2022/NUM )/PUNCT ./PUNCT 
+Adhedhasar/VERB saka/ADP cathetan/NOUN lan/CCONJ katrangan/NOUN saka/ADP Kantor/PROPN Kelurahan/NOUN Kauman/PROPN ,/PUNCT kampung/NOUN sing/PRON ana/VERB ing/ADP kono/ADV dijenengi/VERB miturut/VERB jinis/NOUN panggaweyane/_ panggaweyan/NOUN e/DET wargane/_ warga/NOUN e/PRON ,/PUNCT yaiku/AUX Kampung/PROPN Gerjen/PROPN ,/PUNCT Blodiran/PROPN ,/PUNCT Kentiran/PROPN ,/PUNCT Baladan/PROPN ,/PUNCT lan/CCONJ Gebangsan/PROPN ./PUNCT 
+Memper/SCONJ wargaku/_ warga/NOUN ku/PRON akeh/ADJ sing/PRON gaweyane/_ gaweyan/NOUN e/PRON padha/ADJ lan/CCONJ nglumpuk/VERB dadi/VERB siji/NUM ing/ADP kampung/NOUN ./PUNCT 
+"/PUNCT Mula/NOUN dienggo/VERB tenger/NOUN dadi/VERB jeneng/NOUN kampung/NOUN supaya/SCONJ gampang/ADJ sing/PRON ngeling-eling/VERB utawa/CCONJ nggoleki/VERB ,/PUNCT ”/PUNCT ujare/_ ujar/VERB e/DET Nursalim/PROPN ,/PUNCT Selasa/PROPN (/PUNCT 7/NUM //PUNCT 6/NUM //PUNCT 2022/NUM )/PUNCT ./PUNCT 
+Kang/DET kapisan/ADJ yaiku/AUX Kampung/PROPN Gerjen/PROPN ,/PUNCT kampung/NOUN iki/DET manggon/VERB ing/ADP Jl./PROPN Cakra/PROPN sisi/NOUN barat/NOUN ,/PUNCT penere/ADV ing/ADP RT/PROPN 002/NUM //PUNCT RW/PROPN 006/NUM ./PUNCT 
+Ana/VERB Kampung/PROPN Gerjen/PROPN ,/PUNCT biyasane/ADV wong-wong/NOUN ngaranine/_ ngarani/VERB e/PRON Nggerjen/PROPN ./PUNCT 
+"/PUNCT Dijenengi/VERB Gerjen/PROPN amarga/SCONJ akeh/ADJ warga/NOUN kono/ADV sing/PRON padinane/_ padina/NOUN e/DET dadi/VERB gerji/NOUN utawa/CCONJ tukang/NOUN jahit/VERB ,/PUNCT ”/PUNCT ujare/_ ujar/VERB e/PRON ./PUNCT 
+Sabanjure/ADV ana/VERB Kampung/PROPN Kentiran/PROPN ./PUNCT 
+Kampung/NOUN kuwi/DET mapane/_ mapan/VERB e/DET ana/VERB ing/ADP RT/PROPN 004/NUM //PUNCT RW/PROPN 006/NUM ,/PUNCT penere/ADV ing/ADP sisih/NOUN wetane/_ wetan/NOUN e/DET Kampung/PROPN Blodiran/PROPN ./PUNCT 
+Ing/ADP kampung/NOUN kuwi/DET ,/PUNCT wargane/_ warga/NOUN e/DET padha/ADJ gawe/VERB samir/NOUN ./PUNCT 
+Samir/NOUN iku/DET wujude/VERB kaya/ADP lendhang/NOUN nanging/CCONJ ukurane/_ ukuran/NOUN e/DET cilik/ADJ lan/CCONJ carane/_ cara/NOUN e/DET nganggo/VERB dikalungke/VERB ing/ADP gulu/PROPN ./PUNCT 
+"/PUNCT Biyasane/ADV diagem/VERB para/DET abdi/NOUN dalem/ADJ nalika/ADP ing/ADP Keraton/PROPN [/PUNCT Solo/PROPN ]/PUNCT ,/PUNCT ”/PUNCT piterange/_ piterang/VERB e/PRON ./PUNCT 
+Dene/ADV kampung/NOUN liyane/_ liya/ADJ e/DET yaiku/AUX Kampung/PROPN Baladan/PROPN ./PUNCT 
+Miturut/VERB Nursalim/PROPN ,/PUNCT warga/NOUN kampung/NOUN kono/ADV panggaweyane/_ panggaweyan/NOUN e/DET dadi/VERB juru/NOUN mangsak/NOUN maneka/DET warna/NOUN jinis/NOUN panganan/NOUN ./PUNCT 
+Kampung/NOUN Baladan/PROPN penere/ADV ing/ADP RT/PROPN 003/NUM //PUNCT RW/PROPN 004/NUM ,/PUNCT ing/ADP sisih/NOUN kulone/_ kulon/NOUN e/DET sekolahan/NOUN Mambaul/PROPN Ulum/PROPN ./PUNCT 
+Kampung/NOUN iki/DET dadi/VERB papan/NOUN panggonane/_ panggona/NOUN e/DET tukang/NOUN gawe/VERB kuluk/NOUN utawa/CCONJ topi/NOUN manten/NOUN lanang/NOUN adat/NOUN Jawa/PROPN ./PUNCT 
+Kampung/NOUN iki/DET penere/ADV mapan/VERB ing/ADP sisih/NOUN kulone/_ kulon/NOUN e/DET Blodiran/PROPN ,/PUNCT RT/PROPN 003/NUM //PUNCT RW/PROPN 006/NUM ,/PUNCT ”/PUNCT ujare/_ ujar/VERB e/DET Nursalim/PROPN ./PUNCT 
+“/PUNCT Mak/PROPN ,/PUNCT sesuk/ADV Ika/PROPN pengin/VERB tumbas/VERB buku/NOUN ./PUNCT ”/PUNCT 
+Tari/NOUN sing/PRON leyeh-leyeh/VERB karo/SCONJ nunggu/VERB anake/_ anak/NOUN e/DET sinau/VERB makjegageg/ADV kaget/ADJ ./PUNCT 
+Sakbanjure/ADV swara/NOUN anake/_ anak/NOUN e/DET wis/AUX ora/PART patiya/ADJ dirungokake/VERB ./PUNCT 
+Tari/NOUN bingung/ADJ amehe/SCONJ mangsuli/VERB ,/PUNCT kelingan/VERB mau/ADV sore/NOUN simboke/_ simbok/NOUN e/DET kepingin/VERB ngontrol/VERB darah/NOUN tinggine/_ tinggi/ADJ e/PRON wae/ADV isih/ADV disemayani/VERB ./PUNCT 
+Durung/PART maneh/ADV babagan/ADP arisan/NOUN ,/PUNCT pajek/NOUN listrik/NOUN ,/PUNCT sumbangan/NOUN nggone/NOUN Yu/PROPN Tumi/PROPN Setu/PROPN sesuk/ADV ./PUNCT 
+Kabeh/PRON kaya/SCONJ teka/VERB bareng-bareng/ADV ,/PUNCT lan/CCONJ Tari/PROPN bingung/ADJ carane/_ cara/NOUN e/DET nggolek/VERB dhuwit/NOUN ./PUNCT 
+Sasi/NOUN iki/DET wae/ADV jahitan/NOUN sepi/ADJ ,/PUNCT mesine/_ mesin/NOUN e/DET nganggur/VERB ./PUNCT 
+Tandur/NOUN sing/PRON suwe/ADJ ditinggalke/VERB saiki/ADV dilakoni/VERB maneh/ADV ,/PUNCT mung/ADV mburu/VERB cukup/ADJ ,/PUNCT supaya/SCONJ bisa/AUX ngelongi/VERB sakabehe/_ sakabeh/NOUN e/DET ./PUNCT 
+Esuk/NOUN isih/ADV uthuk-uthuk/ADJ ,/PUNCT nanging/CCONJ swara/NOUN kreket-kreket/NOUN pit/NOUN digenjot/VERB wis/AUX mecah/VERB lan/CCONJ nrejang/VERB adhem/ADJ sing/PRON isih/ADV ngemuli/VERB desa/NOUN ./PUNCT 
+Tekan/VERB prapatan/NOUN desa/NOUN ,/PUNCT pit/NOUN kuwi/DET banjur/ADV mandeg/VERB ./PUNCT 
+Wis/AUX ana/VERB kancane/_ kanca/NOUN e/PRON sing/PRON uga/ADV nggawa/VERB pit/NOUN lan/CCONJ mandheg/VERB ana/VERB papan/NOUN kuwi/DET ./PUNCT 
+Sakloron/NUM wanodya/NOUN iku/DET isih/ADV ngadeg/VERB sakdhuwure/NOUN pit/NOUN ,/PUNCT nyawang/VERB arah/NOUN ngidul/NOUN sajak/SCONJ ana/VERB sing/PRON ditunggu/VERB ./PUNCT 
+Dumadakan/ADV saka/ADP arah/NOUN kidul/NOUN pit/NOUN telu/NUM nyedhak/VERB lan/CCONJ sakbanjure/ADV mandheg/VERB ./PUNCT 
+“/PUNCT Nunggu/VERB sapa/PRON maneh/ADV ,/PUNCT Ndhuk/PROPN ?/PUNCT ”/PUNCT 
+“/PUNCT Mboten/PART wonten/VERB ,/PUNCT sampun/AUX cekap/ADJ punika/DET ”/PUNCT ./PUNCT 
+Dalan/NOUN isih/ADV sepi/ADJ ,/PUNCT mung/ADV wong/NOUN sing/PRON mulih/VERB saka/ADP mejid/NOUN lan/CCONJ bakul/NOUN pitik/NOUN nggawa/VERB bronjong/NOUN nakoni/VERB pendhak/NOUN wong/NOUN liwat/VERB ./PUNCT 
+Pit/NOUN onthel/NOUN cacah/NOUN lima/NUM kuwi/DET tetep/ADV digenjot/VERB arah/NOUN mangetan/NOUN ,/PUNCT ninggalke/VERB Desa/PROPN Pandeyan/PROPN ./PUNCT 
+Ngliwati/VERB barongan/NOUN sing/PRON isih/ADV radha/ADV peteng/ADJ ,/PUNCT nlusupi/VERB dalan/NOUN cilik/ADJ sakpinggire/NOUN kalen/NOUN ,/PUNCT gemreneng/VERB kanggo/SCONJ ngilangi/VERB hawa/NOUN adhem/ADJ ./PUNCT 
+Sawah-sawah/NOUN sing/PRON wis/AUX semilak/VERB warna/NOUN blachu/ADJ sajak/SCONJ wis/AUX kangen/VERB karo/ADP sikil/NOUN uga/ADV rumatane/_ rumata/NOUN e/DET rombongan/NOUN kuwi/DET ./PUNCT 
+“/PUNCT Yu/PROPN Karni/PROPN ora/PART melu/VERB ta/PART ,/PUNCT Ndhuk/PROPN ?/PUNCT ”/PUNCT 
+“/PUNCT Lha/INTJ ,/PUNCT Mbakyu/PROPN Tuminah/PROPN napa/ADV mboten/PART pirsa/VERB ,/PUNCT menawi/SCONJ Yu/PROPN Karni/PROPN masuk/VERB angin/NOUN wau/ADV ndalu/NOUN ./PUNCT ”/PUNCT 
+Genjotan/PROPN pit/NOUN dialonke/VERB ,/PUNCT sanajan/SCONJ rada/ADV peteng/ADJ nanging/CCONJ isih/ADV bisa/AUX padha/ADJ sesawangan/NOUN kaget/ADJ krungu/VERB kabar/NOUN saka/ADP Tari/PROPN ./PUNCT 
+“/PUNCT Surup/ADV wingi/ADV isih/ADV njaluk/VERB injet/NOUN ki/DET ./PUNCT ”/PUNCT 
+Sakbanjure/ADV kahanan/NOUN dadi/VERB ening/ADJ ./PUNCT 
+Kaya/SCONJ kasorot/VERB rong/NUM dina/NOUN kepungkur/ADJ ./PUNCT 
+Udan/PROPN ora/PART leren/VERB ,/PUNCT mung/ADV nggrojog/VERB terus/ADV nganti/SCONJ sing/DET tandur/NOUN arep/AUX leren/VERB nanging/CCONJ dipenggah/VERB ./PUNCT 
+Kedhokan/NOUN sing/PRON durung/PART ketancep/VERB winih/NOUN kurang/ADJ sithik/ADV ,/PUNCT banjur/ADV nekat/ADV wae/ADV sing/DET tandur/NOUN neruske/VERB nancepke/VERB winih/NOUN ./PUNCT 
+Udan/NOUN wis/AUX kaya/ADP tumbak/NOUN sing/PRON diclorotke/VERB saka/ADP ndhuwur/NOUN ,/PUNCT kaya/SCONJ maku/VERB awak/NOUN sing/PRON mbungkuk/VERB karo/SCONJ dongani/VERB winih/NOUN ./PUNCT 
+Ora/PART dirasakke/VERB adhem/ADJ lan/CCONJ tangan/NOUN sing/PRON gemeter/VERB ,/PUNCT nujune/VERB mung/ADV siji/NUM ./PUNCT 
+Tandur/NOUN cepet/ADJ rampung/VERB lan/CCONJ bisa/AUX bali/VERB cepet/ADJ ./PUNCT 
+“/PUNCT Lha/INTJ Dhik/PROPN Tari/PROPN apa/PRON wis/AUX sehat/ADJ ,/PUNCT ”/PUNCT pitakon/VERB salah/ADJ siji/NUM wanodya/NOUN sing/PRON pite/VERB jengki/NOUN ./PUNCT 
+“/PUNCT Nggih/INTJ ,/PUNCT radi/ADV lemes/ADJ ,/PUNCT Dhe/PROPN ./PUNCT ”/PUNCT 
+“/PUNCT Hla/INTJ kok/ADV tetep/ADV mangkat/VERB ta/PART ,/PUNCT Ndhuk/PROPN ?/PUNCT ”/PUNCT 
+Hla/INTJ sampun/AUX janji/VERB kaliyan/ADP Pak/PROPN Badhi/PROPN ./PUNCT 
+Janji/NOUN punika/DET utang/NOUN ,/PUNCT kados/SCONJ kula/PRON ngaten/VERB niki/PRON sagede/ADV nyaur/VERB gek/PART suk/ADV kapan/ADV ./PUNCT 
+Apa/PRON maneh/ADV utang/NOUN budi/NOUN ./PUNCT 
+Tari/NOUN ora/PART mbacutake/VERB guneme/_ gunem/NOUN e/PRON ./PUNCT 
+Rombongan/NOUN pit/NOUN kuwi/DET isih/ADV nlisir/VERB dalan/NOUN cilik/ADJ sak/NUM pinggire/_ pinggir/NOUN e/DET kalen/NOUN ./PUNCT 
+Wis/AUX ora/PART ana/VERB swara/NOUN maneh/ADV ,/PUNCT kajaba/ADP kreket-kreket/NOUN pit/NOUN sing/PRON digenjot/VERB ./PUNCT 
+Kabeh/PRON wis/AUX ngerti/VERB menawa/SCONJ Tari/PROPN butuh/VERB dhuwit/NOUN akeh/DET ./PUNCT 
+Simboke/_ Simbok/NOUN e/PRON loro/ADJ tuwa/ADJ ,/PUNCT anake/_ anak/NOUN e/PRON sekolah/NOUN lan/CCONJ butuh/VERB ragad/NOUN ./PUNCT 
+Tari/PROPN wanodya/NOUN sing/PRON kuwat/ADJ ,/PUNCT garwane/_ garwa/NOUN e/PRON seda/VERB jalaran/SCONJ kenthir/VERB ing/ADP Kali/PROPN Bengawan/PROPN Solo/PROPN nalika/SCONJ arep/AUX nyebrangke/VERB traktor/NOUN ./PUNCT 
+Kabeh/PRON durung/PART bisa/AUX lali/VERB ,/PUNCT amarga/SCONJ kedadeyan/VERB kuwi/DET telung/NUM wulan/NOUN kepungkur/ADJ ./PUNCT 
+“/PUNCT Kok/PART kayane/ADV Pak/PROPN Badhi/PROPN ngesir/VERB awakmu/PRON ,/PUNCT Ndhuk/PROPN ./PUNCT ”/PUNCT 
+Halah/INTJ ,/PUNCT gek/PART Yu/PROPN Sri/PROPN ki/DET ngendika/VERB napa/PRON ./PUNCT 
+Kula/PRON niku/DET sinten/PRON ,/PUNCT Pak/PROPN Badhi/PROPN niku/DET sinten/PRON ./PUNCT 
+Pak/PROPN Badhi/PROPN punika/DET juragan/NOUN sawah/NOUN ,/PUNCT sugih/ADJ mblegedhu/VERB ,/PUNCT kula/PRON ming/ADV randha/NOUN ./PUNCT 
+Menawa/SCONJ Pak/PROPN Badhi/PROPN nggolek/VERB perawan/NOUN sedasa/NOUN ,/PUNCT mawon/PRON mesthi/AUX nggih/AUX kecanggah/VERB ./PUNCT 
+Wong/NOUN tresna/VERB mono/DET ,/PUNCT ora/PART sapa/PRON sira/PRON sapa/PRON ingsun/PRON ,/PUNCT anane/_ ana/VERB e/DET bungah/ADJ lan/CCONJ kebak/ADJ kembang/NOUN ./PUNCT 
+Lha/INTJ ,/PUNCT pa/ADV ra/PART mesake/VERB anakmu/_ anak/NOUN mu/PRON butuh/VERB bapak/NOUN lan/CCONJ ragad/NOUN kanggo/ADP sekolah/NOUN ./PUNCT 
+Tari/PROPN kelingan/VERB sewengi/ADV anake/_ anak/NOUN e/PRON njaluk/VERB dhuwit/NOUN kanggo/SCONJ tuku/VERB buku/NOUN lan/CCONJ les/NOUN ./PUNCT 
+Anake/_ Anak/NOUN e/PRON sing/PRON lagi/AUX kelas/NOUN papat/NUM SD/PROPN kuwi/DET wis/AUX bola-bali/ADV njaluk/VERB ,/PUNCT ning/PART Tari/PROPN mung/ADV bisane/ADV nyemayani/VERB ./PUNCT 
+Simboke/_ Simbok/NOUN e/PRON sing/PRON uga/ADV randha/NOUN ,/PUNCT ya/PART mung/ADV njagakke/VERB asile/_ asil/NOUN e/DET Tari/PROPN ./PUNCT 
+Rombongan/NOUN wis/AUX tekan/VERB sawah/NOUN pinggir/NOUN dhewe/DET ./PUNCT 
+Winih/NOUN wis/AUX katon/VERB dibanjari/VERB ,/PUNCT Pak/PROPN Badhi/PROPN wis/AUX ana/VERB nggalengan/VERB ./PUNCT 
+Esemme/_ Esem/NOUN e/PRON katon/VERB sumringah/ADJ ,/PUNCT kaya/ADP srengenge/NOUN saka/ADP etan/NOUN sing/PRON lagi/AUX nginjen/VERB endahing/ADP bumi/NOUN ./PUNCT 
+Juragan/NOUN sawah/NOUN iku/DET tetap/ADV geguyonan/VERB ,/PUNCT sanajan/SCONJ panen/NOUN wingi/ADV rugi/VERB amarga/SCONJ wereng/NOUN teka/VERB ora/PART nganggo/VERB kulanuwun/NOUN ./PUNCT 
+Dhudha/NOUN sing/PRON loma/ADJ tur/CCONJ ora/PART tau/ADV nggresah/VERB ,/PUNCT anake/_ anak/NOUN e/PRON loro/NUM kabeh/DET wus/AUX mentas/VERB ./PUNCT 
+Siji/NUM dadi/VERB dhokter/PROPN ,/PUNCT sijine/_ siji/NUM e/DET dadi/VERB dhosen/NOUN ana/VERB Ngayogjakarta/PROPN ./PUNCT 
+Tani/NOUN liyane/_ liya/ADJ e/DET isih/ADV padha/ADJ nyirik/VERB sawah/NOUN ,/PUNCT Pak/PROPN Badhi/PROPN ora/PART tau/ADV kendhat/VERB nunggoni/VERB sawah/NOUN ./PUNCT 
+Jarene/ADV sawahe/_ sawah/NOUN e/DET kurang/ADV donga/VERB ,/PUNCT sawahe/_ sawah/NOUN e/DET nesu/ADJ ,/PUNCT ora/PART dirawat/VERB kanthi/ADP sakeca/ADJ ,/PUNCT mung/ADV dijupuk/VERB wulu/NOUN pametune/_ pametu/NOUN e/DET tanpa/SCONJ diwenehi/VERB donga/NOUN lan/CCONJ welas/NOUN asih/VERB ./PUNCT 
+Dina/NOUN iki/DET padha/ADJ wae/ADV kaya/ADP rong/NUM dina/NOUN kepungkur/ADJ ./PUNCT 
+Anane/_ Ana/VERB e/DET mung/ADV mendhung/NOUN lan/CCONJ grimis/NOUN ./PUNCT 
+Sedhela/SCONJ grimis/NOUN leren/VERB ,/PUNCT mendhung/NOUN wis/AUX katon/VERB nyebar/VERB ana/VERB langit/NOUN ./PUNCT 
+Telung/NUM pathok/NOUN sawahe/_ sawah/NOUN e/DET Pak/PROPN Badhi/PROPN durung/PART kendhat/VERB ditanduri/VERB ./PUNCT 
+Sedela-sedela/ADV Tari/PROPN ngeluk/VERB geger/NOUN ,/PUNCT mindhah/VERB blek/NOUN pring/NOUN sinambi/SCONJ nyedhakke/VERB winih/NOUN ./PUNCT 
+“/PUNCT Awakmu/PRON kok/ADV sansaya/ADV anget/ADJ ,/PUNCT Ndhuk/PROPN ?/PUNCT ”/PUNCT 
+“/PUNCT Tak/PRON rasake/VERB biyasa/ADJ niku/PRON ,/PUNCT Yu/PROPN ./PUNCT ”/PUNCT 
+Yu/PROPN Tuminah/PROPN banjur/ADV mbacutake/VERB sing/PRON mindah/VERB blek/NOUN ./PUNCT 
+Saktemene/ADV wektu/NOUN kuwi/DET Tari/PROPN ngrasakke/VERB awake/_ awak/NOUN e/DET ora/PART nggenah/VERB ./PUNCT 
+Wetenge/_ Weteng/NOUN e/PRON krasa/VERB mungkuk/ADJ ,/PUNCT hawane/_ hawa/NOUN e/DET luwih/ADV adhem/ADJ saka/ADP wingi-wingi/ADV ,/PUNCT sesawangane/_ sesawangan/NOUN e/PRON kaya/SCONJ semu/ADV lamur/ADJ ./PUNCT 
+Aja/PART ditekadi/VERB hla/INTJ ,/PUNCT Ndhuk/PROPN ./PUNCT 
+Mesakna/ADJ awakmu/PRON ./PUNCT 
+Entuk/VERB dhuwit/NOUN nanging/CCONJ ragamu/_ raga/NOUN mu/PRON rusak/NUM ora/PART becik/ADJ ./PUNCT 
+Wis/AUX kana/ADV gek/PART leren/VERB wae/ADV !/PUNCT 
+Kepingine/_ Kepingin/VERB e/DET Tari/NOUN jane/ADV ya/PART leren/VERB ,/PUNCT nanging/CCONJ manawa/SCONJ kelingan/VERB butuh/VERB ,/PUNCT kelingan/VERB simboke/_ simbok/NOUN e/PRON ,/PUNCT kelingan/VERB Ika/PROPN ,/PUNCT dheweke/PRON kudu/AUX nguwat-nguwatke/VERB ./PUNCT 
+“/PUNCT Mboten/PART kenging/ADV napa-napa/PRON ,/PUNCT Mbakyu/PROPN ,/PUNCT mangke/ADV nggih/AUX mantun/VERB ./PUNCT ”/PUNCT 
+Tari/NOUN isih/ADV tetep/ADV nancepke/VERB winih/NOUN ,/PUNCT sanajan/SCONJ kurang/ADV titis/ADJ ,/PUNCT dumadakan/ADV swara/NOUN azan/NOUN Luhur/PROPN lan/CCONJ udan/NOUN deres/ADJ teka/VERB bareng/ADV ./PUNCT 
+Ayo/ADV leren/VERB dhisik/ADV ,/PUNCT kabeh/PRON padha/ADJ mentas/VERB ./PUNCT 
+Wis/AUX azan/NOUN ,/PUNCT lan/CCONJ kayane/ADV udane/_ udan/NOUN e/DET sansaya/ADV deres/ADJ !/PUNCT 
+Swarane/_ Swara/NOUN e/DET Pak/PROPN Badhi/PROPN ora/PART cepet/ADJ ditanggapi/VERB sing/DET tandur/NOUN ./PUNCT 
+Mung/ADV kurang/ADV telung/NUM tancepan/NOUN ,/PUNCT tanggung/ADJ nek/SCONJ ditinggal/VERB mentas/VERB ./PUNCT 
+“/PUNCT Kok/ADV dak/PRON sawang/VERB praupanmu/_ praupan/NOUN mu/PRON pucet/ADJ ta/PART ,/PUNCT Dhik/PROPN Tari/PROPN ?/PUNCT ”/PUNCT 
+Pitakone/_ Pitakon/NOUN e/DET Pak/PROPN Badhi/PROPN pas/ADJ wis/AUX rampung/VERB ,/PUNCT lan/CCONJ kabeh/PRON ngeyup/VERB ana/VERB musala/NOUN pinggir/NOUN desa/NOUN ./PUNCT 
+Mesakna/ADJ awakmu/PRON lan/CCONJ anakmu/_ anak/NOUN mu/PRON ./PUNCT 
+Apa/ADV durung/PART mbok/PRON pikir/NOUN gunemanku/_ guneman/NOUN ku/PRON rong/NUM minggu/NOUN kapungkur/ADV ?/PUNCT 
+Pak/PROPN Badhi/PROPN kaya/SCONJ arep/AUX narik/VERB ucapane/_ ucapan/NOUN e/PRON ,/PUNCT nanging/CCONJ wis/AUX kebacut/VERB ./PUNCT 
+Tari/NOUN katon/VERB isin/ADJ ,/PUNCT ngapa/ADV kok/ADV Pak/PROPN Badhi/PROPN ngomong/VERB ana/VERB papan/NOUN kono/ADV ./PUNCT 
+Wong/NOUN sing/PRON padha/ADJ tandur/VERB kaget/ADJ gunemane/_ guneman/NOUN e/DET Pak/PROPN Badhi/PROPN ./PUNCT 
+Tari/NOUN arep/AUX ngadeg/VERB ,/PUNCT nanging/CCONJ dumadakan/ADV awake/_ awak/NOUN e/PRON ambruk/NOUN ,/PUNCT semaput/VERB ./PUNCT 
+Saliyane/ADP kuwi/PRON ,/PUNCT beksan/NOUN iki/DET digawe/VERB kanggo/SCONJ nggenepi/VERB adicara/NOUN festival/X kesenian/NOUN Reyog/PROPN Ponorogo/PROPN ./PUNCT 
+Yaiku/AUX Simbah/PROPN Putri/PROPN ,/PUNCT pawongan/NOUN kang/PRON tansah/ADV asih/VERB tresna/VERB mring/ADP aku/PRON sanadyan/SCONJ rikala/NOUN gesange/_ gesang/NOUN e/DET aku/PRON akeh/ADJ gawe/VERB gela/VERB amarga/SCONJ tumindakku/_ tumindak/NOUN ku/PRON ./PUNCT 
+Butuh/VERB interpretasi/NOUN saben/DET ukara/NOUN lan/CCONJ tembung/NOUN jroning/ADP tembang/NOUN dolanan/NOUN kasebut/VERB ./PUNCT 
+Amung/ADV ngertine/_ ngerti/VERB e/DET Simbah/PROPN Putri/PROPN sare/VERB angler/ADJ nanging/CCONJ sejatine/_ sejati/ADJ e/DET Simbah/PROPN wus/AUX kritis/ADJ ./PUNCT 
+Wiwit/VERB saka/SCONJ nyibini/VERB ,/PUNCT ngganteni/VERB sandhangane/_ sandhangan/NOUN e/DET lan/CCONJ liya-liyane/_ liya-liya/ADJ e/DET ./PUNCT 
+Rong/NUM dina/NOUN kang/PRON pungkasan/ADJ Simbah/PROPN wis/AUX katon/VERB kaya/SCONJ kritis/ADJ nanging/CCONJ aku/PRON ora/PART bisa/AUX tandang/VERB apa-apa/PRON ./PUNCT 
+Sawetara/DET dolanan/NOUN bocah/NOUN uga/ADV ana/VERB kang/PRON cara/NOUN dolanane/_ dolanan/VERB e/PRON kairing/VERB tembang/NOUN ,/PUNCT kaya/ADP dolanan/NOUN Cublak-cublak/PROPN Suweng/PROPN ./PUNCT 
+Pikiren/ADV olehmu/_ oleh/VERB mu/PRON sekolah/NOUN kuwi/DET lo/ADJ ./PUNCT 
+“/PUNCT Yen/SCONJ kok/PRON enggo/VERB tenanan/ADV ,/PUNCT kok/PRON enggo/VERB sekolah/NOUN nganti/ADP kuliyah/NOUN ,/PUNCT syukur/VERB bisa/AUX dadi/VERB pegawe/NOUN ,/PUNCT aku/PRON saguh/ADJ wae/ADV ,/PUNCT ”/PUNCT wangsulane/_ wangsulan/VERB e/DET Simbah/PROPN kanthi/SCONJ linambaran/VERB mesem/VERB kang/PRON tulus/ADJ ./PUNCT 
+Kolor/NOUN iku/DET uga/ADV lumrah/ADJ diarani/VERB usus-usus/NOUN ,/PUNCT wujude/_ wujud/NOUN e/DET dawa/ADJ lan/CCONJ warnane/_ warna/NOUN e/PRON putih/ADJ ./PUNCT 
+Saliyane/ADP kuwi/DET ,/PUNCT Bupati/PROPN Ponorogo/PROPN Sugiri/PROPN Sancoko/PROPN uga/ADV sengaja/ADV nepungake/VERB budaya/NOUN marang/ADP bocah/NOUN wiwit/VERB isih/ADV cilik/ADJ ./PUNCT 
+Banjur/ADV saknalika/SCONJ kelingan/VERB rikala/NOUN semana/DET ,/PUNCT jamanku/_ jaman/NOUN ku/PRON isih/ADV SMA/PROPN ./PUNCT 
+Aku/PRON sekolah/VERB kakehan/ADV ragat/ADJ lan/CCONJ terus/ADV gawe/VERB susah/ADJ ./PUNCT 
+Amarga/SCONJ aku/PRON ngerti/VERB menawa/SCONJ ibu/NOUN wong/NOUN kagetan/ADJ lan/CCONJ ora/PART tega/ADJ yen/SCONJ nyumurip/VERB kahanan/NOUN saktemene/ADJ ./PUNCT 
+Aku/PRON lan/CCONJ bapak/NOUN kaya/SCONJ nora/PART bisa/AUX polah/VERB maneh/ADV kepiye/ADV carane/_ cara/NOUN e/DET amrih/VERB kabeh/PRON padha/ADJ sehat/ADJ ./PUNCT 
+Kang/PRON ana/VERB amung/ADV rasa/NOUN kangen/VERB nalika/ADP gesange/_ gesang/NOUN e/DET tansah/ADV tresna/VERB mring/ADP kulawargane/_ kulawarga/NOUN e/DET ./PUNCT 
+Amarga/ADP kasrakahane/_ kasrakahan/NOUN e/DET dhewe/DET ,/PUNCT wong-wong/NOUN iku/DET padha/ADJ bingung/ADJ lan/CCONJ ora/PART tentrem/ADJ uripe/_ urip/NOUN e/DET ./PUNCT 
+Tari/NOUN Krido/PROPN Warok/PROPN diripta/VERB jalaran/SCONJ durung/PART ana/VERB jinising/NOUN beksan/NOUN kang/PRON nggambarake/VERB blegere/_ bleger/NOUN e/PRON Warok/NOUN ./PUNCT 
+Dene/ADV bocah/NOUN sing/PRON mbungkuk/VERB mau/ADV banjur/ADV tangi/VERB lan/CCONJ mbethek/VERB sapa/PRON bocah/NOUN sing/PRON ndhelikake/VERB krikil/NOUN mau/ADV ./PUNCT 
+Sakbanjure/ADV ,/PUNCT Simbah/PROPN dak/PRON sibini/VERB lan/CCONJ dak/PRON saline/VERB ./PUNCT 
+Bebarengan/ADV banjur/ADV nembang/VERB Cublak-cublak/PROPN Suweng/PROPN nganti/SCONJ rampung/VERB ./PUNCT 
+Kebo/NOUN dadi/VERB simbole/_ simbol/NOUN e/DET wong/NOUN bodho/ADJ ./PUNCT 
+Pentas/NOUN beksan/NOUN iku/DET banjur/ADV diganjar/VERB rekor/NOUN donya/NOUN saka/ADP Museum/PROPN Rekor-Dunia/PROPN Indonesia/PROPN (/PUNCT MURI/PROPN )/PUNCT ,/PUNCT Rebo/PROPN (/PUNCT 15/NUM //PUNCT 6/NUM //PUNCT 2022/NUM )/PUNCT ,/PUNCT ing/ADP Alun-alun/PROPN Ponorogo/PROPN ./PUNCT 
+Aku/PRON ora/PART sadhar/VERB nalika/ADP tabuh/NOUN 10.34/NUM awan/NOUN aku/PRON lunga/VERB sedhela/SCONJ tuku/VERB janganan/NOUN lan/CCONJ lawuh/NOUN ,/PUNCT ya/PART ing/ADP wektu/NOUN iku/DET Simbah/PROPN sakaratul/NOUN maut/VERB lan/CCONJ nilapake/VERB aku/PRON ./PUNCT 
+Budayawan/PROPN Ponorogo/PROPN ,/PUNCT Gondo/PROPN Puspito/PROPN ,/PUNCT mratelakake/VERB beksan/NOUN Krido/PROPN Warok/PROPN diripta/VERB pisanan/ADP taunn/X 1996/NUM ./PUNCT 
+Gudel/NOUN kuwi/DET arane/_ aran/NOUN e/DET anak/NOUN kebo/NOUN ./PUNCT 
+Aku/PRON kang/PRON wus/AUX lemes/ADJ ,/PUNCT nangis/VERB ana/VERB ing/ADP ngarep/NOUN lawang/NOUN kanthi/ADP dituntun/VERB mlaku/VERB tekan/ADP ngarepe/_ ngarep/NOUN e/DET Simbah/PROPN ./PUNCT 
+Sabisaku/_ Sabisa/NOUN ku/PRON aku/PRON ngopeni/VERB wong/NOUN sak/NUM omah/NOUN lan/CCONJ wektu/NOUN iku/DET simbah/NOUN wis/AUX kritis/ADJ ./PUNCT 
+"/PUNCT Bisaku/_ Bisa/AUX ku/PRON ngewangi/VERB ya/PART ngene/PRON iki/DET ./PUNCT Ben/SCONJ kowe/PRON pinter/ADJ ,/PUNCT Le/PROPN ,/PUNCT ”/PUNCT wangsulane/_ wangsulan/VERB e/DET Simbah/PROPN karo/SCONJ nangis/VERB ngrangkul/VERB aku/PRON ./PUNCT 
+Simbah/NOUN kakung/NOUN amung/ADV bisa/AUX nangis/VERB weruh/VERB kahanane/_ kahanan/NOUN e/DET Simbah/PROPN Putri/PROPN ./PUNCT 
+Kepriye/ADV maneh/ADV anggonku/_ anggon/NOUN ku/PRON ora/PART nangis/VERB lan/CCONJ ora/PART bisa/AUX lali/VERB ,/PUNCT amarga/SCONJ saka/ADP Simbah/PROPN aku/PRON bisa/AUX dadi/VERB kaya/ADP mangkene/PRON ./PUNCT 
+Sajrone/SCONJ Simbah/PROPN nandhang/VERB gerah/ADJ ,/PUNCT aku/PRON kang/PRON kudu/AUX tatag/VERB ngrumat/VERB sanadyan/SCONJ ana/VERB jroning/ADP bathin/NOUN ora/PART tega/ADJ ./PUNCT 
+Salah/ADJ sijine/_ siji/NUM e/DET dlamakan/NOUN tangan/NOUN iku/DET bakale/AUX nampa/VERB krikil/NOUN ,/PUNCT banjur/ADV digegem/VERB utawa/CCONJ didhelikake/VERB ./PUNCT 
+Ukara/NOUN mambu/PROPN ketundhung/VERB gudel/NOUN ngandhut/VERB makna/NOUN dene/SCONJ wong/NOUN bodho/ADJ sing/PRON ora/PART duweni/VERB pendhidhikan/NOUN padha/ADJ golek/VERB bandha/NOUN brana/NOUN kanthi/ADP nepsu/ADJ ,/PUNCT patrap/NOUN kang/PRON ora/PART becik/ADJ kayata/ADP korupsi/NOUN ,/PUNCT dol/VERB tinuku/NOUN jabatan/NOUN tujuwane/_ tujuwa/NOUN e/PRON kanggo/SCONJ mburu/VERB senenge/_ seneng/VERB e/PRON dhewe/DET ./PUNCT 
+Dongaku/_ Donga/NOUN ku/PRON muga/ADV Simbah/PROPN pinaringan/VERB papan/NOUN kang/PRON endah/ADJ ing/ADP Ngarsaning/NOUN Gusti/PROPN ./PUNCT 
+Tangise/_ Tangis/VERB e/DET Simbah/PROPN Kakung/PROPN banjur/ADV balangake/VERB penthung/NOUN ana/VERB lawang/NOUN kamare/_ kamar/NOUN e/DET kakangku/_ kakang/NOUN ku/PRON ./PUNCT 
+Nanging/ADV saktemene/ADV Simbah/PROPN wus/AUX pancen/ADV titi/ADJ wancine/_ wanci/NOUN e/DET sowan/VERB Ngarsa/PROPN Dalem/PROPN Gusti/PROPN ./PUNCT 
+Gondo/PROPN mratelakake/VERB tegese/_ teges/NOUN e/DET Krido/PROPN utawa/CCONJ kridha/NOUN yaiku/AUX nyambut/VERB gawe/VERB ,/PUNCT makarya/VERB ,/PUNCT lan/CCONJ gelem/VERB obah/VERB kanggo/SCONJ tandang/VERB gawe/VERB ./PUNCT 
+Le/PROPN ,/PUNCT iki/PRON Mbahmu/_ Mbah/PROPN mu/PRON ,/PUNCT piye/ADV ,/PUNCT Le/PROPN ./PUNCT 
+Sapa/PRON ngguyu/VERB ndhelikake/VERB tegese/_ teges/NOUN e/DET sapa/PRON sing/PRON ngguyu/VERB dekne/VERB sing/PRON ndhelikake/VERB ./PUNCT 
+Ora/PART watara/ADV suwe/ADJ ,/PUNCT Simbah/PROPN Putri/PROPN kaya/ADP tanduran/NOUN kang/PRON semu/ADV layu/ADJ ,/PUNCT saya/ADV layu/ADJ ,/PUNCT banjur/ADV katut/ADV gerah/ADJ ./PUNCT 
+Kahanan/NOUN kang/PRON medeni/VERB isine/_ isi/NOUN e/DET mung/ADV wedi/ADJ ,/PUNCT lan/CCONJ semelang/ADV kaya/SCONJ wus/AUX ra/PART bisa/AUX mikir/VERB maneh/ADV ./PUNCT 
+Lan/CCONJ bengi/NOUN iku/DET uga/ADV ,/PUNCT bakal/AUX mara/ADV ngomah/VERB sakperlu/ADV nuduhake/VERB barange/_ barang/NOUN e/DET kareben/SCONJ aku/PRON weruh/VERB lan/CCONJ didhuwiti/VERB dening/ADP Simbah/PROPN ./PUNCT 
+Ing/ADP dina/NOUN Senen/PROPN Pon/PROPN ,/PUNCT wiwit/ADP esuk/NOUN rasaku/_ rasa/NOUN ku/PRON kaya/SCONJ kumleyang/NOUN tumeka/VERB ngendi-endi/PRON ./PUNCT 
+Mula/ADV jroning/ADP beksan/NOUN kuwi/DET luwih/ADV akeh/ADJ nggambarake/VERB seni/NOUN bela/VERB diri/PRON utawa/CCONJ gladhen/VERB keprajuritan/NOUN Warok/NOUN ./PUNCT 
+Saktemene/ADV uga/ADV aku/PRON nyawang/VERB wong/NOUN tuwaku/_ tuwa/ADJ ku/PRON iku/DET ora/PART tega/ADJ ./PUNCT 
+Laptop/NOUN kang/PRON ditumbasake/VERB Simbah/PROPN rikala/NOUN semana/DET nganti/ADP saiki/ADV tetep/ADV awet/ADJ lan/CCONJ dakrumat/_ dak/PRON rumat/VERB kanthi/ADP becik/ADJ nganti/SCONJ aku/PRON bisa/AUX kuliyah/NOUN ./PUNCT 
+Bapak/NOUN pancen/ADV sengaja/ADJ dak/PRON kon/ADV sumingkir/VERB ngrumat/VERB ibuku/_ ibu/NOUN ku/PRON aneng/ADP omah/NOUN sijine/_ siji/NUM e/DET ./PUNCT 
+“/PUNCT Iki/PRON kabeh/DET bisa/AUX ditampa/VERB minangka/ADP kupiyane/_ kupiya/NUM e/DET kabeh/DET pehak/NOUN kanggo/SCONJ nggiyarake/VERB warisan/NOUN budaya/NOUN marang/ADP kawula/NOUN mudha/ADJ Ponorogo/PROPN supaya/SCONJ gelem/VERB nguri-uri/VERB budayane/_ budaya/NOUN e/PRON dhewe/DET ,/PUNCT ”/PUNCT pesene/_ pesen/VERB e/DET Gondo/PROPN ./PUNCT 
+Mbahmu/_ Mbah/NOUN mu/PRON iki/DET piye/ADV ,/PUNCT Le/PROPN ?/PUNCT 
+Kok/PART kaya/ADP ngene/PRON ?/PUNCT 
+Lara/ADJ nemen/ADJ kok/ADV gentenan/VERB ?/PUNCT 
+Gek/PART wong/NOUN sak/NUM omah/NOUN mengko/ADV yen/SCONJ dadine/_ dadi/VERB e/DET malah/ADV nemen/ADJ ?/PUNCT 
+"/PUNCT Piye/ADV ,/PUNCT Le/PROPN ?/PUNCT "/PUNCT pitakonane/_ pitakonan/VERB e/DET bapak/NOUN marang/ADP aku/PRON ./PUNCT 
+Ana/VERB puluhan/NUM jinis/NOUN dolanan/NOUN bocah/NOUN kang/PRON kondhang/ADJ ing/ADP Jawa/PROPN Tengah/PROPN ./PUNCT 
+Kayata/ADP boy-boy-an/NOUN ,/PUNCT gobak/NOUN sodor/VERB ,/PUNCT pate/NOUN lele/NOUN ,/PUNCT bekel/NOUN ,/PUNCT dakon/NOUN ,/PUNCT ceblek/VERB nyamuk/NOUN ,/PUNCT lan/CCONJ liya-liyane/_ liya-liya/ADJ e/DET ./PUNCT 
+Beksan/NOUN Krido/PROPN Warok/PROPN uga/ADV ngandhut/VERB sujarah/NOUN lan/CCONJ kebak/ADJ piwulang/NOUN sajroning/NOUN obahing/NOUN awak/NOUN ,/PUNCT tangan/NOUN ,/PUNCT lan/CCONJ sakabehe/_ sakabeh/NOUN e/DET ./PUNCT 
+Jroning/ADP karya/NOUN sastra/NOUN ngandhut/VERB maneka/DET warna/NOUN piwulang/NOUN ,/PUNCT salah/ADJ sijine/_ siji/NUM e/DET yaiku/AUX kautaman/NOUN ./PUNCT 
+Jebulane/ADV Simbah/PROPN wus/AUX kondur/VERB ninggalake/VERB donya/NOUN ./PUNCT 
+Aku/PRON kang/PRON katilap/VERB rumangsa/VERB getun/VERB ,/PUNCT kelangan/VERB lan/CCONJ rumangsa/VERB gawe/VERB dosa/NOUN gedhe/ADJ ./PUNCT 
+“/PUNCT Lha/INTJ ,/PUNCT kok/ADV wis/AUX ditembung/VERB ki/PRON ./PUNCT Piye/ADV ta/PART ,/PUNCT Mbah/PROPN ./PUNCT Aku/PRON urung/ADV sreg/ADJ ./PUNCT ”/PUNCT 
+Ya/INTJ ,/PUNCT mung/ADV kanthi/ADP cara/NOUN mangkene/DET pangajabku/_ pangajab/NOUN ku/PRON supaya/SCONJ aku/PRON bisa/AUX mujudake/VERB yen/SCONJ aku/PRON kudu/AUX bisa/AUX sukses/VERB lan/CCONJ bisa/AUX ngangkat/VERB drajating/NOUN wong/NOUN tuwa/ADJ ./PUNCT 
+Nalika/ADP iku/PRON ,/PUNCT aku/PRON lan/CCONJ sakulawarga/NOUN uga/ADV prasasat/VERB kabeh/PRON lagi/AUX nandhang/VERB pacoban/NOUN ./PUNCT 
+Beksan/NOUN Krido/PROPN Warok/PROPN cukup/ADV kondang/ADJ ing/ADP Ponorogo/PROPN ,/PUNCT Jawa/PROPN Timur/PROPN ,/PUNCT amarga/SCONJ ajeg/ADJ dipentaske/VERB bareng/ADP pentas/NOUN Reyog/PROPN ./PUNCT 
+Saperangan/DET bocah/NOUN mbabar/VERB beksan/NOUN Krido/PROPN Warok/PROPN ing/ADP Alun-Alun/PROPN Ponorogo/PROPN ,/PUNCT Jawa/PROPN Timur/PROPN ,/PUNCT Rabu/PROPN (/PUNCT 15/NUM //PUNCT 6/NUM //PUNCT 2022/NUM )/PUNCT ./PUNCT 
+Mula/ADV ,/PUNCT jroning/ADP pentas/NOUN beksan/NOUN Krido/PROPN Warok/PROPN iku/DET ngandhut/VERB piwulang/NOUN sarta/CCONJ ngemu/VERB teges/NOUN bab/ADP warok/NOUN ./PUNCT 
+Sasuwene/ADP amung/ADV patang/NUM dina/NOUN ,/PUNCT Simbah/PROPN Putri/PROPN nandhang/VERB gerah/ADJ kang/PRON nemen/ADJ ./PUNCT 
+Kudune/ADV aku/PRON mari/ADJ ./PUNCT 
+Mbahmu/_ Mbah/PROPN mu/PRON melu/VERB mari/ADJ ;/PUNCT kok/ADV kaya/ADP ngene/PRON ?/PUNCT 
+“/PUNCT Bab/ADP kuwi/PRON ngemu/VERB teges/NOUN dadi/VERB manungsa/NOUN iku/DET kudu/AUX sabar/ADJ lan/CCONJ tansah/ADV suci/ADJ ./PUNCT 
+”/PUNCT Mula/ADV ,/PUNCT gamane/_ gaman/NOUN e/DET kuwi/DET suci/ADJ ,/PUNCT ”/PUNCT ujare/_ ujar/VERB e/PRON ./PUNCT 
+Tembung/NOUN suweng/ADJ bisa/AUX dimaknani/VERB suwung/ADJ ,/PUNCT sepi/ADJ ,/PUNCT sejati/ADJ utawa/CCONJ amal/NOUN kang/PRON sejati/ADJ ./PUNCT 
+Nalika/ADP pengetan/NOUN Hari/PROPN Anak/PROPN Nasional/PROPN (/PUNCT HAN/PROPN )/PUNCT sawetara/DET wektu/NOUN kapungkur/ADV ,/PUNCT beksan/NOUN Krido/PROPN Warok/PROPN dibabar/VERB dening/ADP 19.271/NUM bocah/NOUN saka/ADP saindenge/_ saindeng/DET e/DET Ponorogo/PROPN ./PUNCT 
+Tembang/NOUN kanggo/SCONJ ngiring/VERB dolanan/NOUN bocah/NOUN Cublak-cublak/PROPN Suweng/PROPN kuwi/DET rasane/_ rasa/NOUN e/DET kaya-kaya/ADP prasaja/NOUN ./PUNCT 
+Mbahmu/_ Mbah/NOUN mu/PRON kok/ADV ceguk/VERB bar/ADP kuwi/PRON meneng/VERB ?/PUNCT 
+Freddy/PROPN Widya/PROPN Ariesta/PROPN jroning/ADP jurnale/NOUN kang/PRON asesirah/VERB Nilai/PROPN Moral/PROPN dalam/PROPN Lirik/PROPN Dolanan/PROPN Cublak-cublak/PROPN Suweng/PROPN mratelakake/VERB masarakat/NOUN Jawa/PROPN isih/ADV nguri-uri/VERB dolanan/NOUN tradhisional/ADJ utawa/CCONJ dolanan/NOUN bocah/NOUN ./PUNCT 
+“/PUNCT Le/PROPN ,/PUNCT apa/ADV kowe/PRON kepengin/VERB laptop/NOUN ?/PUNCT ”/PUNCT 
+Aku/PRON saguh/ADJ nukokake/VERB kanggo/ADP kowe/PRON ,/PUNCT nanging/CCONJ sing/DET lungsuran/NOUN wae/ADV tur/CCONJ rada/ADV murah/ADJ ,/PUNCT piye/ADV ?/PUNCT 
+Pitakonane/_ Pitakonan/NOUN e/DET Simbah/PROPN rikala/NOUN semana/DET ./PUNCT 
+Saperangan/DET sumber/NOUN sujarah/NOUN nyebutake/VERB tembang/NOUN dolanan/NOUN Cublak-cublak/PROPN Suweng/PROPN diripta/VERB dening/ADP Wali/PROPN Sanga/PROPN ,/PUNCT utamane/ADV Syekh/PROPN Maulana/PROPN Ainul/PROPN Yakin/PROPN utawa/CCONJ Sunan/PROPN Giri/PROPN watara/ADP taun/NOUN 1442/NUM M/PROPN ./PUNCT 
+Rasaku/_ Rasa/NOUN ku/PRON ayem/ADJ lan/CCONJ bungah/ADJ Simbah/PROPN bisa/AUX kaya/SCONJ pulih/ADJ ragane/_ raga/NOUN e/PRON ./PUNCT 
+Bathinku/_ Bathin/NOUN ku/PRON kaya-kaya/SCONJ bisa/AUX ngucap/VERB banter/ADJ mbarengi/VERB khutbah/NOUN Jemuwah/PROPN ,/PUNCT lan/CCONJ terus/ADV tumetes/ADJ eluh/ADJ aneng/ADP pipi/NOUN ./PUNCT 
+Sara/NOUN gampa/NOUN iki/DET nggambarake/VERB tradhisi/NOUN masarakat/NOUN Ponorogo/PROPN kanthi/ADP cara/NOUN padha-padha/ADJ menet/VERB pundhak/NOUN ./PUNCT 
+Saktemene/ADV ,/PUNCT aku/PRON iku/DET pekewuh/ADJ yen/SCONJ nganti/ADP Simbah/PROPN mujudi/VERB apa/PRON kang/PRON dadi/VERB sedyane/NOUN kanggo/ADP aku/PRON ./PUNCT 
+Kepengin/VERB rasane/_ rasa/NOUN e/DET nduwe/VERB laptop/NOUN kanggo/SCONJ ngenthengake/VERB anggonku/_ anggon/NOUN ku/PRON sekolah/NOUN lan/CCONJ wektu/NOUN kuwi/DET aku/PRON uga/ADV kepingin/VERB duwe/VERB HP/PROPN apik/ADJ kaya/ADP kanca-kancaku/_ kanca-kanca/NOUN ku/PRON ./PUNCT 
+Freddy/PROPN Widya/PROPN Ariesta/PROPN nyoba/VERB ndhudhah/VERB makna/NOUN lan/CCONJ piwulang/NOUN kang/PRON kakandhut/VERB jroning/ADP tembang/NOUN Cublak-Sublak/PROPN Suweng/PROPN ./PUNCT 
+Antarane/_ Antara/NOUN e/DET rong/NUM bengi/NOUN ,/PUNCT aku/PRON ,/PUNCT kakangku/_ kakang/NOUN ku/PRON lan/CCONJ Simbah/PROPN Kakung/PROPN kang/PRON ngrumat/VERB Simbah/PROPN Putri/PROPN ./PUNCT 
+“/PUNCT Beksan/NOUN iku/DET banjur/ADV digawe/VERB buku/NOUN lan/CCONJ dijenengi/VERB buku/NOUN kuning/ADJ ,/PUNCT ”/PUNCT ujare/_ ujar/VERB e/PRON nalika/SCONJ ditemoni/VERB ing/ADP daleme/_ dalem/NOUN e/DET ,/PUNCT Kelurahan/NOUN Paju/PROPN ,/PUNCT Ponorogo/PROPN ,/PUNCT Rebo/PROPN ./PUNCT 
+Simbah/PROPN terus/ADV nangis/VERB lan/CCONJ aku/PRON ora/PART bisa/AUX mbendung/ADV tangis/NOUN ./PUNCT 
+Carane/_ Cara/NOUN e/DET dolanan/VERB ,/PUNCT salah/ADJ sijine/_ siji/NUM e/DET bocah/NOUN kudu/AUX mbungkuk/VERB banjur/ADV kanca-kancane/_ kanca-kanca/NOUN e/PRON padha/ADJ mbukak/VERB dlamakan/NOUN tangane/_ tangan/NOUN e/DET lan/CCONJ diselehake/VERB sadhuwure/NOUN gegere/_ geger/NOUN e/PRON bocah/NOUN sing/PRON mbungkuk/VERB mau/ADV ./PUNCT 
+Dolanan/NOUN tradhisional/ADJ Cublak-cublak/PROPN Suweng/PROPN diripta/VERB dening/ADP Sunan/PROPN Giri/PROPN lan/CCONJ dadi/VERB sarananing/NOUN piwulang/NOUN agama/NOUN Islam/PROPN ing/ADP Tanah/PROPN Jawa/PROPN ./PUNCT 
+Tembang/NOUN Cublak-cublak/PROPN Suweng/PROPN uga/ADV ngandhut/VERB piwulang/NOUN becik/ADJ sajroning/SCONJ golek/VERB katentreman/NOUN ing/ADP donya/NOUN ./PUNCT 
+Lan/CCONJ uga/ADV aku/PRON kudu/AUX bisa/AUX gawe/VERB bungahing/ADJ Simbah/PROPN aneng/ADP kana/ADV ./PUNCT 
+Tembang/NOUN Cublak-cublak/PROPN Suweng/PROPN iku/DET kaya/ADP mangkene/PRON :/PUNCT Cublak-cublak/PROPN suweng/ADJ //PUNCT Suwenge/_ Suweng/PROPN e/DET ting/NOUN gelenter/VERB //PUNCT Mambu/PROPN ketundhung/VERB gudel/NOUN //PUNCT Pak/NOUN empong/ADJ lera-lere/VERB //PUNCT Sapa/PRON ngguyu/VERB ndhelikake/VERB //PUNCT Sir/NOUN sir/NOUN pong/ADJ dhele/NOUN kopong/ADJ ./PUNCT 
+Wong/NOUN bodho/ADJ kuwi/DET digambarake/VERB kaya/ADP wong/NOUN tuwa/ADJ ompong/ADJ sing/PRON bingungan/ADJ (/PUNCT pak/PRON empong/ADJ lera-lere/VERB )/PUNCT ./PUNCT 
+Lha/INTJ ,/PUNCT ngapa/ADV ngenteni/VERB srek/NOUN mu/PRON ?/PUNCT 
+Ukara/NOUN iki/DET ngandhut/VERB piwulang/NOUN sapa/PRON kang/PRON wicaksana/ADJ ,/PUNCT bakale/AUX nemokake/VERB katentremaning/NOUN ati/NOUN lan/CCONJ urip/NOUN kang/PRON sejati/ADJ ./PUNCT 
+Ora/PART kanyana-nyana/VERB ,/PUNCT kaya/SCONJ kajegur/VERB segara/NOUN madu/NOUN nalika/SCONJ aku/PRON mulih/VERB sekolah/NOUN jebulane/_ jebulan/NOUN e/DET simbah/NOUN wis/AUX nembung/VERB marang/ADP ponakane/_ ponakan/NOUN e/DET kang/PRON nduweni/VERB kenalan/NOUN kanca/NOUN kang/PRON adol/VERB uga/ADV servis/VERB laptop/NOUN komputer/NOUN ./PUNCT 
+Cublak/PROPN Suweng/PROPN tegese/_ teges/VERB e/DET wadhah/NOUN suweng/ADJ utawa/CCONJ mas-masan/NOUN ./PUNCT 
+Idham-idhamane/_ Idham-idhaman/NOUN e/DET kang/PRON durung/PART dak/PRON wujudi/VERB kok/ADV Simbah/PROPN wus/AUX kapundhut/VERB sowan/VERB Panjenengan/PRON Gusti/PROPN ./PUNCT 
+“/PUNCT Ya/PART Allah/PROPN ,/PUNCT kok/ADV tega/ADJ ninggalake/VERB aku/PRON ,/PUNCT nilapake/VERB aku/PRON ./PUNCT ”/PUNCT 
+Yen/SCONJ regane/ADV larang/ADJ ,/PUNCT apa/ADV ora/PART nambahi/VERB penggalihe/_ penggalih/NOUN e/DET Simbah/PROPN ?/PUNCT 
+Wangsulanku/_ Wangsulan/NOUN ku/PRON karo/ADP setengah/NUM mbrebes/VERB ./PUNCT 
+Dene/ADV Cublak-cublak/PROPN Suweng/PROPN ngemu/VERB teges/NOUN wadhah/NOUN kanggo/SCONJ nyimpen/VERB raja/NOUN brana/NOUN ./PUNCT 
+Saben/DET dina/NOUN aku/PRON ditawani/VERB terus/ADV babagan/ADP kuwi/PRON ,/PUNCT nanging/CCONJ aku/PRON nora/PART wani/ADJ mangsuli/VERB kang/PRON saktemene/ADJ ./PUNCT 
+“/PUNCT Geladhen/NOUN keprajuritan/NOUN warok/NOUN iki/DET sing/PRON didadekake/VERB beksan/NOUN ,/PUNCT ”/PUNCT pratelane/_ pratela/VERB e/DET Gondo/PROPN ./PUNCT 
+Lagu/NOUN dolanan/NOUN kuwi/DET dadi/VERB salah/ADJ sijine/_ siji/NUM e/DET wujud/NOUN tradhisi/NOUN lisan/ADJ kang/PRON diwarisake/VERB para/DET leluhur/NOUN ./PUNCT 
+Beksan/NOUN iki/DET digawe/VERB kanggo/SCONJ nggenepi/VERB adicara/NOUN festival/X kesenian/NOUN Reyog/PROPN Ponorogo/PROPN ./PUNCT 
+Gondo/PROPN nyebutake/VERB ana/VERB saperangan/DET gerakan/NOUN kang/PRON nggunakake/VERB kolor/NOUN sapi/NOUN utawa/CCONJ diarani/VERB gamane/_ gaman/NOUN e/DET warok/NOUN ./PUNCT 
+Simbah/NOUN wus/AUX lunga/VERB ,/PUNCT cahyaning/NOUN katon/VERB sumunar/VERB ,/PUNCT resik/ADJ kaya/SCONJ ra/PART kuwat/ADJ rasaning/VERB ati/NOUN nyawang/VERB lakon/NOUN iki/DET ./PUNCT 
+Kang/PRON diarani/VERB warok/NOUN iku/DET nggambarake/VERB blegere/_ bleger/NOUN e/DET utawa/CCONJ wujude/_ wujud/NOUN e/DET ./PUNCT 
+Yen/SCONJ kelingan/VERB nalikane/SCONJ Simbah/NOUN mangkat/VERB rasane/_ rasa/NOUN e/DET kaya/SCONJ dene/SCONJ sinamber/VERB bledheg/NOUN ing/ADP mangsa/NOUN katiga/ADJ ./PUNCT 
+Kabeh/PRON bingung/ADJ ,/PUNCT katambahan/ADV udane/_ udan/NOUN e/DET sansaya/ADV deres/ADJ ./PUNCT 
+Saknalika/ADV kaya/SCONJ wus/AUX ora/PART kuwat/ADJ ngampet/VERB tumetesing/NOUN waspa/NOUN prasasat/SCONJ jebol/VERB mring/ADP bendungan/NOUN ./PUNCT 
+“/PUNCT Kowe/PRON kudu/AUX bisa/AUX pinter/ADJ ya/PART ,/PUNCT Le/NOUN ./PUNCT 
+Dadiya/VERB pegawe/NOUN ./PUNCT 
+Suk/ADV aku/PRON yen/SCONJ tuwa/ADJ openana/VERB ya/PART ,/PUNCT Le/NOUN ./PUNCT ”/PUNCT 
+Ananging/ADV ,/PUNCT jarene/_ jare/VERB e/DET Freddy/PROPN Widya/PROPN Ariesta/PROPN ,/PUNCT supaya/SCONJ bisa/AUX ngematake/VERB maknane/_ makna/NOUN e/DET ,/PUNCT tembang/NOUN Cublak-cublak/PROPN Suweng/PROPN ora/PART bisa/AUX dimaknani/VERB ngono/PRON wae/ADV apa/PRON anane/_ ana/VERB e/DET jroning/ADP basa/NOUN Indonesia/PROPN ./PUNCT 
+Eseming/NOUN kang/PRON isih/ADV kaya/SCONJ kagambar/VERB lan/CCONJ kaya-kaya/SCONJ isih/ADV urip/VERB ana/VERB donya/NOUN iki/DET ./PUNCT 
+Aku/PRON akeh/ADJ sambat/VERB yen/SCONJ ana/VERB garapan/NOUN sekolah/NOUN aku/PRON mesthi/AUX kangelan/ADJ amarga/SCONJ nora/PART nduwe/VERB laptop/NOUN ./PUNCT 
+Nanging/CCONJ aku/PRON wus/AUX prasetya/NOUN sawise/ADP mangkene/PRON aku/PRON kudu/AUX luwih/ADV pinter/ADJ lan/CCONJ bisa/AUX nggayuh/VERB apa/PRON kang/PRON dadi/VERB angen-angenku/_ angen-angen/NOUN ku/PRON kanggo/SCONJ mujudake/VERB kabahagyan/NOUN kang/PRON ana/VERB ing/ADP kulawargaku/_ kulawarga/NOUN ku/PRON ./PUNCT 
+Tansah/ADV mikirake/VERB kepiye/ADV anak/NOUN putune/_ putu/NOUN e/DET tansah/ADV nyawiji/VERB nduweni/VERB rasa/NOUN bungah/ADJ lan/CCONJ bisa/AUX ngabekti/VERB mring/ADP piyambake/PRON ./PUNCT 
+Lan/CCONJ ,/PUNCT apa/PRON kang/PRON ginaris/ADJ dening/ADP Gusti/PROPN wus/AUX ngarani/VERB ,/PUNCT wus/AUX sinerat/VERB yen/SCONJ wektu/NOUN dina/NOUN iku/DET Simbah/NOUN kondur/VERB ing/ADP Ngarsa/PROPN Dalem/PROPN Gusti/PROPN ./PUNCT 
+Rumangsaku/_ Rumangsa/VERB ku/PRON Simbah/NOUN kaya/ADP wong/NOUN ayem/ADJ ,/PUNCT rasane/_ rasa/NOUN e/DET kaya/SCONJ turu/VERB kang/PRON jenak/ADJ kepati/ADJ beda/VERB nalika/ADP wengi/NOUN ./PUNCT 
+Aku/PRON dhewe/DET bingung/ADJ ,/PUNCT Pak/NOUN ,/PUNCT gek/PART Simbah/NOUN lara/ADJ ,/PUNCT kabeh/PRON gek/PART kaya/ADP ngono/PRON ,/PUNCT iki/PRON kepiye/ADV ?/PUNCT 
+Nanging/CCONJ ,/PUNCT kahanane/_ kahana/NOUN e/DET wong/NOUN tuwaku/_ tuwa/ADJ ku/PRON kang/PRON wektu/NOUN iku/DET lagi/AUX nandhang/VERB susah/ADJ ./PUNCT 
+Seru/ADJ lan/CCONJ banter/ADJ anggonku/_ anggon/NOUN ku/PRON nangis/VERB kejer/ADJ kaya/SCONJ dakuntabake/VERB saknalika/ADV iku/DET ./PUNCT 
+Kamangka/ADV ,/PUNCT supaya/SCONJ tekan/VERB anggone/SCONJ nuju/VERB katentremaning/NOUN urip/NOUN kang/PRON sejati/ADJ ,/PUNCT manungsa/NOUN kudu/AUX nyingkiri/VERB rasa/NOUN tresnane/_ tresna/NOUN e/DET marang/ADP bandha/NOUN donya/NOUN ./PUNCT 
+Sir/NOUN (/PUNCT swara/NOUN ati/NOUN )/PUNCT pong/ADJ dhele/NOUN kopong/ADJ (/PUNCT dhele/NOUN tanpa/ADP isi/NOUN )/PUNCT ngemu/VERB teges/NOUN ora/PART duwe/VERB ati/NOUN utawa/CCONJ swara/NOUN atine/_ ati/NOUN e/PRON blas/ADV ora/PART ana/VERB ./PUNCT 
+Linambaran/VERB tangis/NOUN lan/CCONJ kangen/NOUN marang/ADP Simbah/NOUN ,/PUNCT aku/PRON nyerat/VERB iki/PRON kanggo/SCONJ mujudake/VERB apa/PRON kang/PRON dadi/VERB pawelinge/NOUN ,/PUNCT supaya/SCONJ aku/PRON bisa/AUX nggayuh/VERB apa/PRON kang/PRON dadi/VERB angen-angenku/_ angen-angen/NOUN ku/PRON ./PUNCT 
+Gondo/PROPN ngarani/VERB bakune/_ baku/NOUN e/DET beksan/NOUN kuwi/DET yaiku/AUX adu/VERB gores/VERB utawa/CCONJ kempol/NOUN ,/PUNCT adu/VERB tangan/NOUN ,/PUNCT adu/VERB sirah/NOUN utawa/CCONJ macanan/NOUN ,/PUNCT lan/CCONJ sara/NOUN gampa/NOUN ./PUNCT 
+“/PUNCT Dadi/ADV sakabehing/DET polah/NOUN nalika/SCONJ mbabar/VERB beksan/NOUN iku/DET nggambarake/VERB watake/_ watak/NOUN e/DET warok/NOUN ,/PUNCT ”/PUNCT ujare/_ ujar/VERB e/PRON ./PUNCT 
+"/PUNCT Gek/PART Mbah/NOUN Kung/NOUN wis/AUX katon/VERB pulih/ADJ nanging/CCONJ kok/ADV Mbah/NOUN Uti/NOUN sansaya/ADV nemen/ADJ malah/ADV kaya/ADP wong/NOUN bingung/ADJ gek/PART njur/ADV merem/VERB wae/ADV ,/PUNCT ”/PUNCT wangsulanku/_ wangsulan/VERB ku/PRON karo/SCONJ sangga/VERB uwang/NOUN ./PUNCT 
+Dene/ADV gelenter/VERB tegese/_ teges/NOUN e/DET sumebar/VERB ./PUNCT 
+Bandha/NOUN brana/NOUN kang/PRON dadi/VERB golekane/_ golekan/NOUN e/DET manungsa/NOUN sejatine/_ sejati/ADJ e/DET sumebar/VERB ing/ADP ngendi-endi/PRON ./PUNCT 
+Ananging/ADV ,/PUNCT manawa/SCONJ digatekake/VERB ,/PUNCT kebak/ADJ rasa/NOUN lan/CCONJ makna/NOUN kang/PRON jero/ADJ ./PUNCT 
+Sunan/PROPN Giri/PROPN banjur/ADV ngripta/VERB tembang/NOUN Cublak-cublak/PROPN Suweng/PROPN kang/PRON wusanane/ADV dadi/VERB tembang/NOUN dolanan/NOUN kanggo/SCONJ ngiring/VERB dolanan/NOUN tradhisional/ADJ bocah/NOUN ./PUNCT 
+Kena/ADV ngapa/PRON Simbah/NOUN kok/ADV tega/ADJ lunga/VERB ninggalake/VERB aku/PRON ?/PUNCT 
+“/PUNCT Regane/_ Rega/NOUN e/DET laptop/NOUN wae/ADV aku/PRON ora/PART weruh/VERB ,/PUNCT Mbah/NOUN ./PUNCT “/PUNCT 
+Eling-eling/VERB sedulur-sedulurku/_ sedulur-sedulur/NOUN ku/PRON nora/PART dibandhani/VERB kaya/ADP aku/PRON nalika/SCONJ sekolah/VERB ./PUNCT 
+Simbah/NOUN kok/ADV bali/VERB mrepegi/VERB aku/PRON ana/VERB kene/ADV ./PUNCT 
+Nanging/ADV ya/PART kuwi/PRON ,/PUNCT Simbah/NOUN bacut/VERB kapundhut/VERB sowan/VERB Gusti/PROPN nalikane/SCONJ aku/PRON isih/ADV kaya/ADP mangkene/PRON ./PUNCT 
+Sanajan/SCONJ kebak/ADJ bandha/NOUN ,/PUNCT nanging/CCONJ bandha/NOUN brana/NOUN kuwi/DET ora/PART bisa/AUX nentremake/VERB ati/NOUN lan/CCONJ uripe/_ urip/NOUN e/PRON ./PUNCT 
+“/PUNCT Iki/PRON piye/ADV Mas/NOUN ,/PUNCT Simbah/NOUN kaya/ADP ngene/PRON gek/PART nora/PART paring/VERB wangsulan/NOUN apa-apa/PRON ?/PUNCT ”/PUNCT 
+Pitakonku/_ Pitakon/VERB ku/PRON ,/PUNCT banjur/ADV kakangku/_ kakang/NOUN ku/PRON amung/ADV gedheg-gedheg/VERB sajake/ADV bingung/ADJ ./PUNCT 
+Rikala/NOUN semana/DET ,/PUNCT bab/ADP beksan/NOUN Krido/PROPN Warok/PROPN diputusi/VERB saka/ADP sarujuke/NOUN para/DET seniman/NOUN ing/ADP Ponorogo/PROPN ./PUNCT 
+Sakbaliku/ADV ,/PUNCT ora/PART watara/ADV suwe/ADJ omahku/_ omah/NOUN ku/PRON wus/AUX kebak/ADJ rame/ADJ lan/CCONJ padha/ADJ nata/VERB kursi/NOUN ./PUNCT 
+Wektu/NOUN iku/DET kang/PRON nandhang/VERB gerah/ADJ yaiku/AUX simbah/NOUN kakung/NOUN ,/PUNCT ibu/NOUN ,/PUNCT lan/CCONJ kakangku/_ kakang/NOUN ku/PRON ./PUNCT 
+"/PUNCT Bisa/AUX nguwatake/VERB piwulang/NOUN budaya/NOUN bangsa/NOUN ,/PUNCT ”/PUNCT ujare/_ ujar/VERB e/DET Freddy/PROPN Widya/PROPN Ariesta/PROPN ing/ADP jurnal-e/_ jurnal/NOUN -/PUNCT e/PRON kang/PRON dimot/VERB ing/ADP laman/NOUN resmi/ADJ Binus/PROPN University/PROPN Jakarta/PROPN ./PUNCT 
+“/PUNCT Arep/AUX digawa/VERB menyang/ADP Rumah/PROPN Sakit/PROPN gek/PART kahanane/_ kahana/NOUN e/DET ngene/PRON iki/DET kabeh/PRON ./PUNCT “/PUNCT 
+Wabah/NOUN Covid-19/PROPN ing/ADP taun/NOUN 2021/NUM kaya/ADP dene/ADP pageblug/NOUN kang/PRON saknyatane/ADJ ./PUNCT 
+Sakklebatan/ADV ,/PUNCT kaya/SCONJ weruh/VERB gegambaraning/NOUN pawongan/NOUN kang/PRON nora/PART pangling/ADJ maneh/ADV ./PUNCT 
+Saliyane/ADV ,/PUNCT kuwi/PRON isih/ADV ana/VERB sing/PRON apik/ADJ maneh/ADV ./PUNCT 
+Tujuwan/NOUN beksan/NOUN Krido/PROPN Warok/PROPN diripta/VERB jalaran/SCONJ durung/PART ana/VERB jinising/NOUN beksan/NOUN kang/PRON nggambarake/VERB blegere/NOUN warok/NOUN ./PUNCT 
+Cublak-cublak/PROPN Suweng/PROPN iku/DET dolanan/NOUN tradhisional/ADJ kang/PRON kerep/ADV dinggo/VERB dolanan/NOUN saperangan/DET bocah/NOUN wadon/NOUN cacah/NOUN telu/NUM utawa/CCONJ luwih/ADV ./PUNCT 
+Amung/ADV Simbah/NOUN Kakung/NOUN kang/PRON nyumurupi/VERB banjur/ADV nggugah/VERB kakangku/_ kakang/NOUN ku/PRON ./PUNCT 
+Nalika/SCONJ kumandhanging/VERB khutbah/NOUN Jemuwah/PROPN ,/PUNCT sarta/CCONJ kawimbuh/VERB sumiliring/VERB hawa/NOUN kang/PRON ngayemake/VERB ati/NOUN ana/VERB sajroning/NOUN mesjid/NOUN ./PUNCT 
+Ora/PART mung/ADV cakepan/NOUN ,/PUNCT musike/_ musik/NOUN e/DET uga/ADV dicampur/VERB karo/ADP gamelan/NOUN ./PUNCT 
+Dadi/ADV isa/AUX dibayangke/VERB piye/ADV apike/_ apik/ADJ e/DET ,/PUNCT jejogedan/VERB musik/NOUN rock/X sambi/SCONJ ngrungokne/VERB fragmen/NOUN gamelan/NOUN ./PUNCT 
+Kudu/AUX bisa/AUX nglembah/VERB manah/VERB ,/PUNCT ora/PART nyepelekake/VERB wong/NOUN liya/ADJ ,/PUNCT sarta/CCONJ bisa/AUX tanggap/ADJ lan/CCONJ trep/VERB karo/ADP swara/NOUN atine/_ ati/NOUN e/PRON ./PUNCT 
+Jeneng/NOUN bathik/NOUN Wonogiren/PROPN sansaya/ADV kondhang/ADJ sawuse/SCONJ digiyarake/VERB Bu/PROPN Tien/PROPN Soeharto/PROPN ,/PUNCT garwane/_ garwa/NOUN e/DET Presiden/PROPN Soeharto/PROPN kang/PRON asline/_ asli/ADJ e/DET uga/ADV saka/ADP Wonogiri/PROPN ./PUNCT 
+Bathik/NOUN iku/DET budaya/NOUN asli/ADJ Indonesia/PROPN kang/PRON wus/AUX diakoni/VERB donya/NOUN ./PUNCT 
+Bathik/NOUN Indonesia/PROPN uga/ADV wus/AUX ditetepake/VERB dening/ADP Unesco/PROPN minangka/ADP warisan/NOUN kabudayan/NOUN asli/ADJ Indonesia/PROPN ./PUNCT 
+Telung/NUM kutha/NOUN kang/PRON kondhang/ADJ gawe/VERB bathik/NOUN yaiku/AUX Pekalongan/NOUN ,/PUNCT Solo/PROPN ,/PUNCT lan/CCONJ Jogja/PROPN ./PUNCT 
+Nanging/ADV manawa/SCONJ gelem/VERB nggoleki/VERB ,/PUNCT bathik/NOUN uga/ADV bisa/AUX ditemokake/VERB ing/ADP saperangan/DET dhaerah/NOUN ing/ADP Jawa/PROPN Tengah/PROPN ./PUNCT 
+Salah/ADJ sijine/_ siji/NUM e/DET dhaerah/NOUN sing/PRON gawe/VERB bathik/NOUN yaiku/AUX Kecamatan/PROPN Tirtomoyo/PROPN ,/PUNCT Kabupaten/PROPN Wonogiri/PROPN ./PUNCT 
+Dhaerah/NOUN kang/PRON gawe/VERB bathik/NOUN Wonogiren/PROPN ing/ADP Kecamatan/PROPN Tirtomoyo/PROPN iku/DET sumebar/VERB ing/ADP limang/NUM desa/NOUN yaiku/AUX Desa/PROPN Tirtomoyo/PROPN ,/PUNCT Dlepih/PROPN ,/PUNCT Banyakprodo/PROPN ,/PUNCT Bedingin/PROPN ,/PUNCT lan/CCONJ Ngargoyoso/PROPN ./PUNCT 
+Bathik/NOUN Wonogiren/PROPN tradhisi/NOUN Tirtomoyo/PROPN isih/ADV ana/VERB sesambungane/_ sesambungan/NOUN e/DET karo/ADP bathik/NOUN keraton/NOUN kang/PRON ana/VERB ing/ADP Solo/PROPN ./PUNCT 
+Bathik/NOUN Wonogiren/PROPN ing/ADP Tirtomoyo/PROPN iku/DET bathik/NOUN Wonogiren/PROPN asli/ADJ ./PUNCT 
+Kanjeng/PROPN Wonogiren/PROPN mulang/VERB seni/NOUN bathik/NOUN marang/ADP warga/NOUN Tirtomoyo/PROPN taun/NOUN 1910-an/NOUN ./PUNCT 
+Kanjeng/PROPN Wonogiren/PROPN uga/ADV ngajari/VERB tata/NOUN cara/NOUN mbathik/VERB saka/ADP pawitan/NOUN nganti/ADP babaran/NOUN ./PUNCT 
+Bu/PROPN Tien/PROPN Soeharto/PROPN nyandhang/VERB busana/NOUN bathik/NOUN Wonogiren/PROPN saben/DET dina/NOUN ./PUNCT 
+Mula/ADV bathik/NOUN Wonogiren/PROPN banjur/ADV dadi/VERB salah/ADJ siji/NUM bathik/NOUN kang/PRON disenengi/VERB masarakat/NOUN ./PUNCT 
+Bathik/PROPN Wonogiren/PROPN mligine/ADV ana/VERB remukan/NOUN jroning/ADP gambare/_ gambar/NOUN e/DET ./PUNCT 
+Remukan/NOUN ing/ADP bathik/NOUN Wonogiren/PROPN kuwi/DET nganti/ADP saiki/ADV tetep/ADV dijaga/VERB lan/CCONJ ndadekake/VERB bathik/NOUN Wonogiren/PROPN mirunggan/ADJ ./PUNCT 
+Bathik/NOUN Wonogiren/PROPN tradhisi/PROPN Tirtomoyo/PROPN meh/DET padha/ADJ karo/ADP bathik/NOUN ing/ADP Pura/PROPN Mangkunegaran/PROPN ,/PUNCT utamane/ADV gambare/_ gambar/NOUN e/PRON ./PUNCT 
+Sing/PRON mbedakake/VERB ,/PUNCT carane/_ cara/NOUN e/DET gawe/VERB ./PUNCT 
+Wiwit/ADP mbiyen/ADV ,/PUNCT bathik/NOUN Wonogiren/PROPN tradhisi/NOUN Tirtomoyo/PROPN ngandhut/VERB gambar-gambar/NOUN tradhisi/NOUN ./PUNCT 
+Warga/NOUN kang/PRON ngrembakake/VERB payung/NOUN bathik/NOUN kuwi/DET ,/PUNCT yaiku/AUX Sularto/PROPN ,/PUNCT 42/NUM ,/PUNCT utawa/CCONJ sing/PRON diparabi/VERB Jeprik/PROPN ./PUNCT 
+Kanggo/ADP ngoyak/VERB pesenan/NOUN payung/NOUN bathik/NOUN ,/PUNCT Jeprik/PROPN nganti/SCONJ ngingu/VERB pegawe/NOUN 40/NUM wong/NOUN ./PUNCT 
+Enem/NUM wong/NOUN gawe/VERB payung/NOUN bathik/NOUN ing/ADP omahe/_ omah/NOUN e/DET Jeprik/PROPN ./PUNCT 
+Dene/ADV liyane/_ liya/ADJ e/DET nggarap/VERB saka/ADP omahe/_ omah/NOUN e/PRON dhewe-dhewe/DET ./PUNCT 
+Sesasi/NOUN wingi/ADV ,/PUNCT Jeprik/PROPN entuk/VERB pesenan/NOUN nganti/ADP 1.000/NUM payung/NOUN bathik/NOUN ./PUNCT 
+Ora/PART beda/VERB karo/ADP bathik/NOUN tulis/NOUN umume/ADV ,/PUNCT carane/_ cara/NOUN e/DET mbathik/VERB payung/NOUN uga/ADV nggunakake/VERB canthing/NOUN ./PUNCT 
+Mung/ADV wae/ADV ,/PUNCT warna/NOUN sing/PRON digunakake/VERB yaiku/AUX cet/NOUN ./PUNCT 
+Maneka/DET warna/NOUN gambar/NOUN bathik/NOUN dioleske/VERB ing/ADP payung/NOUN ,/PUNCT wiwit/VERB saka/ADP gambar/NOUN bathik/NOUN klasik/ADJ nganti/ADP kontemporer/ADJ ./PUNCT 
+Aku/PRON mung/ADV nuruti/VERB panjalukane/NOUN sing/PRON pesen/VERB ./PUNCT 
+Saiki/ADV lagi/AUX padha/ADJ gandrung/ADJ gambar/VERB bathik/NOUN kanthi/ADP warna/NOUN sing/PRON ngejreng/VERB kaya/SCONJ [/PUNCT gambar/VERB ]/PUNCT tiga/NUM negeri/NOUN ./PUNCT 
+Tukang/NOUN bathik/NOUN ,/PUNCT Wiji/PROPN Lestari/PROPN ,/PUNCT 46/NUM ,/PUNCT ngakoni/VERB mbathik/VERB payung/NOUN luwih/ADV angel/ADJ tinimbang/SCONJ mbathik/VERB kain/NOUN ./PUNCT 
+“/PUNCT Upamane/_ Upama/NOUN e/DET nganti/SCONJ kleru/ADJ ,/PUNCT ngilangine/_ ngilangin/VERB e/PRON repot/ADJ lan/CCONJ angel/ADJ ./PUNCT “/PUNCT 
+Mula/ADV nalika/SCONJ mbathik/VERB payung/NOUN ,/PUNCT aja/PART nganti/SCONJ gambare/_ gambar/NOUN e/DET kleru/ADJ ,/PUNCT ”/PUNCT piterange/_ piterang/VERB e/PRON ./PUNCT 
+Ki/PROPN Ageng/PROPN Gribig/PROPN mulang/VERB agama/NOUN Islam/PROPN ing/ADP dhaerah/NOUN Jatinom/PROPN ,/PUNCT Klaten/PROPN ./PUNCT 
+Miturut/VERB critane/_ crita/NOUN e/DET ,/PUNCT mula/VERB bukane/_ buka/NOUN e/DET tradhisi/NOUN Ya/PROPN Qowiyu/PROPN nalika/SCONJ Ki/PROPN Ageng/PROPN Gribig/PROPN kondur/VERB saka/SCONJ nindakake/VERB ibadah/NOUN kaji/NOUN ./PUNCT 
+Jeneng/NOUN panganan/NOUN kuwi/DET asale/VERB saka/ADP tembung/NOUN affun/X kang/PRON ateges/VERB pangapuran/NOUN ./PUNCT 
+Satekane/_ Satekan/ADP e/PRON Jatinom/PROPN ,/PUNCT Ki/PROPN Ageng/PROPN Gribig/PROPN banjur/ADV ngedum/VERB oleh-oleh/NOUN arupa/VERB panganan/NOUN marang/ADP para/DET santrine/_ santri/NOUN e/PRON ./PUNCT 
+Tradhisi/NOUN Ya/PROPN Qowiyu/PROPN kang/PRON kebak/ADJ piwulang/NOUN iku/DET banjur/ADV diuri-uri/VERB dening/ADP para/DET santri/NOUN lan/CCONJ ngrembaka/VERB nganti/ADP saiki/ADV ./PUNCT 
+Saben/DET taun/NOUN ,/PUNCT ewunan/NUM nganti/ADP atusan/NUM ewu/NUM wong/NOUN padha/ADJ njujug/VERB tlatah/NOUN Jatinom/PROPN saprelu/ADV melu/VERB ngregengake/VERB tradhisi/NOUN Ya/PROPN Qowiyu/PROPN ./PUNCT 
+Dene/ADV taun/NOUN iki/DET ,/PUNCT adicara/NOUN nyebar/VERB apem/NOUN Ya/PROPN Qawiyu/PROPN bakal/AUX dileksanakake/VERB ing/ADP Lapangan/NOUN Klampeyan/PROPN ,/PUNCT Jatinom/PROPN ,/PUNCT Klaten/PROPN ,/PUNCT Jumat/PROPN (/PUNCT 16/NUM //PUNCT 9/NUM //PUNCT 2022/NUM )/PUNCT awan/NOUN utawa/CCONJ sabubare/ADP Salat/PROPN Jumat/PROPN ./PUNCT 
+Sasuwene/SCONJ ana/VERB Covid-19/PROPN rong/NUM taun/NOUN kepungkur/ADJ ,/PUNCT tradhisi/NOUN sebar/VERB apem/NOUN Ya/PROPN Qowiyu/PROPN sawetara/DET dileksanakake/VERB tanpa/SCONJ ana/VERB uyuk-uyukan/VERB rebutan/VERB apem/NOUN ./PUNCT 
+Taun/NOUN iki/DET ,/PUNCT satengahing/ADJ sasi/NOUN September/PROPN mengko/ADV ,/PUNCT sebar/VERB apem/NOUN bakal/AUX diadani/VERB maneh/ADV kaya/ADP adate/_ adat/NOUN e/DET ./PUNCT 
+Apem/NOUN bakal/AUX disebar/VERB saka/ADP ndhuwur/NOUN panggung/NOUN sarta/CCONJ menara/NOUN ing/ADP Lapangan/NOUN Klampeyan/PROPN ./PUNCT 
+Sebaran/NOUN apem/NOUN iki/DET dileksanakake/VERB maneh/ADV amarga/SCONJ Covid-19/PROPN wis/AUX rada/ADV mendha/ADJ ,/PUNCT sisan/ADV kanggo/SCONJ ngelingi/VERB Ki/PROPN Ageng/PROPN Gribig/PROPN ./PUNCT 
+Insyaallah/INTJ bakal/AUX diadani/VERB maneh/ADV [/PUNCT sebaran/NOUN apem/NOUN ]/PUNCT ./PUNCT 
+Iki/PRON dudu/PART ngimpi/VERB ./PUNCT 
+Iki/PRON pancen/ADV kasunyatan/NOUN sing/PRON kudu/AUX dak/PRON adhepi/VERB ,/PUNCT sanajan/SCONJ pait/ADJ rasane/_ rasa/NOUN e/DET ./PUNCT 
+Ana/VERB sing/PRON ngundang/VERB aku/PRON ./PUNCT 
+Anggonku/_ Anggon/NOUN ku/PRON mlaku/VERB ana/VERB ing/ADP koridor/NOUN kelas/NOUN iki/DET banjur/ADV mandheg/VERB ./PUNCT 
+Dumadakan/ADV wae/ADV ati/NOUN tratapan/ADJ ,/PUNCT samsaya/ADV cedhak/ADJ ,/PUNCT samsaya/ADV ra/PART karuwan/ADJ rasa/NOUN ing/ADP njero/NOUN dhadha/NOUN ./PUNCT 
+Lintang/PROPN ,/PUNCT bocah/NOUN wadon/NOUN sing/PRON celuk-celuk/VERB jenengku/_ jeneng/NOUN ku/PRON mau/ADV ./PUNCT 
+Dak/PRON akoni/VERB ,/PUNCT wis/AUX suwe/ADJ aku/PRON nyimpen/VERB rasa/NOUN iki/DET ./PUNCT 
+Rasa/NOUN kangen/VERB nek/SCONJ sedina/_ siji/NUM dina/NOUN wae/ADV ora/PART krungu/VERB swarane/_ swara/NOUN e/PRON ./PUNCT 
+Lintang/PROPN ,/PUNCT kancaku/_ kanca/NOUN ku/PRON wiwit/VERB lulus/VERB SMA/PROPN nganti/ADP saiki/ADV ,/PUNCT bareng/ADV kuliyah/VERB neng/ADP universitas/NOUN sing/PRON padha/ADJ ./PUNCT 
+Namung/ADV beda/VERB angkatan/NOUN lan/CCONJ jurusan/NOUN ./PUNCT 
+Ah/INTJ ,/PUNCT Lintang/PROPN ,/PUNCT polahmu/_ polah/NOUN mu/PRON isih/ADV kaya/ADP biyen/ADV ,/PUNCT ceplas-ceplos/ADJ ,/PUNCT renyah/ADJ kaya/ADP karak/NOUN gorengane/_ gorengan/NOUN e/DET ibu/NOUN ./PUNCT 
+Aku/PRON mung/ADV isa/AUX mesem/VERB nyawang/VERB dheweke/PRON ./PUNCT 
+Adhik/NOUN tingkatku/_ tingkat/NOUN ku/PRON iki/DET pancen/ADV suwe-suwe/ADJ gawe/VERB gemes/ADJ atiku/_ ati/NOUN ku/PRON ./PUNCT 
+Wes/AUX sida/AUX ketemu/VERB ,/PUNCT Pak/PROPN Ari/PROPN ta/PART ,/PUNCT Mas/NOUN ?/PUNCT 
+Piye/ADV hasil/NOUN revisine/_ revisi/NOUN e/DET ?/PUNCT 
+Wah/INTJ nek/SCONJ Mas/PROPN Janto/PROPN mesthi/AUX ora/PART nganggo/VERB revisi/NOUN maneh/ADV ya/PART ,/PUNCT Mas/PROPN ./PUNCT 
+"/PUNCT Wis/AUX lancar/ADJ jaya/ADJ ,/PUNCT ”/PUNCT ujare/_ ujar/VERB e/DET Lintang/PROPN njejeri/VERB lakuku/_ laku/NOUN ku/PRON ./PUNCT 
+Dheweke/PRON ngerti/VERB wae/ADV nek/SCONJ dina/NOUN iki/DET jadwalku/_ jadwal/NOUN ku/PRON konsultasi/NOUN karo/ADP dhosen/NOUN killer/X ,/PUNCT Pak/PROPN Ari/PROPN ./PUNCT 
+“/PUNCT Ora/PART kuwalik/ADJ ta/PART iki/PRON ./PUNCT Biyasane/ADV aku/PRON sing/PRON mbok/PRON kon/ADV mbayari/VERB ./PUNCT ”/PUNCT 
+Bocah/NOUN wadon/NOUN ayu/ADJ kuwi/DET melu/VERB ngguyu/VERB ./PUNCT 
+Dekik/NOUN pipine/_ pipi/NOUN e/PRON samsaya/ADV cetha/ADJ ,/PUNCT nambah/VERB manis/ADJ olehe/SCONJ ngguyu/VERB ./PUNCT 
+Tangane/_ Tangan/NOUN e/PRON sing/PRON kebak/ADJ buku/NOUN kandel/ADJ ,/PUNCT banjur/ADV diselehne/VERB ing/ADP meja/NOUN kantin/NOUN ./PUNCT 
+“/PUNCT Serius/ADJ iki/PRON ,/PUNCT Mas/PROPN ./PUNCT Aku/PRON genten/PART sing/PRON njajakne/VERB sampeyan/NOUN ./PUNCT "/PUNCT 
+"/PUNCT Wes/AUX ta/PART ndang/ADV ,/PUNCT arep/AUX dhahar/VERB apa/PRON ?/PUNCT Sisan/ADV ngunjuke/VERB ,/PUNCT Mas/PROPN ./PUNCT ”/PUNCT 
+Nyawang/VERB sliramu/_ slira/NOUN mu/PRON aku/PRON wis/AUX ora/PART luwe/ADJ lan/CCONJ ngelak/ADJ ,/PUNCT Dhik/PROPN ./PUNCT 
+Sepisan/NOUN maneh/ADV bathinku/_ bathin/NOUN ku/PRON celathu/ADJ ,/PUNCT namung/ADV isa/AUX dak/PRON batin/VERB ,/PUNCT ora/PART isa/AUX kewetu/VERB ./PUNCT 
+“/PUNCT Manut/VERB sing/PRON njajakne/VERB wis/AUX ,/PUNCT ”/PUNCT aku/PRON manthuk/VERB pratandha/NOUN sarujuk/VERB ./PUNCT 
+Gegojegan/VERB karo/ADP Lintang/PROPN ,/PUNCT gawe/VERB ayem/ADJ atiku/_ ati/NOUN ku/PRON ./PUNCT 
+Sedhela/ADV isa/AUX nglalekake/VERB revisi/NOUN skripsi/NOUN bab/X papat/NUM saka/ADP Pak/PROPN Ari/PROPN ./PUNCT 
+Sesuk/ADV isih/ADV ana/VERB wektu/NOUN ./PUNCT 
+Dak/PRON sawang/VERB bocah/NOUN wadon/NOUN sing/PRON lungguh/VERB neng/ADP sandingku/_ sanding/NOUN ku/PRON iki/DET nyambi/VERB ngelusi/VERB buku-bukune/_ buku-buku/NOUN e/PRON ./PUNCT 
+Jilbab/PROPN werna/NOUN biru/ADJ sing/PRON dienggo/VERB ,/PUNCT nambah/VERB ayune/_ ayu/ADJ e/PRON ./PUNCT 
+Durung/PART weruh/VERB ,/PUNCT Lin/PROPN ./PUNCT 
+Ning/PART sing/PRON dak/PRON ajak/VERB durung/PART gelem/VERB ,/PUNCT Dhik/PROPN ./PUNCT 
+“/PUNCT Sapa/PRON ,/PUNCT Mas/NOUN ?/PUNCT "/PUNCT 
+Mbok/PRON aku/PRON ditepangne/VERB ?/PUNCT 
+Wong/NOUN ngendi/PRON ,/PUNCT jenenge/_ jeneng/NOUN e/PRON sapa/PRON ./PUNCT 
+Jenenge/_ Jeneng/NOUN e/PRON Lintang/PROPN Widyani/PROPN ./PUNCT 
+Kaya/SCONJ ombak/NOUN mecah/VERB watu/NOUN karang/NOUN ,/PUNCT atiku/_ ati/NOUN ku/PRON rasane/_ rasa/NOUN e/DET kemepyar/VERB ./PUNCT 
+Namung/ADV isa/AUX nyebut/VERB jenenge/_ jeneng/NOUN e/PRON saka/ADP njero/NOUN ati/NOUN ./PUNCT 
+“/PUNCT Gampang/ADJ ./PUNCT Suk/ADV emben/ADV dak/PRON kenalne/VERB ./PUNCT "/PUNCT 
+Ayo/ADV mulih/VERB ,/PUNCT Lin/PROPN ./PUNCT 
+Aku/PRON selak/ADJ nggarap/VERB revisianku/_ revisian/NOUN ku/PRON ./PUNCT ”/PUNCT 
+Alesanku/_ Alesan/NOUN ku/PRON muga/ADV wae/ADV isa/AUX kanggo/SCONJ ngadem/VERB amuk/ADJ rasa/NOUN jiwaku/_ jiwa/NOUN ku/PRON ./PUNCT 
+Aku/PRON pancen/ADV durung/PART wani/ADJ blaka/VERB babagan/ADP rasa/NOUN tresna/VERB marang/ADP dheweke/PRON ./PUNCT 
+Sanajan/SCONJ wis/AUX suwe/ADJ anggonku/_ anggon/NOUN ku/PRON kekancan/VERB karo/ADP Lintang/PROPN ./PUNCT 
+Swasana/NOUN kantin/NOUN kampus/NOUN wis/AUX lekas/VERB sepi/ADJ ./PUNCT 
+Aku/PRON sakloron/NUM banjur/ADV metu/VERB saka/ADP panggonan/NOUN mau/ADV ./PUNCT 
+Lintang/PROPN bali/VERB menyang/ADP kelase/ADV ,/PUNCT aku/PRON dhewe/DET mbacutne/VERB laku/NOUN tekan/VERB perpustakaan/X ./PUNCT 
+Kudu/AUX golek/VERB referensi/NOUN tambahan/NOUN kanggo/SCONJ ngompliti/VERB data/NOUN ./PUNCT 
+Rampung/VERB semester/NOUN wolu/NOUN iki/DET ,/PUNCT aku/PRON kudu/AUX wis/AUX wisuda/VERB ./PUNCT 
+Werna/NOUN tanduran/NOUN parine/_ pari/NOUN e/DET uga/ADV wis/AUX semburat/VERB kuning/ADJ ./PUNCT 
+Banjur/ADV digapit/VERB karo/ADP pring/NOUN sing/PRON wis/AUX cumepak/VERB ana/VERB ing/ADP sandinge/NOUN ./PUNCT 
+Sawise/SCONJ digapit/VERB karo/ADP kayu/NOUN ,/PUNCT banjur/ADV dipaku/VERB ./PUNCT 
+Gegambaran/NOUN swasana/NOUN sawah/NOUN amba/ADJ ,/PUNCT kebak/ADJ tanduran/NOUN pari/NOUN ,/PUNCT dumadakan/ADV liwat/VERB ing/ADP pikiran/NOUN ./PUNCT 
+Sawahe/_ Sawah/NOUN e/DET bapak/NOUN pancen/ADV kapetung/VERB amba/ADJ ./PUNCT 
+Ana/VERB kira-kira/ADV patang/NUM pathok/NOUN ./PUNCT 
+Persis/ADJ ana/VERB sisih/NOUN kidul/NOUN dhewe/DET mepet/VERB kali/NOUN proyek/NOUN ./PUNCT 
+Nek/SCONJ pas/ADJ ora/PART repot/ADJ urusan/NOUN kampus/NOUN ,/PUNCT aku/PRON mesthi/AUX tansah/ADV sumadya/VERB ngewangi/VERB bapak/NOUN ./PUNCT 
+Dadi/VERB anak/NOUN lanang/NOUN siji-sijine/_ siji-siji/NUM e/DET ana/VERB ing/ADP kulawarga/NOUN iki/DET ,/PUNCT aku/PRON kaya/SCONJ kudu/AUX bisa/AUX tumandang/VERB gawe/VERB ana/VERB ing/ADP ara-ara/NOUN ./PUNCT 
+Wayah/NOUN mopok/NOUN galengan/NOUN ,/PUNCT aku/PRON ya/PART melu/VERB nyemplung/VERB gupak/VERB lendhut/NOUN sawah/NOUN ./PUNCT 
+Wayah/NOUN matun/VERB ,/PUNCT saben/DET esuk/NOUN aku/PRON nggawa/VERB sorok/NOUN ,/PUNCT dak/PRON jepit/VERB ing/ADP boncengan/NOUN pit/NOUN onthel/NOUN ./PUNCT 
+Gowes/VERB bablas/ADV matun/VERB ,/PUNCT karo/ADP sangu/NOUN sega/NOUN pecel/NOUN sing/PRON dak/PRON tuku/VERB saka/ADP nggone/NOUN Yu/PROPN Narti/PROPN ./PUNCT 
+Nek/SCONJ mung/ADV kulit/NOUN dadi/VERB ireng/ADJ merga/SCONJ kenek/VERB sorot/NOUN srengenge/NOUN ,/PUNCT aku/PRON wis/AUX ora/PART kaget/ADJ ./PUNCT 
+Dadi/ADV kelingan/VERB ature/_ atur/NOUN e/DET Pakde/PROPN Ratno/PROPN biyen/ADV nalika/SCONJ isih/ADV sugeng/ADJ ./PUNCT 
+Rasah/VERB isin/ADJ dadi/VERB anake/_ anak/NOUN e/DET wong/NOUN tani/NOUN ./PUNCT 
+Ora/PART ana/VERB tani/NOUN ,/PUNCT apa/ADV bisa/AUX awake/PRON dewe/PRON mangan/VERB sega/NOUN ?/PUNCT 
+Pakde/PROPN Ratno/PROPN aweh/VERB semangat/NOUN ./PUNCT 
+Pancen/ADV bener/ADJ ,/PUNCT arepa/NOUN bisa/AUX tuku/VERB beras/NOUN ,/PUNCT nanging/CCONJ nek/SCONJ ora/PART ana/VERB petani/NOUN ,/PUNCT lha/INTJ arep/AUX sapa/PRON sing/PRON nggarap/VERB sawah/NOUN ?/PUNCT 
+Sapa/PRON sing/PRON gelem/VERB gupak/VERB endhut/NOUN lan/CCONJ panas-panasan/VERB ana/VERB ing/ADP ngisor/NOUN sorot/NOUN srengenge/NOUN ?/PUNCT 
+Mula/ADV banjur/ADV aku/PRON manteb/ADJ njupuk/VERB jurusan/NOUN Agrobisnis/PROPN ing/ADP Fakultas/PROPN Pertanian/PROPN ./PUNCT 
+Saliyane/ADV merga/SCONJ aku/PRON seneng/VERB nggulawenthah/VERB tanduran/NOUN ,/PUNCT aku/PRON uga/ADV seneng/VERB babagan/ADP bisnis/X pertanian/X ./PUNCT 
+Saliyane/ADP kuwi/PRON ,/PUNCT aku/PRON ya/PART kepengin/VERB ngawujudake/VERB impenku/_ impen/NOUN ku/PRON wiwit/ADP biyen/ADV ./PUNCT 
+Urip/VERB ana/VERB ing/ADP ndesa/NOUN ning/PART isa/AUX tetep/ADV produktif/ADJ ./PUNCT 
+Bisa/AUX paweh/VERB kabecikan/NOUN tumrap/ADP lingkungan/NOUN sekitar/ADJ ./PUNCT 
+Alon-alon/ADJ aku/PRON ngajak/VERB kanca/NOUN karang/NOUN taruna/NOUN gawe/VERB bedhengan/NOUN kanggo/SCONJ ngingu/VERB lele/NOUN organik/ADJ ./PUNCT 
+Nganggo/VERB tanduran/NOUN azola/NOUN sing/PRON bisa/AUX digunakake/VERB kanggo/ADP pakan/NOUN ternak/NOUN ./PUNCT 
+Budi/NOUN daya/X lele/NOUN organik/ADJ iki/DET pancen/ADV durung/PART ana/VERB neng/ADP ndesaku/_ ndesa/NOUN ku/PRON ./PUNCT 
+Mbok/PART menawa/SCONJ uga/ADV aku/PRON bisa/AUX nyalon/VERB lurah/NOUN ./PUNCT 
+Nek/SCONJ iki/PRON pengangen-angen/NOUN sing/PRON kedhuwuren/ADJ ./PUNCT 
+Alon-alon/ADJ bentelan/NOUN mau/ADV dak/PRON unggahne/VERB neng/ADP jok/NOUN mburi/NOUN montorku/_ montor/NOUN ku/PRON ./PUNCT 
+Dina/NOUN iki/DET kudu/AUX rampung/VERB nancepne/VERB memedi/NOUN manuk/NOUN iki/DET ./PUNCT 
+Tali/NOUN rafia/NOUN sakgulung/_ sak/NUM gulung/NOUN wis/AUX cemanthel/NOUN neng/ADP ngisor/NOUN setang/NOUN montor/NOUN ./PUNCT 
+Muga-muga/ADV isa/AUX gawe/VERB buyar/VERB manuk/NOUN emprit/NOUN sing/PRON ora/PART kapok/ADJ anggone/SCONJ menclok/VERB ./PUNCT 
+Sakgulung/_ Sak/NUM gulung/NOUN jala/NOUN plastik/NOUN ukuran/NOUN kira-kira/ADV sepuluh/NUM meter/NOUN bakal/AUX dak/PRON jembreng/VERB ana/VERB sak/NUM ndhuwure/NOUN pathok/NOUN sawah/NOUN ./PUNCT 
+Ben/SCONJ kaya/ADP sawahe/_ sawah/NOUN e/DET tangga/NOUN ,/PUNCT ketutup/VERB jala/NOUN amba/ADJ ./PUNCT 
+Tujuwane/_ Tujuwan/NOUN e/DET ya/PART mung/ADV siji/NUM ,/PUNCT nyuda/VERB emprit/NOUN sing/PRON ndhisiki/VERB manen/VERB woh/NOUN pari/NOUN ./PUNCT 
+Saliyane/ADP alami/ADJ ,/PUNCT wis/AUX akeh/ADJ kang/PRON mbuktekake/VERB ,/PUNCT nek/SCONJ ngingu/VERB lele/NOUN kanthi/SCONJ nggunakake/VERB tanduran/NOUN azola/NOUN kuwi/DET luwih/ADV ngirit/VERB dhuwit/NOUN ./PUNCT 
+Tangan/NOUN sepuh/ADJ bapak/NOUN isih/ADV kuwat/ADJ njunjung/VERB bentelan/NOUN pring/NOUN sing/PRON wis/AUX dipasangi/VERB trontong/NOUN tilas/NOUN wadhah/NOUN susu/NOUN kang/PRON diisi/VERB krikil/NOUN mau/ADV ./PUNCT 
+Bar/ADP iki/PRON ,/PUNCT tugas/NOUN kampus/NOUN wis/AUX ngawe-awe/VERB njaluk/VERB digarap/VERB ./PUNCT 
+Watara/ADP seminggu/NOUN sesuk/ADV aku/PRON ora/PART bisa/AUX mbantu/VERB bapak/NOUN ./PUNCT 
+Skripsiku/_ Skripsi/NOUN ku/PRON kudu/AUX ndang/ADV final/ADJ ./PUNCT 
+“/PUNCT Lintang/PROPN ki/DET sapa/PRON ,/PUNCT Ngger/PROPN ?/PUNCT ”/PUNCT pitakone/VERB ibu/NOUN ./PUNCT 
+Awakku/_ Awak/NOUN ku/PRON kaya/SCONJ ora/PART nduwe/VERB daya/NOUN ./PUNCT 
+Arep/AUX ngobahne/VERB sirah/NOUN ,/PUNCT nanging/CCONJ dumadakan/ADV krasa/VERB kaya/SCONJ mlebu/VERB ing/ADP puseran/NOUN ./PUNCT 
+Mubeng-mubeng/VERB ,/PUNCT banjur/ADV netraku/_ netra/NOUN ku/PRON nutup/VERB maneh/ADV ./PUNCT 
+Aku/PRON durung/PART bisa/AUX semaur/VERB ./PUNCT 
+Janto/PROPN ,/PUNCT isih/ADV mumet/ADJ ,/PUNCT Le/NOUN ?/PUNCT 
+Awakmu/PRON semaput/VERB kawit/ADP wingi/ADV ./PUNCT 
+Gur/NOUN nyebut/VERB jeneng/NOUN Lintang/PROPN wae/ADV ./PUNCT 
+Tangane/_ Tangan/NOUN e/DET Ibu/NOUN ngusap/VERB rambutku/_ rambut/NOUN ku/PRON ./PUNCT 
+Ya/INTJ Allah/PROPN ,/PUNCT aku/PRON lagi/AUX isa/AUX eling/VERB ./PUNCT 
+Rong/NUM dina/NOUN kepungkur/ADJ sawise/SCONJ ketemu/VERB bocah/NOUN wadon/NOUN ,/PUNCT geganthilane/VERB atiku/_ ati/NOUN ku/PRON ./PUNCT 
+Aku/PRON nggeblag/VERB saknalika/SCONJ krungu/VERB kabar/NOUN sing/PRON gawe/VERB jantungku/_ jantung/NOUN ku/PRON kaya/SCONJ oncat/VERB saka/ADP panggone/_ panggo/NOUN e/DET ./PUNCT 
+Undangan/NOUN werna/NOUN wungu/ADJ sing/PRON diterake/VERB Bima/PROPN ,/PUNCT dhuh/INTJ …/PUNCT gawe/VERB remuk/ADJ atiku/_ ati/NOUN ku/PRON ./PUNCT 
+Lintang/PROPN sing/PRON dak/PRON gadhang-gadhang/VERB jebul/ADV mung/ADV isa/AUX dak/PRON sawang/VERB ./PUNCT 
+Jodho/NOUN pancen/ADV tan/PART kena/AUX kinira/VERB ./PUNCT 
+Lintang/PROPN jebul/ADV arep/AUX dirabi/VERB Ryan/PROPN ./PUNCT 
+Kancaku/_ Kanca/NOUN ku/PRON uga/ADV sak/NUM angkatan/NOUN biyen/ADV jaman/NOUN SMA/PROPN ,/PUNCT nanging/CCONJ beda/VERB sekolahan/NOUN ./PUNCT 
+Ora/PART ana/VERB angin/NOUN ,/PUNCT ora/PART ana/VERB bledheg/NOUN lha/INTJ kok/ADV undangan/NOUN sing/PRON dak/PRON waca/VERB iki/DET wis/AUX gawe/VERB ambyar/ADJ ?/PUNCT 
+Jaman/NOUN semana/DET ,/PUNCT Prabu/PROPN Kelana/PROPN Sewandana/PROPN saka/ADP kraton/NOUN ing/ADP Ponorogo/PROPN kesengsem/VERB marang/ADP Dewi/PROPN Sanggalangit/PROPN saka/ADP Kediri/PROPN ./PUNCT 
+Prabu/PROPN Kelana/PROPN Sewandana/PROPN banjur/ADV ngutus/VERB Bujang/PROPN Ganong/PROPN menyang/ADP Kediri/PROPN ,/PUNCT nanging/CCONJ ora/PART bisa/AUX kasil/VERB ./PUNCT 
+Tresna/NOUN ora/PART salah/ADJ ./PUNCT 
+Sing/DET salah/ADJ kuwi/DET anggonku/_ anggon/NOUN ku/PRON ngampet/VERB rasa/NOUN sing/PRON kebacuten/ADJ ./PUNCT 
+Watara/ADP semenit/NOUN ,/PUNCT aku/PRON bola-bali/ADV unjal/VERB ambegan/NOUN ./PUNCT 
+Sawise/SCONJ rada/ADV katrem/ADJ ,/PUNCT dak/PRON coba/VERB tangi/VERB ./PUNCT 
+Dak/PRON sendhekne/VERB gegerku/_ geger/NOUN ku/PRON ana/VERB ing/ADP tembok/NOUN kamar/NOUN ./PUNCT 
+Istighfar/INTJ bola-bali/ADV dak/PRON ucapne/_ ucap/VERB e/DET ./PUNCT 
+Astaghfirullah/INTJ …/PUNCT sepisan/NUM maneh/ADV lambeku/_ lambe/NOUN ku/PRON ngucap/VERB dikir/NOUN ./PUNCT 
+Manawa/SCONJ sasi-sasi/VERB liyane/_ liya/ADJ e/DET ,/PUNCT ya/PART paling/ADV banter/ADJ [/PUNCT njamas/VERB ]/PUNCT lima/NUM nganti/ADP 10/NUM pusaka/NOUN ./PUNCT 
+"/PUNCT Kosokbaline/ADV ,/PUNCT manawa/SCONJ Sura/PROPN bisa/AUX nganti/ADP atusan/NUM wilah/NOUN [/PUNCT pusaka/NOUN ]/PUNCT ,/PUNCT ”/PUNCT ujare/_ ujar/VERB e/DET Gondo/PROPN nalika/SCONJ ditemoni/VERB Solopos.com/PROPN ing/ADP daleme/_ dalem/NOUN e/DET ,/PUNCT Kemis/PROPN (/PUNCT 5/NUM //PUNCT 8/NUM //PUNCT 2022/NUM )/PUNCT ./PUNCT 
+Tata/NOUN cara/NOUN njamas/VERB pusaka/NOUN ,/PUNCT jarene/_ jare/VERB e/DET Gondo/PROPN ,/PUNCT bisa/AUX mangan/VERB wektu/NOUN telung/NUM dina/NOUN nganti/ADP limang/NUM dina/NOUN gumantung/VERB abot/ADJ -/PUNCT entenge/_ enteng/ADJ e/DET teyeng/NOUN ing/ADP wilah/NOUN ./PUNCT 
+Saliyane/ADP kuwi/PRON ,/PUNCT ana/VERB tata/NOUN cara/NOUN liya/ADJ sing/PRON ora/PART mung/ADV awates/VERB ngumbah/VERB utawa/CCONJ ngresiki/VERB pusaka/NOUN ./PUNCT 
+Ana/VERB donga-donga/NOUN mligi/ADJ kang/PRON disuwun/VERB kanggo/SCONJ ngresiki/VERB njeron/NOUN pusaka/NOUN ./PUNCT 
+Gondo/PROPN njlentrehake/VERB tata/NOUN cara/NOUN njamas/VERB pusaka/NOUN iku/DET diwiwiti/VERB kanthi/ADP cara/NOUN nyopot/VERB wilah/NOUN saka/ADP wadahe/_ wadah/ADJ e/DET ./PUNCT 
+Sabanjure/ADV dikum/VERB banyu/NOUN kang/PRON wus/AUX dicampur/VERB kembang/NOUN telon/NOUN ./PUNCT 
+Kembang/NOUN telon/NOUN kuwi/DET dadi/VERB simbol/NOUN ruh/NOUN ,/PUNCT jiwa/NOUN ,/PUNCT lan/CCONJ badan/NOUN ./PUNCT 
+Saliyane/ADP iku/PRON ,/PUNCT nuduhake/VERB anane/_ ana/VERB e/DET telung/NUM materi/NOUN yaiku/AUX wesi/NOUN ,/PUNCT waja/NOUN ,/PUNCT lan/CCONJ pamor/NOUN jroning/ADP wilah/NOUN ./PUNCT 
+Sawuse/SCONJ dikum/VERB banyu/NOUN kembang/NOUN telon/NOUN ,/PUNCT pusaka/NOUN banjur/ADV dikum/VERB maneh/ADV nanging/CCONJ nganggo/VERB fermentasi/X banyu/NOUN degan/NOUN ./PUNCT 
+Tujuwane/_ Tujuwan/NOUN e/DET kanggo/SCONJ nglorot/VERB teyeng-teyeng/NOUN sing/PRON maune/ADV nemplek/VERB ing/ADP pusaka/NOUN kuwi/DET ./PUNCT 
+“/PUNCT Umume/ADV banyu/NOUN fermentasi/X kuwi/DET nganggo/VERB campuran/NOUN banyu/NOUN degan/NOUN lan/CCONJ jeruk/NOUN nipis/NOUN utawa/CCONJ woh/NOUN pace/NOUN ,/PUNCT ”/PUNCT ujare/_ ujar/VERB e/PRON ./PUNCT 
+Miturut/VERB Gondo/PROPN ,/PUNCT anggone/SCONJ ngekum/VERB pusaka/NOUN kuwi/DET bisa/AUX mangan/VERB wektu/NOUN sedina/NOUN wutuh/ADJ nganti/ADP telung/NUM dina/NOUN ,/PUNCT gumantung/VERB teyenge/_ teyeng/NOUN e/DET ./PUNCT 
+Sawuse/ADP iku/PRON banjur/ADV diputihke/VERB nganggo/VERB Arsenic/PROPN Trioxide/PROPN 99/NUM %/SYM //PUNCT As2O3/PROPN ./PUNCT 
+Mula/ADV kuwi/DET ,/PUNCT pamor/NOUN utawa/CCONJ motif/NOUN ing/ADP pusaka/NOUN iku/DET bakal/AUX cemlorot/VERB maneh/ADV ./PUNCT 
+Sawuse/SCONJ pamore/_ pamor/NOUN e/DET metu/VERB ,/PUNCT pusaka/NOUN banjur/ADV diborehi/VERB lenga/NOUN ./PUNCT 
+Gondo/PROPN ngarani/VERB opahe/_ opah/NOUN e/DET njamas/VERB pusaka/NOUN gumantung/VERB gedhe-cilike/_ gedhe-cilik/ADJ e/DET pusaka/NOUN lan/CCONJ panjaluke/_ panjaluk/NOUN e/DET sing/PRON duwe/VERB pusaka/NOUN ./PUNCT 
+Nanging/ADV rata-rata/NOUN opahe/_ opah/NOUN e/DET sakgarapan/NOUN njamas/VERB pusaka/NOUN Rp30.000/NUM nganti/ADP luwih/ADV saka/ADP Rp100.000/NOUN ./PUNCT 
+Opahe/_ Opah/NOUN e/PRON beda-beda/VERB ,/PUNCT nanging/CCONJ aku/PRON ya/PART ora/PART saklek/VERB ./PUNCT 
+"/PUNCT Ana/VERB sing/PRON sak/NUM pusaka/NOUN wae/ADV [/PUNCT bayarane/_ bayaran/NOUN e/DET ]/PUNCT nganti/ADP atusan/NUM ewu/NUM ,/PUNCT ”/PUNCT piterange/_ piterang/VERB e/PRON ./PUNCT 
+Gondo/PROPN wus/AUX suwe/ADJ nggiluti/VERB katrampilan/NOUN dadi/VERB tukang/NOUN jamas/VERB pusaka/NOUN ,/PUNCT udakara/ADV wus/AUX 22/NUM taun/NOUN ./PUNCT 
+Ora/PART mung/ADV awates/VERB njamas/VERB pusaka/NOUN ,/PUNCT Gondo/PROPN uga/ADV dadi/VERB pewarang/NOUN lan/CCONJ meranggi/NOUN (/PUNCT tukang/NOUN gawe/VERB warangka/NOUN pusaka/NOUN )/PUNCT ./PUNCT 
+Mula/ADV kuwi/PRON ,/PUNCT Gondo/PROPN ngrumangsani/VERB kudu/AUX bisa/AUX njamas/VERB pusaka/NOUN ./PUNCT 
+Tujuwane/_ Tujuwan/NOUN e/DET supaya/SCONJ pusaka/NOUN bisa/AUX resik/ADJ njaba/X njerone/_ njero/NOUN e/DET ./PUNCT 
+“/PUNCT Sadurunge/SCONJ lan/CCONJ sawuse/SCONJ digawekake/VERB warangka/NOUN ,/PUNCT pusaka/NOUN iku/DET kudu/AUX dijamas/VERB ,/PUNCT ”/PUNCT ujare/_ ujar/VERB e/DET Gondo/PROPN ./PUNCT 
+Dina/NOUN iki/DET lemes/ADJ atiku/_ ati/NOUN ku/PRON ,/PUNCT jenengku/_ jeneng/NOUN ku/PRON klebu/VERB salah/ADJ sijining/NUM daptar/NOUN pegawe/NOUN sing/PRON kena/VERB PHK/PROPN ./PUNCT 
+Wiwit/ADP sesuk/ADV wis/AUX ora/PART prelu/VERB mlebu/VERB nyambut/VERB gawe/VERB ./PUNCT 
+Ya/PART pancen/ADV ,/PUNCT oleh/VERB pesangon/NOUN nanging/CCONJ ora/PART sepiraa/ADJ ./PUNCT 
+Durung/PART suwe/ADJ anggonku/_ anggon/NOUN ku/PRON dadi/VERB buruh/NOUN ing/ADP pabrik/NOUN tekstil/NOUN iki/DET ,/PUNCT kok/ADV ya/PART ana/VERB wae/ADV alangane/_ alangan/NOUN e/DET ./PUNCT 
+Mbiyen/ADV nyambut/VERB gawe/VERB neng/ADP toko/NOUN kayu/NOUN ya/PART mandeg/VERB ,/PUNCT tokone/_ toko/NOUN e/DET kukut/VERB ./PUNCT 
+Pancen/ADV angel/ADJ golek/VERB gaweyan/NOUN ,/PUNCT wis/AUX oleh/VERB beras/NOUN sak/NUM thekem/NOUN ,/PUNCT kudu/AUX bolong/ADJ takire/_ takir/NOUN e/DET ./PUNCT 
+“/PUNCT Mas/PROPN Wukir/PROPN ,/PUNCT mbok/PRON aku/PRON dikancani/VERB neng/ADP daleme/_ dalem/NOUN e/DET Mbah/PROPN Carik/PROPN ,/PUNCT ”/PUNCT swarane/_ swara/NOUN e/DET Riris/PROPN sore/NOUN iki/DET rada/ADV ngleremke/VERB pikir/NOUN ./PUNCT 
+Sapa/PRON sing/PRON ora/PART lerem/ADJ yen/SCONJ sing/PRON ngundang/VERB jenengmu/_ jeneng/NOUN mu/PRON kuwi/DET kenya/NOUN manis/ADJ kinyis-kinyis/ADJ ?/PUNCT 
+“/PUNCT Ana/VERB apa/PRON ta/PART kok/ADV sowan/VERB Mbah/PROPN Carik/PROPN ?/PUNCT ”/PUNCT 
+Riris/PROPN mesem/VERB ,/PUNCT dhuuhh/INTJ ../PUNCT samsaya/ADV bungah/ADJ rasane/_ rasa/NOUN e/DET atiku/_ ati/NOUN ku/PRON !/PUNCT 
+“/PUNCT Saben/DET Slasa/PROPN karo/ADP Kemis/PROPN sore/NOUN aku/PRON ngrewangi/VERB Mbah/PROPN Carik/PROPN ,/PUNCT karo/CCONJ sinau/VERB ./PUNCT “/PUNCT 
+Gelem/VERB ya/PART ,/PUNCT Mas/PROPN Wukir/PROPN ?/PUNCT 
+Aku/PRON manthuk/VERB ./PUNCT 
+Ora/PART suwe/ADJ Riris/PROPN wis/AUX ngethapel/VERB ana/VERB ing/ADP goncengan/NOUN pit/NOUN montor/NOUN sing/PRON durung/PART rampung/VERB lebone/_ lebo/NOUN e/DET ./PUNCT 
+Mesakake/ADJ Riris/PROPN yen/SCONJ kudu/AUX mlaku/VERB dhewe/ADV ./PUNCT 
+Mlebu/VERB latar/NOUN daleme/_ dalem/NOUN e/DET Mbah/PROPN Carik/PROPN ,/PUNCT wis/AUX ana/VERB bocah-bocah/NOUN cilik/ADJ sing/PRON nyekel/VERB buku/NOUN ./PUNCT 
+Ana/VERB sing/PRON cekikikan/VERB dhewe/ADV ,/PUNCT ana/VERB sing/PRON nggambar/VERB ,/PUNCT ana/VERB sing/PRON nata/VERB bukune/_ buku/NOUN e/DET kancane/_ kanca/NOUN e/PRON ,/PUNCT ana/VERB sing/PRON rebutan/VERB ./PUNCT 
+“/PUNCT Kulanuwun/INTJ ,/PUNCT Mbah/PROPN Carik/PROPN ./PUNCT ”/PUNCT 
+Bocah-bocah/NOUN cilik/ADJ iku/DET padha/ADJ sumringah/ADJ weruh/VERB Riris/PROPN ./PUNCT 
+Mbah/PROPN Carik/PROPN mbukak/VERB lawang/NOUN tengah/NOUN karo/SCONJ nggawa/VERB kerdhus/NOUN ,/PUNCT gage/ADV aku/PRON mbiyantu/VERB jupuk/VERB kerdhus/NOUN iku/DET saka/ADP Mbah/PROPN Carik/PROPN sing/PRON wis/AUX sepuh/ADJ ./PUNCT 
+Daleme/_ dalem/NOUN e/DET Mbah/PROPN Carik/PROPN ora/PART adoh/ADJ saka/ADP omahku/_ omah/NOUN ku/PRON ,/PUNCT nanging/CCONJ yen/SCONJ mlaku/VERB ya/PART kudu/AUX liwat/VERB kreteg/NOUN sing/PRON saben/DET wayah/NOUN surup/ADV rada/ADV ndrawasi/VERB ./PUNCT 
+“/PUNCT Weehh/INTJ ,/PUNCT kowe/PRON ta/PART ,/PUNCT Kir/PROPN ?/PUNCT Kadingaren/VERB ngetok/VERB ?/PUNCT ”/PUNCT 
+Mbah/PROPN Carik/PROPN katon/VERB bungah/ADJ ./PUNCT 
+“/PUNCT Nggih/INTJ ,/PUNCT Mbah/PROPN ./PUNCT Wau/ADV ngrencangi/VERB Riris/PROPN ./PUNCT "/PUNCT 
+Wonten/VERB acara/NOUN napa/PRON ta/PART ,/PUNCT Mbah/PROPN ?/PUNCT 
+Kok/ADV rame/ADJ ?/PUNCT 
+Mbah/PROPN Carik/PROPN malah/ADV ngguyu/VERB keprungu/VERB pitakonku/_ pitakon/NOUN ku/PRON ./PUNCT 
+Karo/SCONJ rada/ADV nggablog/VERB gegerku/_ geger/NOUN ku/PRON ,/PUNCT Mbah/PROPN Carik/PROPN lenggah/VERB ./PUNCT 
+Wis/AUX setaun/NOUN kepungkur/ADJ omahku/_ omah/NOUN ku/PRON iki/DET dadi/VERB jujugan/NOUN bocah-bocah/NOUN sing/PRON padha/ADJ gelem/VERB sinau/VERB lan/CCONJ maca/VERB buku/NOUN ./PUNCT 
+Eman-eman/VERB yen/SCONJ buku-buku/NOUN sing/PRON ana/VERB ing/ADP lemari/NOUN gedhe/ADJ kae/DET mung/ADV aku/PRON sing/PRON isa/AUX maca/VERB ./PUNCT 
+“/PUNCT Mbah/PROPN Carik/PROPN niku/DET kados/ADP perpustakaan/X desa/NOUN ,/PUNCT Mas/PROPN Wukir/PROPN ,/PUNCT ”/PUNCT Riris/PROPN semaur/VERB karo/SCONJ nggawa/VERB buku/NOUN pirang-pirang/DET ./PUNCT 
+Wis/AUX seminggu/NOUN uga/ADV aku/PRON nyilih/VERB buku-bukune/_ buku-buku/NOUN e/DET Mbah/PROPN Carik/PROPN ./PUNCT 
+Kabeh/PRON bab/ADP tandur/NOUN lan/CCONJ ternak/NOUN ./PUNCT 
+Wis/AUX seminggu/NOUN aku/PRON nganggur/VERB ,/PUNCT nanging/CCONJ ora/PART suwuk/X ./PUNCT 
+Kaya-kayane/ADV aku/PRON mathuk/ADJ lan/CCONJ yakin/ADJ ,/PUNCT modhal/NOUN saka/ADP pesangon/NOUN wis/AUX manteb/ADJ arep/AUX dak/PRON cakake/VERB mrintis/VERB ing/ADP pangudi/NOUN ./PUNCT 
+Kir/PROPN ,/PUNCT kowe/PRON ya/PART aja/PART kalah/ADJ karo/ADP bocah-bocah/NOUN cilik/ADJ kae/DET ./PUNCT 
+Ayo/ADV ,/PUNCT jupuka/VERB siji/NUM buku/NOUN sing/PRON mbok/PRON senengi/VERB ,/PUNCT wacanen/VERB ./PUNCT 
+"/PUNCT Sesuk/ADV aku/PRON pengen/VERB ngerti/VERB tekan/VERB ngendi/PRON anggonmu/_ anggon/NOUN mu/PRON mudheng/ADJ karo/ADP buku/NOUN sing/PRON mbok/PRON waca/VERB iku/DET !/PUNCT ”/PUNCT 
+Mbah/PROPN Carik/PROPN katon/VERB padhang/ADJ tuking/ADP uripe/_ urip/NOUN e/PRON ./PUNCT 
+Owalah/INTJ ,/PUNCT lega/ADJ atiku/_ ati/NOUN ku/PRON yen/SCONJ Riris/PROPN durung/PART ana/VERB sing/PRON nembung/VERB ./PUNCT 
+Kuwi/PRON mau/ADV kabeh/DET saka/SCONJ anane/_ ana/VERB e/DET buku/NOUN ./PUNCT 
+Aku/PRON manthuk-manthuk/VERB ./PUNCT 
+Migunani/VERB yen/SCONJ awak/NOUN dhewe/DET gelem/VERB ndhudhah/VERB isi/NOUN sajroning/NOUN buku-buku/NOUN kuwi/DET ./PUNCT 
+Riris/PROPN ngetokake/VERB kothak/NOUN plastik/NOUN isine/_ isi/NOUN e/DET bakpao/NOUN ./PUNCT 
+"/PUNCT Mangga/ADV dipuncobi/VERB ,/PUNCT kirang/ADJ punapa/PRON mangke/ADV kula/PRON dipunsanjangi/VERB ,/PUNCT ”/PUNCT Riris/PROPN uga/ADV nawani/VERB aku/PRON ./PUNCT 
+"/PUNCT Dhik/PROPN ,/PUNCT kok/ADV sajak/SCONJ sregep/ADJ maca/VERB buku/NOUN resep/NOUN ./PUNCT Apa/PRON wis/AUX ana/VERB sing/PRON nembung/VERB ta/PART ?/PUNCT ”/PUNCT aku/PRON takon/VERB ./PUNCT 
+Weruh/VERB aku/PRON lungguh/VERB ing/ADP ngisor/NOUN wit/NOUN pete/NOUN ,/PUNCT Riris/PROPN melu/VERB nglemprak/VERB ./PUNCT 
+Riris/PROPN crita/VERB yen/SCONJ daleme/_ dalem/NOUN e/DET Mbah/PROPN Carik/PROPN ,/PUNCT sasi/NOUN ngarep/ADJ arep/AUX dikukuhake/VERB karo/ADP Pak/PROPN Camat/PROPN dadi/VERB rintisan/NOUN Taman/PROPN Baca/PROPN Desa/PROPN Carikan/PROPN ./PUNCT 
+Badhe/AUX nyuwun/VERB priksa/VERB ./PUNCT 
+Saperangan/DET wektu/NOUN kliwat/VERB ,/PUNCT samsaya/ADV akeh/ADJ bocah-bocah/NOUN tangga/NOUN desa/NOUN kang/PRON melu/VERB amor/NOUN ./PUNCT 
+Mbah/PROPN Carik/PROPN dhewe/DET wis/AUX seda/VERB ,/PUNCT nanging/CCONJ melu/VERB menangi/VERB buku-buku/NOUN koleksine/_ koleksi/NOUN e/PRON dadi/VERB bibit/NOUN taman/NOUN waca/VERB ing/ADP Desa/PROPN Carikan/NOUN ./PUNCT 
+Wukir/PROPN wis/AUX manteb/ADJ dadi/VERB tani/NOUN woh/NOUN naga/NOUN ,/PUNCT lagi/AUX ngenteni/VERB panen/NOUN ./PUNCT 
+Sasi/NOUN ngarep/ADJ iku/DET ,/PUNCT aku/PRON uga/ADV oleh/VERB pesenan/NOUN snack/X kanggo/ADP tamu/NOUN ./PUNCT 
+Buku/NOUN resep/NOUN lawas/ADJ iku/DET uga/ADV ora/PART njlimet/ADJ ,/PUNCT gampang/ADJ ./PUNCT 
+Aku/PRON neng/ADP kene/ADV ,/PUNCT Ris/PROPN !/PUNCT 
+Endah/ADJ penake/_ penak/ADJ e/DET urip/VERB kaya/ADP Mbah/PROPN Carik/PROPN ,/PUNCT ayem/ADJ ./PUNCT 
+Ora/PART ,/PUNCT aku/PRON mung/ADV mbayangake/VERB yen/SCONJ dadi/VERB Mbah/PROPN Carik/PROPN kae/DET katon/VERB ayem/ADJ ./PUNCT 
+Buku/NOUN iku/DET tibake/VERB ora/PART ana/VERB tembung/NOUN amoh/ADJ apa/PRON maneh/ADV lawas/ADJ lan/CCONJ kuna/ADJ ./PUNCT 
+Riris/PROPN mesem/VERB ayu/ADJ banget/ADV ./PUNCT 
+Sing/PRON kanggo/ADP Taman/PROPN Baca/PROPN ya/PART mung/ADV pendhapa/NOUN ,/PUNCT dadi/VERB lemari-lemari/NOUN gedhe/ADJ kabeh/DET saiki/ADV metu/VERB ana/VERB ing/ADP pendhapa/NOUN ./PUNCT 
+“/PUNCT Lha/INTJ terus/ADV ,/PUNCT Mbah/PROPN Carik/PROPN lenggah/VERB ngendi/PRON ,/PUNCT Dhik/PROPN ?/PUNCT ”/PUNCT 
+Mbah/PROPN Carik/PROPN lenggahe/X tetep/ADV ing/ADP paviliun/NOUN mburi/NOUN sing/PRON sanding/NOUN kebon/NOUN lan/CCONJ tanduran/NOUN apotek/NOUN hidup/ADJ kae/DET ./PUNCT 
+Nanging/ADV arep/AUX dadi/VERB tani/NOUN wae/ADV ,/PUNCT buku-buku/NOUN sing/PRON dak/PRON silih/VERB iku/DET pancen/ADV kebak/ADJ mupangate/_ mupangat/NOUN e/DET ./PUNCT 
+Saka/ADP bukune/_ buku/NOUN e/DET Mbah/PROPN Carik/PROPN uga/ADV ,/PUNCT aku/PRON saiki/ADV dadi/VERB nduwe/VERB karep/NOUN ora/PART mburuh/VERB maneh/ADV ./PUNCT 
+Jaman/NOUN semana/DET Mbah/PROPN Carik/PROPN lak/PART wis/AUX nate/ADV sekolah/VERB ing/ADP negara/NOUN Landa/PROPN ./PUNCT 
+Lemari-lemari/NOUN gedhe/ADJ wis/AUX diresiki/VERB ./PUNCT 
+Iki/PRON mau/ADV aku/PRON mampir/VERB maneh/ADV kanggo/SCONJ nyiapake/VERB sasi/NOUN ngarep/ADJ ./PUNCT 
+Buku-bukune/_ Buku-buku/NOUN e/DET Mbah/PROPN Carik/PROPN iku/DET tibake/VERB akeh/ADJ tenan/ADV ./PUNCT 
+Bocah/NOUN sakloron/NUM iku/DET dadi/VERB conto/NOUN liyane/_ liya/ADJ e/DET ,/PUNCT yen/SCONJ di-PHK/VERB rasah/_ ra/PART usah/VERB wedi/ADJ anggere/SCONJ sregep/ADJ maca/VERB lan/CCONJ usaha/NOUN ngupaya/VERB upa/PRON ./PUNCT 
+Riris/PROPN wis/AUX nduwe/VERB usaha/NOUN katering/NOUN snack/X ,/PUNCT sing/PRON ngrewangi/VERB kanca-kancane/_ kanca-kanca/NOUN e/PRON ./PUNCT 
+Iki/PRON kabeh/DET saka/ADP Riris/PROPN ,/PUNCT yen/SCONJ jaman/NOUN semana/DET Wukir/PROPN ora/PART ngesir/VERB kenya/NOUN manis/ADJ iku/DET ,/PUNCT ora/PART bakal/AUX melu/VERB sregep/ADJ ngeterake/VERB neng/ADP daleme/_ dalem/NOUN e/DET Mbah/PROPN Carik/PROPN ./PUNCT 
+Wukir/PROPN saiki/ADV uga/ADV melu/VERB dadi/VERB sukarelawan/NOUN nunggoni/VERB taman/NOUN waca/VERB ,/PUNCT gentenan/VERB karo/ADP liyane/_ liya/ADJ e/DET ./PUNCT 
+Buku-buku/NOUN sing/PRON ana/VERB ing/ADP perpustakaan/X mandiri/NOUN kuwi/DET samsaya/ADV rena-rena/ADJ ,/PUNCT saya/ADV komplit/ADJ ,/PUNCT akeh/ADJ lan/CCONJ dadi/VERB jujugan/NOUN bocah/NOUN sekolah/NOUN yen/SCONJ nggarap/VERB tugas/NOUN saka/ADP gurune/_ guru/NOUN e/DET ./PUNCT 
+Karo/SCONJ nyicil/VERB tuku/VERB iki/PRON kuwi/PRON kayata/ADP pring/NOUN lan/CCONJ liyane/_ liya/ADJ e/DET ,/PUNCT nyicil/VERB macul/VERB lan/CCONJ nyirami/VERB ,/PUNCT mbesiki/VERB ,/PUNCT lan/CCONJ ndangir/VERB ./PUNCT 
+Kebon/NOUN mburi/NOUN arep/AUX dak/PRON tanduri/VERB winih/NOUN kates/NOUN Mboyolali/PROPN ,/PUNCT ngarep/NOUN arep/AUX dak/PRON gawe/VERB para-para/NOUN kanggo/ADP winih/NOUN woh/NOUN naga/NOUN merah/ADJ ./PUNCT 
+Ibu/NOUN sing/PRON isih/ADV nunggu/VERB ing/ADP pinggir/NOUN dipan/NOUN banjur/ADV ngadeg/VERB ,/PUNCT njupuk/VERB sak/NUM gelas/NOUN teh/NOUN anget/ADJ sing/PRON wes/AUX sumadya/VERB ing/ADP nakas/NOUN ./PUNCT 
+Kaya/ADP Aziz/PROPN sak/NUM kanca/NOUN nek/SCONJ mbok/PRON tinggal/ADV ngurusi/VERB kolam/NOUN lele/NOUN organikmu/_ organik/ADJ mu/PRON kuwi/DET ,/PUNCT apa/PRON ya/PART isa/ADJ ?/PUNCT 
+Alhamdulillah/INTJ kula/PRON sampun/AUX lulus/VERB ,/PUNCT Pak/PROPN ,/PUNCT Bu/PROPN ./PUNCT 
+Kanthi/ADP rasa/NOUN bungah/ADJ ,/PUNCT dak/PRON rangkul/VERB wong/NOUN tuwaku/_ tuwa/ADJ ku/PRON sakloron/NUM ./PUNCT 
+"/PUNCT Kados/ADV dereng/ADV saged/AUX nampi/VERB kasunyatan/NOUN niki/DET ,/PUNCT ”/PUNCT nek/SCONJ karo/ADP bapak/NOUN aku/PRON ora/PART bisa/AUX goroh/VERB ./PUNCT 
+Bocah/NOUN enom/ADJ saiki/ADV racake/ADV akeh/ADJ sing/PRON lali/VERB karo/ADP kabudayane/_ kabudaya/NOUN e/PRON dhewe/DET ./PUNCT 
+Lha/INTJ ning/PART nek/SCONJ bapak/NOUN biyen/ADV sida/AUX lunga/VERB ,/PUNCT ora/PART ana/VERB maneh/ADV sing/PRON bakal/AUX nerusne/VERB garapan/NOUN sawahe/_ sawah/NOUN e/DET Kakungmu/_ Kakung/PROPN mu/PRON ./PUNCT 
+Sampun/AUX damel/VERB Ibu/NOUN kuwatir/ADJ ./PUNCT 
