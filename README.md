@@ -2,7 +2,7 @@
 
 ### Deskripsi Proyek
 
-Proyek ini merupakan bagian dari skripsi saya yang berfokus pada penerapan Part-of-Speech (POS) Tagging untuk data teks berbahasa Jawa (Ngoko & Krama) menggunakan algoritma Hidden Markov Model (HMM) dengan Algoritma Baum Welch. Proyek ini bertujuan untuk mengetahui akurasi HMM terhadap performa model POS Tagging.
+Proyek ini merupakan bagian dari skripsi saya yang berfokus pada penerapan Part of Speech (POS) Tagging untuk data teks berbahasa Jawa (Ngoko & Krama) menggunakan algoritma Hidden Markov Model (HMM) dengan Algoritma Baum Welch. Proyek ini bertujuan untuk mengetahui akurasi HMM terhadap performa model POS Tagging.
 
 ### Fitur Utama
 
